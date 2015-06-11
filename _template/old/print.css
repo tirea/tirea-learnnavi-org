@@ -1,0 +1,12 @@
+html {background-color: white !important;}
+body {color: black !important;background-color: white !important;font-size: 12pt !important;}
+a {text-decoration: underline !important;color: black !important;}
+a.brand {color: black !important;background-color: white !important;}
+div.navbar {display: none !important;}
+h1.posttitle {color: black !important;}
+.smiley, .wink, .cheesy, .grin {display: none !important;}
+//span {color: black !important;}
+//.red, .orange, .yellow, .green, .blue, .violet {text-decoration: underline !important;}
+#disqus_thread {display: none !important;}
+#prevpost, #nextpost {display: none !important;}
+footer {display: none !important;}

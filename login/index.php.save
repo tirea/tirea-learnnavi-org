@@ -1,0 +1,54 @@
+<?php require('_login.php'); ?>
+
+<html>
+<head>
+<title>Logged In - Tirea Aean</title>
+<link rel="icon" type="image/png" href="/images/favicon.png">
+<link rel="stylesheet" type="text/css" href
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="text/JavaScript">
+<!--
+function redirect(num)
+{
+var newurl="http://<?php echo $_SERVER["HTTP_HOST"]; ?>/login/delete.php?file="+num;
+window.location.href = newurl;
+}
+//-->
+</script>
+</head>
+<body>
+<div class="navbar navbar-fixed-top"><div class="navbar-inner"><div class="container">
+<a class="brand" href="../index.html">Tirea Aean <sub>Spirit Blue</sub></a>
+<ul class="nav">
+<li><a href="../index.html">Home</a></li>
+<li><a href="../posts/">Blog</a></li>
+<li class="active"><a href="../login/login.php">Login</a></li>
+<li><a href="../login/logout.php">Logout</a></li>
+<li><a href="../posts.rss"><img src="http://i.imgur.com/rXncM.png" alt="RSS icon" style="border: 0; "/></a></li>
+</ul></div></div></div>
+
+<div class="container">
+<div class="page-header"><h1 class="posttitle">Dashboard</h1>
+<small class="posttimestamp">2012-30-10 18:15</small></div>
+
+<p class="postpreview"><h3>Welcome back <?php echo $login->username; ?></h3>
+<h4>Thank you for logging in.</h4>
+<hr>  
+<a href="new.php"><h3>Make New Post</h3></a>
+<h4><?php system("date"); ?></h4>
+<hr>
+<a href="../_posts"><h3>See Current Posts</h3></a>
+<h4>Check out all raw .post files</h4>
+<hr>
+<h3>Delete Post</h3>
+<input name="ID" type="text" value="" id="redir"><input type="button" value="Delete" onclick="redirect(document.getElementById('redir').value);">
+<hr>
+</p>
+
+<footer>
+<p><sup>powered by <a href="https://github.com/akiwiguy/sitegen">sitegen</a> <a href="http://twitter.github.com/bootstrap/">bootstrap</a></sup></p>
+</footer>
+</div>
+</body>
+</html>

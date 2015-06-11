@@ -1,0 +1,262 @@
+body {
+	padding-top: 60px;
+	margin-left:0;
+	margin-right:0;
+	color: #bbb;
+	background-color: #0f0f0f;
+	font: 15px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.banner {
+	background-image: url("/res/atokirina.jpg");
+	background-position: center;
+	width: 100%;
+	height: 200px;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto;
+}
+
+a {
+	text-decoration: none;
+	color: #2dabe0;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+div {
+	display: block;
+}
+
+.desc {
+	color: #900;
+	border-bottom: 1px dotted #900;
+	cursor: pointer;
+}
+
+.container {
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 360px;
+}
+
+.logo {
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	position: absolute;
+}
+
+.brand {
+	display: block;
+	font-size:30px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #eee;
+	padding: 10px 10px 3px;
+	background-color:#0f0f0f;
+}
+
+a.brand:hover {
+	color: #2dabe0;
+	/*color: #00ff00;*/
+	text-decoration: none;
+}
+
+#brand-sub {
+	font-size: 14px;
+	color: #858585;
+	font-weight: normal;
+}
+
+.navbar {
+	position: absolute;
+	background-color: #383838;
+	left: 0;
+	right: 0;
+	border-bottom: 1px solid #222;
+}
+
+ul, ol {
+	padding: 0;
+}
+
+.nav {
+	list-style: none;
+	position: relative;
+	left: 0;
+	display: block;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border: 1px solid #eee;
+}
+
+li {
+	line-height: 16px;
+}
+
+.active {
+	font-weight: bold;
+}
+
+.navbar .nav > li {
+	text-align: left;
+	border: 1px solid #eee;
+}
+
+.navbar .nav > li > a {
+	display: block;
+	text-decoration: none;
+	float: none;
+	font-size:18px;
+	padding: 20px;
+	color: #eee;
+}
+
+.navbar .nav > li > a:hover {
+	text-decoration: none;
+	background-color:#fff;
+	color:#383838;
+}
+
+.page-header {
+	padding-bottom: 10px;
+}
+
+.posttitle {
+	color: #fff;
+	font-size: 36px;
+	font-weight: bold;
+}
+
+a.posttitle:hover {
+	text-decoration: none;
+	color: #2dabe0;
+}
+
+.posttimestamp { 
+	border-bottom: 4px 
+}
+		
+.postpreview { 
+	border-top: 1px 
+}
+
+footer { 
+	margin-top: 18px; 
+	text-align: center; 
+	border-top: 1px solid #eeeeee; 
+	padding-top: 5px; 
+}
+
+footer p sup a {
+	font-weight: bold;
+}
+
+.navi {
+	color: RoyalBlue;
+	font-weight: bold;
+	font-family: Papyrus,fantasy;
+}
+.red {
+	color: red;
+}
+.orange {
+	color: orange;
+}
+.yellow {
+	color: yellow;
+}
+.green {
+	color: green;
+}
+.blue {
+	color: blue;
+}
+.purple {
+	color: purple;
+}
+.cyan {
+	color: cyan;
+}
+.turquoise {
+	color: turquoise;
+}
+.deepskyblue {
+	color: deepskyblue;
+}
+.magenta {
+	color: magenta;
+}
+.brown {
+	color: brown;
+}
+.cnga {
+	color: #FFD633;
+}
+.cnavi {
+	color: #4D94FF;
+}
+.ctaron {
+	color: #0066FF;
+}
+.cyu {
+	color: #00B8E6;
+}
+.civ {
+	color: #4D94FF;
+}
+.lime {
+	color: lime;
+}
+.violet {
+	color: violet;
+}
+
+ul.nobullets {
+	list-style: none;
+}
+ul.lindent, ol.lindent {
+        padding-left: 40px !important;
+}
+.big {
+	font-size: 2.25em;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.vtr {
+	color: #8303FF;
+	font-weight: bold;
+}
+.vin {
+	color: lime;
+	font-weight: bold;
+}
+.ag {
+	color: cyan;
+	font-weight: bold;
+}
+.tp {
+	color: burlywood;
+	font-weight: bold;
+}
+.ac {
+	color: orchid;
+	font-weight: bold;
+}
+.adj {
+	color: peachpuff;
+	font-weight: bold;
+}
+
+.gdocblue {
+	color: #4D90FE;
+}
