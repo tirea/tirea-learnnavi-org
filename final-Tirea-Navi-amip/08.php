@@ -1,69 +1,21 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8"/>
-    <link rel="icon" type="image/png" href="img/tireaaean-icon.png"/>
     <link id="styles" rel="stylesheet" href="res/style.css"/>
+    <link rel="icon" type="image/png" href="img/tireaaean-icon.png"/>
     <title>&lt;iv&gt;</title>
     <!-- ^ Edit here the page's title that will be shown on the browser's tab -->
   </head>
   <body>
-    <div class="mainbar" id="header">
-      <img class="avatar" src="img/tireaaean.jpg" alt="*"/>
-      <span class="avtr1">Tirea Aean</span>
-      <br />
-      <span class="avtr2">The Blue One</span>
-      <div class="tsaheylu">
-        <hr />
-        <a href="index.html">Home</a>
-        <br />
-        <a href="sounds.html">Sounds</a>
-        <br />
-        <a href="grammar.html">Grammar</a>
-        <br />
-        <a href="links.html">Links</a>
-        <br />
-        <a href="downloads.html">Downloads</a>
-      </div>
-      <hr />
-      <div class="social">
-        <a href="http://facebook.com/tirea" target="_blank" title="Find Tirea Aean on Facebook">
-          <img class="icons" src="img/FB-Logo.png" alt="Facebook"/>
-        </a>
-        <a href="http://twitter.com/TireaAean" target="_blank" title="Find Tirea Aean on Twitter">
-          <img class="icons" src="img/TwitterLogo_blue.png" alt="Twitter"/>
-        </a>
-        <a href="http://tireaaean.tumblr.com" target="_blank" title="Find Tirea Aean on Tumblr">
-          <img class="icons" src="img/tumblr_logo_white_blue_64.png" alt="Tumblr"/>
-        </a>
-        <a href="http://youtube.com/TireaAean" target="_blank" title="Find Tirea Aean on YouTube">
-          <img class="icons" src="img/YouTube-logo.png" alt="YouTube"/>
-        </a>
-        <a href="https://plus.google.com/109355985030739224338/posts" target="_blank" title="Find Tirea Aean on Goolge+">
-          <img class="icons" src="img/Google-plus.png" alt="Google+"/>
-        </a>
-        <hr />
-        <p>
-        MSN sn: tireaaean@live.com<br />
-        AIM sn: tireaaean<br />
-        ICQ #: 608035304<br />
-        Skype sn: tireaaean
-        </p>
-      </div>
-    </div>
-    <!-- space for content and stuff -->
-    <div class="main-header2 cover">
-      <span class="titlename">Tirea Na'vi</span>
-      <p class="titletext">
-        Na'vi Lessons for Non-linguists, by Tirea Aean
-      </p>
-    </div>
-    <!-- The next div is for lesson conten ans more -->
+    <?php include "navbar.php" ?>
+    <?php include "header.php" ?>
+    <!-- The next div is for lesson content and more -->
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson Eight: iv</h1>
-      <a id="prevpost" href="07.html" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="09.html" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="07.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
+      <a id="nextpost" href="09.php" style="float:right;padding-right:4%;">Next -&gt;</a>
       <br />
       <p>
         <span class="navi">Kaltxì</span>. <img src="img/smiley.gif"/>
@@ -77,7 +29,7 @@
           <span class="green">
             ìm
           </span>
-        </strong> do, if you remember those from <a href="http://tirea.learnnavi.org/posts/two.html">a previous lesson</a>.
+        </strong> do, if you remember those from <a href="02.php">a previous lesson</a>.
       </p>
       <h2 id="1">iv - When It's Required</h2>
       <p>
@@ -159,7 +111,7 @@
         Each of these sentences has two actions. The first one causes the second one to have iv inside. The actions which cause iv to be used are all marked as <em>vtrm.</em> or <em>vim.</em> in the dictionary.
       </p>
       <p>
-        Side Note: Any <em>vtrm.</em> can be used alone like a regular <em>vtr.</em> See <a href="http://tirea.learnnavi.org/posts/one.html">Lesson One</a> about using <em>vtr.</em> words.
+        Side Note: Any <em>vtrm.</em> can be used alone like a regular <em>vtr.</em> See <a href="http://tirea.learnnavi.org/posts/one.php">Lesson One</a> about using <em>vtr.</em> words.
       </p>
       <p id="modals">Anyway, Here they are, listed out:</p>
       <p>
@@ -404,68 +356,10 @@
           Update 11-Mar-2015 to include <strong>sto</strong> (<em>to refuse</em>)
         </em>
       </p>
-      <a id="prevpost" href="07.html" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="09.html" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="07.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
+      <a id="nextpost" href="09.php" style="float:right;padding-right:4%;">Next -&gt;</a>
     </div>
-    <div class="last-header cover">
-      Website Administrator: <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a> | Designer of this website: <a href="http://forum.learnnavi.org/profile/?u=10322">Tìtstewan</a> | This site was created by members of the <a href="http://learnnavi.org/">LearnNa'vi.org</a> forum.
-      <br />
-      <b>'Ivong Na'vi!</b>
-    </div>
-    <div id="headerToggle">
-      <ul class="nav">
-        <li>
-          <a class="toggle" href="#header"></a>
-          <div>
-            <div class="nav-column">
-              <img class="avatar" src="img/tireaaean.jpg" alt="*"/>
-              <span class="avtr1">Tirea Aean</span>
-              <br />
-              <span class="avtr2">The Blue One</span>
-              <hr />
-              <table class="bartable">
-                <tr>
-                  <td class="cellone">
-                    <p>
-                      MSN sn: tireaaean@live.com<br />
-                      AIM sn: tireaaean<br />
-                      ICQ #: 608035304<br />
-                      Skype sn: tireaaean
-                    </p>
-                    <hr />
-                    <a href="http://facebook.com/tirea" target="_blank" title="Find Tirea Aean on Facebook">
-                      <img class="icons" src="img/FB-Logo.png" alt="Facebook"/>
-                    </a>
-                    <a href="http://twitter.com/TireaAean" target="_blank" title="Find Tirea Aean on Twitter">
-                      <img class="icons" src="img/TwitterLogo_blue.png" alt="Twitter"/>
-                    </a>
-                    <a href="http://tireaaean.tumblr.com" target="_blank" title="Find Tirea Aean on Tumblr">
-                      <img class="icons" src="img/tumblr_logo_white_blue_64.png" alt="Tumblr"/>
-                    </a>
-                    <a href="http://youtube.com/TireaAean" target="_blank" title="Find Tirea Aean on YouTube">
-                      <img class="icons" src="img/YouTube-logo.png" alt="YouTube"/>
-                    </a>
-                    <a href="https://plus.google.com/109355985030739224338/posts" target="_blank" title="Find Tirea Aean on Goolge+">
-                      <img class="icons" src="img/Google-plus.png" alt="Google+"/>
-                    </a>
-                  </td>
-                  <td class="celltwo">
-                    <a href="index.html">Home</a>
-                    <br />
-                    <a href="sounds.html">Sounds</a>
-                    <br />
-                    <a href="grammar.html">Grammar</a>
-                    <br />
-                    <a href="links.html">Links</a>
-                    <br />
-                    <a href="downloads.html">Downloads</a>
-                  </td>
-                </tr>
-              </table>
-            </div>
-          </div>
-        </li>
-      </ul>
-    </div>
+    <?php include "footer.php" ?>
+    <?php include "mobilenav.php" ?>
   </body>
 </html>
