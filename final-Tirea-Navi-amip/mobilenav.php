@@ -13,12 +13,12 @@
           <table class="bartable">
             <tr>
               <td class="cellone">
-                <p>
-                  MSN sn: tireaaean@live.com<br />
-                  AIM sn: tireaaean<br />
-                  ICQ #: 608035304<br />
-                  Skype sn: tireaaean
-                </p>
+                <table>
+                  <tr><td>MSN:</td> <td>tireaaean@live.com</td></tr>
+                  <!-- AIM sn: tireaaean<br /> -->
+                  <!-- ICQ #: 608035304<br /> -->
+                  <tr><td>Skype:</td> <td>tireaaean</td></tr>
+                </table>
                 <hr />
                 <a href="http://facebook.com/tirea" target="_blank" title="Find Tirea Aean on Facebook">
                   <img class="icons" src="img/FB-Logo.png" alt="Facebook"/>
