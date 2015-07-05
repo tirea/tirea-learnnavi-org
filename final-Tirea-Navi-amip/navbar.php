@@ -34,11 +34,10 @@
       <img class="icons" src="img/Google-plus.png" alt="Google+"/>
     </a>
     <hr />
-    <table>
-    <tr><td>MSN:</td> <td>tireaaean@live.com</td></tr>
-    <!-- AIM sn: tireaaean<br /> -->
-    <!-- ICQ #: 608035304<br /> -->
-    <tr><td>Skype:</td> <td>tireaaean</td></tr>
+    <div class="socspec">MSN:</div>
+    tireaaean@live.com
+    <div class="socspec">Skype:</div>
+    tireaaean
     </table>
   </div>
 </div>'

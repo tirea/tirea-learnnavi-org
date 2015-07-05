@@ -278,6 +278,14 @@ ul.lindent, ol.lindent {
   font-weight: bold;
   }
 
+.socspec {
+  text-align: right;
+  margin: 0;
+  padding: 0;
+  font-size: 9pt;
+  color: #656565;
+  }
+
 /* ----------------------------------------
 Codes for responsibility on mobile devices
 Code-monster - I call it O___o
