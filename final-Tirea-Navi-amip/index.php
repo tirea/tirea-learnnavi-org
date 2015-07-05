@@ -25,7 +25,7 @@
         possible here in all my explanations of the grammar.
       </p>
       <p>
-        Hop on over to the <a href="grammar.html">Grammar</a> section to get started. <img src="img/cheesy.gif"/>
+        Hop on over to the <a href="grammar.php">Grammar</a> section to get started. <img src="img/cheesy.gif"/>
       </p>
       <p>
         And what not. And stuff.
