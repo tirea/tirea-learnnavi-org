@@ -5,7 +5,7 @@
     <link id="styles" rel="stylesheet" href="res/style.css"/>
     <link rel="icon" type="image/png" href="img/tireaaean-icon.png"/>
     <title>Past and Future</title>
-    <!-- ^ Edit here the page's title that will be shown on the browser's tab -->
+    <!-- ^ Edit here the page&#39;s title that will be shown on the browser&#39;s tab -->
   </head>
   <body>
     <?php include "navbar.php" ?>
@@ -18,7 +18,7 @@
       <a id="topnext" href="03.php" style="float: right; padding-right: 4%;">Next -&gt;</a>
       <br />
       <p>
-        <span class="navi">Kaltxì</span>! And welcome to Lesson 2 of Learn Na'vi Grammar the Easy Way.
+        <span class="navi">Kaltxì</span>! And welcome to Lesson 2 of Learn Na&#39;vi Grammar the Easy Way.
       </p>
       <p>Ok so now we discuss how to talk about the past and the future.</p>
       <h2>The Past</h2>
@@ -74,7 +74,7 @@
       </table>
       <p>The pain about this in English is, these are very unpredictable and have to just be memorised.</p>
       <p>
-        <u>In Na'vi</u>, verbs are also changed, but it is very predictable. You just put something inside in order to change it to a specific meaning. For talking about the past, the following are inserted into the Na'vi verb:
+        <u>In Na&#39;vi</u>, verbs are also changed, but it is very predictable. You just put something inside in order to change it to a specific meaning. For talking about the past, the following are inserted into the Na&#39;vi verb:
       </p>
       <table>
         <tr>
@@ -124,7 +124,7 @@
         </i>
       </blockquote>
       <p>
-        As you see, I took advantage of the flexible word order of Na'vi in these examples. :) Also, when speaking or reading, don't put emphasis on the little part that was put in. <u>Rule of thumb</u>: <i>The original verb nearly always keeps its stress</i>.
+        As you see, I took advantage of the flexible word order of Na&#39;vi in these examples. :) Also, when speaking or reading, don&#39;t put emphasis on the little part that was put in. <u>Rule of thumb</u>: <i>The original verb nearly always keeps its stress</i>.
       </p>
       <p>
         By the way, this is a <span class="navi">yerik</span>:
@@ -138,7 +138,7 @@
         <u>In English</u>, to talk about the future, we use a helper verb <i>will</i>. For example, <i>I will eat teylu.</i> and <i>He will help me.</i>
       </p>
       <p>
-        <u>In Na'vi</u>, we don't use a helper verb like <i>will</i>. Instead, like talking about the past, something is put inside the verb that means it will happen in the future. For talking about the future, the following are inserted into verbs:
+        <u>In Na&#39;vi</u>, we don&#39;t use a helper verb like <i>will</i>. Instead, like talking about the past, something is put inside the verb that means it will happen in the future. For talking about the future, the following are inserted into verbs:
       </p>
       <table>
         <tr>
@@ -186,22 +186,22 @@
       </blockquote>
       <p>
         <span class="navi">mìftxele,</span> (<i>by the way, related to this,</i>)<br />
-        <span class="navi">Fì'u lu teylu:</span> (<i>This is teylu</i>)<br />
+        <span class="navi">Fì&#39;u lu teylu:</span> (<i>This is teylu</i>)<br />
         <a href="http://forum.learnnavi.org/mgallery/?sa=item;id=160">
           <img style="width: 600px;" src="http://forum.learnnavi.org/MGalleryItem.php?id=160"/>
         </a>
       </p>
       <p>
-        Even though <span class="navi">srung si</span> (<i>help</i>) is two words, it's best thought of as a single package. It really means to <i>do assistance</i>. So what I really said there is <i>He is about to do assistance to me.</i>
+        Even though <span class="navi">srung si</span> (<i>help</i>) is two words, it&#39;s best thought of as a single package. It really means to <i>do assistance</i>. So what I really said there is <i>He is about to do assistance to me.</i>
       </p>
       <p>
         Also, notice how the <strong>
           <span class="blue">ìy</span>
-        </strong> is put inside the <span class="navi">si</span> part of <span class="navi">srung si</span>. This is how it's done for <i>all other</i> verbs of this kind. Such as <span class="navi">tìkangkem si</span> (<i>to work</i>), <span class="navi">pamrel si</span> (<i>to write</i>), etc. Which brings me to the next point...
+        </strong> is put inside the <span class="navi">si</span> part of <span class="navi">srung si</span>. This is how it&#39;s done for <i>all other</i> verbs of this kind. Such as <span class="navi">tìkangkem si</span> (<i>to work</i>), <span class="navi">pamrel si</span> (<i>to write</i>), etc. Which brings me to the next point...
       </p>
       <h2 id="location">Where do these little bits go, then?</h2>
       <p>
-        So how do I know where in the verb to put these things? Well...it's easiest to use the <a href="http://eanaeltu.learnnavi.org/dicts/NaviDictionary.pdf">LearnNavi dictionary</a>. Here's how it works. To start, here is the entry for <span class="navi">taron</span>:
+        So how do I know where in the verb to put these things? Well...it&#39;s easiest to use the <a href="http://eanaeltu.learnnavi.org/dicts/NaviDictionary.pdf">LearnNavi dictionary</a>. Here&#39;s how it works. To start, here is the entry for <span class="navi">taron</span>:
       </p>
       <blockquote>
         <font face="Times New Roman" size="6pt">
@@ -217,7 +217,7 @@
       <p>
         Look at the part in <span class="blue">blue</span>. That is the pronunciation guide. In some entries, this part looks all scary and has loads of weird looking symbols. But for this blog post and lesson though, we are only concerned about the two <i>
           <span class="red">raised dots</span>
-        </i> which I've coloured <span class="red">red</span> here.
+        </i> which I&#39;ve coloured <span class="red">red</span> here.
       </p>
       <p>
         These <i>
@@ -225,7 +225,7 @@
         </i> show you where to put things in.
       </p>
       <p>
-        This blog post only contains stuff that would go in the <u>first</u> dot's space. Some verbs only have one dot. If so, that's where it goes.
+        This blog post only contains stuff that would go in the <u>first</u> dot&#39;s space. Some verbs only have one dot. If so, that&#39;s where it goes.
       </p>
       <blockquote>
         <font face="Times New Roman" size="6pt">
@@ -241,7 +241,7 @@
       <br />
       <p>
         <span style="font-size: 0.7em">
-          Idea of colouring the verbs as done in this lesson adopted in the style of Neytiri te Tskaha Mo'at'ite (<a href="https://twitter.com/NeytiriTeTskaha">@NeytiriTeTskaha</a>)
+          Idea of colouring the verbs as done in this lesson adopted in the style of Neytiri te Tskaha Mo&#39;at&#39;ite (<a href="https://twitter.com/NeytiriTeTskaha">@NeytiriTeTskaha</a>)
         </span>
       </p>
       <br />

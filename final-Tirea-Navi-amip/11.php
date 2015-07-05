@@ -5,7 +5,7 @@
     <link id="styles" rel="stylesheet" href="res/style.css"/>
     <link rel="icon" type="image/png" href="img/tireaaean-icon.png"/>
     <title>Pum</title>
-    <!-- ^ Edit here the page's title that will be shown on the browser's tab -->
+    <!-- ^ Edit here the page&#39;s title that will be shown on the browser&#39;s tab -->
   </head>
   <body>
     <?php include "navbar.php" ?>
@@ -21,7 +21,7 @@
         <span class="navi">Kaltxì</span> nìmun ma frapo. <img src="img/smiley.gif"/>
       </p>
       <p>
-        This post is about the Na'vi word <span class="navi">pum</span>. It's a word that I constantly see misused. I hope that this blog post will clear up what <span class="navi">pum</span> actually means and how to use it properly.
+        This post is about the Na&#39;vi word <span class="navi">pum</span>. It&#39;s a word that I constantly see misused. I hope that this blog post will clear up what <span class="navi">pum</span> actually means and how to use it properly.
       </p>
       <p>
         According to the dictionary, <span class="navi">pum</span> means <em>one</em>. One as in: this one, that one, the good one, the bad one, my one(mine), your one(yours).. I guess examples would be the best and easiest way of explaining. Here are nearly all the examples of <span class="navi">pum</span> we have from Karyu Pawl:
@@ -43,7 +43,7 @@
         <li>
           <span class="navi">Hufwa mefo leru muntxatu txankrr, mi lu munsnar hona tìflrr a na pum meyawnetuä amip nìwotx.</span>
           <br  />
-            <em>Although they've been mates for a long time, the couple still has cute gentleness like one of two totally new lovers.</em>
+            <em>Although they&#39;ve been mates for a long time, the couple still has cute gentleness like one of two totally new lovers.</em>
         </li>
         <li>
           <span class="navi">Tsatuté lu lora pum alor.</span>
@@ -86,10 +86,10 @@
             <em>Yours.</em> (That is, you’ve thanked me, but I really should be thanking you. The thanks are/should be yours)
         </li>
       </ol>
-      <p>Here are some things I've noticed after looking at all these official examples:</p>
+      <p>Here are some things I&#39;ve noticed after looking at all these official examples:</p>
       <ol class="lindent">
         <li>
-          <span class="navi">pum</span> isn't used/translated as <em>it</em>, but nearly always <em>one</em>
+          <span class="navi">pum</span> isn&#39;t used/translated as <em>it</em>, but nearly always <em>one</em>
         </li>
         <li>
           <span class="navi">pum</span> seems to always occur later on in the sentence

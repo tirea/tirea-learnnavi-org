@@ -5,7 +5,7 @@
     <link id="styles" rel="stylesheet" href="res/style.css"/>
     <link rel="icon" type="image/png" href="img/tireaaean-icon.png"/>
     <title>Numbers</title>
-    <!-- ^ Edit here the page's title that will be shown on the browser's tab -->
+    <!-- ^ Edit here the page&#39;s title that will be shown on the browser&#39;s tab -->
   </head>
   <body>
     <?php include "navbar.php" ?>
@@ -19,18 +19,18 @@
       <br />
       <p>
         <span class="navi">Kaltxì.</span>
-        <img src="img/smiley.gif"/> Let's talk about Na'vi numbers.
+        <img src="img/smiley.gif"/> Let&#39;s talk about Na&#39;vi numbers.
       </p>
       <p>
-        So if you are a fan of AVATAR, you would have noticed that the Na'vi have four-finger hands. (Three fingers and a thumb..)<br />
+        So if you are a fan of AVATAR, you would have noticed that the Na&#39;vi have four-finger hands. (Three fingers and a thumb..)<br />
         <br />
         <img src="img/phpifiRLmPM.jpg"/>
       </p>
-      <p>Because of this, the Na'vi, when counting on hands, only get to eight, and then have to start again. That's the basic idea, or reason behind why groups of eight, and not ten, like most humans (who have five-finger hands).</p>
-      <h2 id="1">How to count in Na'vi:</h2>
+      <p>Because of this, the Na&#39;vi, when counting on hands, only get to eight, and then have to start again. That&#39;s the basic idea, or reason behind why groups of eight, and not ten, like most humans (who have five-finger hands).</p>
+      <h2 id="1">How to count in Na&#39;vi:</h2>
       <div class="endpostpreview"></div>
       <blockquote class="navi">
-        'aw, <u>mu</u>ne, pxey, tsìng, mrr, <u>pu</u>kap, <u>ki</u>nä, vol.<br />
+        &#39;aw, <u>mu</u>ne, pxey, tsìng, mrr, <u>pu</u>kap, <u>ki</u>nä, vol.<br />
         <br />
         vo<u>law</u>, vo<u>mun</u>, vo<u>pey</u>, vo<u>sìng</u>, vo<u>mrr</u>, vo<u>fu</u>, vo<u>hin</u>, <u>me</u>vol.
       </blockquote>
@@ -47,7 +47,7 @@
         one, two, three, four, five, six, seven, eight.<br />
         <br /> eight and one, eight and two, eight and three, eight and four, eight and five, eight and six, eight and seven, two eights.
       </blockquote>
-      <p>That is basically how to count all the fingers on both hands then all the toes on both feet of a Na'vi. To continue, it just follows the pattern.</p>
+      <p>That is basically how to count all the fingers on both hands then all the toes on both feet of a Na&#39;vi. To continue, it just follows the pattern.</p>
       <blockquote class="navi">
         mevo<span style="text-decoration: underline;">law</span>, mevo<span style="text-decoration: underline;">mun</span>, mevo<span style="text-decoration: underline;">pey</span>, mevo<span style="text-decoration: underline;">sìng</span>, mevo<span style="text-decoration: underline;">mrr</span>, mevo<span style="text-decoration: underline;">fu</span>, mevo<span style="text-decoration: underline;">hin</span>, <span style="text-decoration: underline;">pxe</span>vol.<br />
         <br />
@@ -89,21 +89,21 @@
         <br /> seven eights and one, seven eights and two, seven eights and three, seven eights and four, seven eights and five, seven eights and six, seven eights and seven, sixty-four.
       </blockquote>
       <p>
-        It's a whole lot easier to convert Na'vi numbers into English than it is to convert English numbers into Na'vi.<br />
+        It&#39;s a whole lot easier to convert Na&#39;vi numbers into English than it is to convert English numbers into Na&#39;vi.<br />
         <br />
-        To translate a Na'vi number, such as <span class="navi">mevomrr</span>, it can be translated literally then multiplied and added up. <span class="navi">Mevomrr</span> is <em>two eights and five</em>. 2 × 8 + 5 → 16 + 5 = 21. So <span class="navi">mevomrr</span>, <em>two eights and five</em> is Twenty-one (two tens and one).<br />
+        To translate a Na&#39;vi number, such as <span class="navi">mevomrr</span>, it can be translated literally then multiplied and added up. <span class="navi">Mevomrr</span> is <em>two eights and five</em>. 2 × 8 + 5 → 16 + 5 = 21. So <span class="navi">mevomrr</span>, <em>two eights and five</em> is Twenty-one (two tens and one).<br />
         <br />
-        Personally, I think it's still just as useful to know how many groups of eight something is, such as <em>two eights and five</em>. I can imagine that just as well as imagining two tens and one. So translating it further to groups of ten is just a tedious extra step in my opinion. But not everyone can think in groups of eights because they are <em>so</em> used to groups of ten. So doing this may be helpful for some people, even if time-consuming. I think it's just so much easier to learn to think in groups of eight, like the Na'vi. <img src="img/smiley.gif"/>
+        Personally, I think it&#39;s still just as useful to know how many groups of eight something is, such as <em>two eights and five</em>. I can imagine that just as well as imagining two tens and one. So translating it further to groups of ten is just a tedious extra step in my opinion. But not everyone can think in groups of eights because they are <em>so</em> used to groups of ten. So doing this may be helpful for some people, even if time-consuming. I think it&#39;s just so much easier to learn to think in groups of eight, like the Na&#39;vi. <img src="img/smiley.gif"/>
         <br />
         <br />
-        To translate an English number, such as twenty-one into Na'vi, it has to be converted into groups of eight and such first, then translated pretty much literally. Twenty-one is two tens and one. if you divide it into groups of eight, you get 21 ÷ 8 = 2 remainder 5. So twenty-one is <em>two eights and five</em>. Translating that to Na’vi is <span class="navi">mevomrr</span>.<br />
+        To translate an English number, such as twenty-one into Na&#39;vi, it has to be converted into groups of eight and such first, then translated pretty much literally. Twenty-one is two tens and one. if you divide it into groups of eight, you get 21 ÷ 8 = 2 remainder 5. So twenty-one is <em>two eights and five</em>. Translating that to Na’vi is <span class="navi">mevomrr</span>.<br />
         <br />
-        You probobly won't need to use numbers higher than <strong>zam</strong> (<em>sixty-four</em>), or even <strong>mevol</strong> (<em>two eights</em>), but if you do, you can play around with the <a href="http://www.learnnavi.org/navi-numbers">number tool on the main Learn Na'vi website</a>. It shows you how the numbers are made, with a little maths and colours. <img src="img/cheesy.gif"/>
+        You probobly won&#39;t need to use numbers higher than <strong>zam</strong> (<em>sixty-four</em>), or even <strong>mevol</strong> (<em>two eights</em>), but if you do, you can play around with the <a href="http://www.learnnavi.org/navi-numbers">number tool on the main Learn Na&#39;vi website</a>. It shows you how the numbers are made, with a little maths and colours. <img src="img/cheesy.gif"/>
         <br />
         <br /> So now we know how to count and about the pattern of the numbers. How do we use the numbers? Like this:
       </p>
       <blockquote>
-        <span class="navi">Tse'a oel nantangit apxevosìng.</span>
+        <span class="navi">Tse&#39;a oel nantangit apxevosìng.</span>
         <br />
         <em>I see three-eights-and-four viperwolves.</em>
         <br />
@@ -114,7 +114,7 @@
       </blockquote>
       <p>The above can be written with digits like this:</p>
       <blockquote>
-        <span class="navi">Tse'a oel nantangit a34°.</span>
+        <span class="navi">Tse&#39;a oel nantangit a34°.</span>
         <br />
         <em>I see three-eights-and-four viperwolves.</em>
         <br />
@@ -132,9 +132,9 @@
         <li>The digit degree sign is usually put on the opposite side of the a</li>
       </ul>
       <p>
-        And that's pretty much it with numbers.<br />
+        And that&#39;s pretty much it with numbers.<br />
         <br />
-        Hopefully, this has been helpful in understanding and using Na'vi numbers. <img src="img/cheesy.gif"/> Hayalovay.
+        Hopefully, this has been helpful in understanding and using Na&#39;vi numbers. <img src="img/cheesy.gif"/> Hayalovay.
       </p>
       <br />
       <a id="prevpost" style="float:left;padding-left:4%;" href="14.php">&lt;- Previous</a>

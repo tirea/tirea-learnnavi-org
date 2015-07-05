@@ -4,7 +4,7 @@
     <meta charset="UTF-8"/>
     <link rel="icon" type="image/png" href="img/tireaaean-icon.png"/>
     <link id="styles" rel="stylesheet" href="res/style.css"/>
-    <title>Na'vi Grammar Made Simple</title>
+    <title>Na&#39;vi Grammar Made Simple</title>
   </head>
   <body>
     <?php include "navbar.php" ?>
@@ -12,7 +12,7 @@
     <!-- The next div is for lesson content and more -->
     <div class="lesson cover">
       <span class="titlename">
-        Na'vi Grammar Made Simple
+        Na&#39;vi Grammar Made Simple
       </span>
       <div class="tabcont">
         <a href="01.php">
@@ -84,7 +84,7 @@
         <a href="12.php">
           <div class="img">
             <span>12</span>
-            <div class="desc">-ing in Na'vi</div>
+            <div class="desc">-ing in Na&#39;vi</div>
           </div>
         </a>
         <a href="13.php">

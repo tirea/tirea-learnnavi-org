@@ -5,7 +5,7 @@
     <link id="styles" rel="stylesheet" href="res/style.css"/>
     <link rel="icon" type="image/png" href="img/tireaaean-icon.png"/>
     <title>-ri</title>
-    <!-- ^ Edit here the page's title that will be shown on the browser's tab -->
+    <!-- ^ Edit here the page&#39;s title that will be shown on the browser&#39;s tab -->
   </head>
   <body>
     <?php include "navbar.php" ?>
@@ -35,13 +35,13 @@
           <span class="navi">irayo si</span> (for the "<em>thank for</em>" meaning)
         </li>
         <li>
-          <span class="navi">tsap'alute si</span> (for the "<em>apologise for</em>" meaning)
+          <span class="navi">tsap&#39;alute si</span> (for the "<em>apologise for</em>" meaning)
         </li>
         <li>
           <span class="navi">pey</span> (for the "<em>wait for</em>" meaning)
         </li>
         <li>
-          <span class="navi">kllfro'</span> (for the "<em>be responsible for</em>" meaning)
+          <span class="navi">kllfro&#39;</span> (for the "<em>be responsible for</em>" meaning)
         </li>
         <li>
           <span class="navi">tìkangkem si</span> (for the "<em>work on</em>" meaning)
@@ -53,20 +53,20 @@
           <span class="navi">Syurari yerikä irayo si awnga por.</span> "<em>We thank the hexapede for his energy.</em>"
         </li>
         <li>
-          <span class="navi">Fìskxawngìri tsap'alute sängi oe.</span> "<em>I apologise for this moron.</em>"
+          <span class="navi">Fìskxawngìri tsap&#39;alute sängi oe.</span> "<em>I apologise for this moron.</em>"
         </li>
         <li>
-          <span class="navi">Trrayìri ke tsun oe pivey!</span> "<em>I can't wait for tomorrow!</em>"
+          <span class="navi">Trrayìri ke tsun oe pivey!</span> "<em>I can&#39;t wait for tomorrow!</em>"
         </li>
         <li>
-          <span class="navi">Pori kllfro' nga.</span> "<em>You are responsible for him.</em>"
+          <span class="navi">Pori kllfro&#39; nga.</span> "<em>You are responsible for him.</em>"
         </li>
         <li>
           <span class="navi">Tskori po tìkangkem si.</span> "<em>She works on the bow.</em>"
         </li>
       </ul>
       <p>
-        Lastly, don't confuse -<span class="navi">ri</span> with <span class="navi">fpi</span>+. <span class="navi">Fpi</span> means "<em>for</em>" as in "<em>for the sake/benefit of</em>". With <span class="navi">fpi</span>, you are acting to benefit something. E.g. <span class="navi">Oe 'ìyem ngafpi</span>. "<em>I will cook for (the sake of) you.</em>"
+        Lastly, don&#39;t confuse -<span class="navi">ri</span> with <span class="navi">fpi</span>+. <span class="navi">Fpi</span> means "<em>for</em>" as in "<em>for the sake/benefit of</em>". With <span class="navi">fpi</span>, you are acting to benefit something. E.g. <span class="navi">Oe &#39;ìyem ngafpi</span>. "<em>I will cook for (the sake of) you.</em>"
       </p>
       <p>
         <span class="navi">Eywa ngahu!</span>

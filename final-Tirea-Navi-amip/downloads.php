@@ -73,7 +73,7 @@
         </a>
         <a href="http://tirea.learnnavi.org/download/12.pdf">
           <div class="imgd">
-            <div class="descd">12. -ing in Na'vi</div>
+            <div class="descd">12. -ing in Na&#39;vi</div>
           </div>
         </a>
         <a href="http://tirea.learnnavi.org/download/13.pdf">
@@ -108,16 +108,16 @@
           <a href="http://tirea.learnnavi.org/download/">download folder</a> | Some useful stuff you might want to look at or have
         </li>
         <li>
-          <a href="http://tirea.learnnavi.org/download/hkb-kxwerty-mod.apk">hkb-kxwerty-mod.apk</a> | Hacker's Keyboard Mod (KXWERTY for Android)
+          <a href="http://tirea.learnnavi.org/download/hkb-kxwerty-mod.apk">hkb-kxwerty-mod.apk</a> | Hacker&#39;s Keyboard Mod (KXWERTY for Android)
         </li>
         <li>
           <a href="http://tirea.learnnavi.org/download/navkb6.zip">navkb6.zip</a> | KXWERTY for Windows / Mac
         </li>
         <li>
-          <a href="http://tirea.learnnavi.org/generate.php">generate.php</a> | Na'vi Name Generator (An actually good one)
+          <a href="http://tirea.learnnavi.org/generate.php">generate.php</a> | Na&#39;vi Name Generator (An actually good one)
         </li>
         <li>
-          <a href="http://tirea.learnnavi.org/images">images folder</a> | Bunch of old memes and comics and whatnot, some Na'vi-related
+          <a href="http://tirea.learnnavi.org/images">images folder</a> | Bunch of old memes and comics and whatnot, some Na&#39;vi-related
         </li>
       </ul>
     </div>

@@ -1,25 +1,25 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8"/>
     <link id="styles" rel="stylesheet" href="res/style.css"/>
     <link rel="icon" type="image/png" href="img/tireaaean-icon.png"/>
     <title>Order, -l &amp; -t</title>
-    <!-- ^ Edit here the page's title that will be shown on the browser's tab -->
+    <!-- ^ Edit here the page&#39;s title that will be shown on the browser&#39;s tab -->
   </head>
   <body>
     <?php include "navbar.php" ?>
     <?php include "header.php" ?>
-    <!-- The next div is for lesson contenh and more -->
+    <!-- The next div is for lesson content and more -->
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson One: Order, -l, and -t</h1>
       <a id="topnext" href="02.php" style="float:right;padding-right:4%;">Next -&gt;</a>
       <br />
         <p>
-          <span class="navi">Kaltxì</span>! And welcome to Lesson 1 of Learn Na'vi Grammar the Easy Way.
+          <span class="navi">Kaltxì</span>! And welcome to Lesson 1 of Learn Na&#39;vi Grammar the Easy Way.
         </p>
-        <p>Ok so to start, let's talk about how words fit together to make sentences.</p>
+        <p>Ok so to start, let&#39;s talk about how words fit together to make sentences.</p>
         <h2>Word Order</h2>
         <p>
           <u>In English</u>, there is an order which words have to go in order for the sentence makes sense:
@@ -28,14 +28,14 @@
           <span class="blue">people</span> eat <span class="red">vegetables</span>.
         </blockquote>
         <p>
-          It's clear here who is eating what because of the order. We always put <span class="blue">who is doing the eating</span> first, then <i>eat</i> and then <span class="red">what is being eaten</span>. Because of this word order telling us this information of who's eating who, we don't need to change the words themselves. we just put them in their place. If you mix up the words, the meaning completely changes:
+          It&#39;s clear here who is eating what because of the order. We always put <span class="blue">who is doing the eating</span> first, then <i>eat</i> and then <span class="red">what is being eaten</span>. Because of this word order telling us this information of who&#39;s eating who, we don&#39;t need to change the words themselves. we just put them in their place. If you mix up the words, the meaning completely changes:
         </p>
         <blockquote>
           <span class="red">vegetables</span> eat <span class="blue">people</span>.
         </blockquote>
         <p>This has the opposite meaning as above.</p>
         <p>
-          <u>In Na'vi</u>, there is more freedom. This means that the word order doesn't matter as much. Because of that, we need to change the words themselves ever so slightly sometimes in order to keep track of who is eating and what's being eaten. Therefore:
+          <u>In Na&#39;vi</u>, there is more freedom. This means that the word order doesn&#39;t matter as much. Because of that, we need to change the words themselves ever so slightly sometimes in order to keep track of who is eating and what&#39;s being eaten. Therefore:
         </p>
         <blockquote>
           <strong>
@@ -62,7 +62,7 @@
         </blockquote>
         <p>are equal in meaning but these two senteces mean the opposite of all the four sentences above them.</p>
         <h2>Some Stuff</h2>
-        <p>So you may have noticed that the Na'vi words above are these:</p>
+        <p>So you may have noticed that the Na&#39;vi words above are these:</p>
         <ul class="nobullets">
           <li>
             <span class="navi">aysutel</span>
@@ -106,7 +106,7 @@
             <span class="red">it</span>
           </strong>, or <strong>
             <span class="red">ti</span>
-          </strong> on the end. This is, as described above, how we keep track of who's eating what. We put stuff on the end.
+          </strong> on the end. This is, as described above, how we keep track of who&#39;s eating what. We put stuff on the end.
         </p>
         <p>notice:</p>
         <ul class="nobullets">

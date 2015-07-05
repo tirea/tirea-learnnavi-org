@@ -22,28 +22,28 @@
           <a href="https://soundcloud.com/thesoundsofpandora">Official Avatar SoundCloud</a> | <span class="ygold">[NEW!]</span>
         </li>
         <li>
-          <a href="http://dict-navi.com">Dict-Na'vi.com</a> | Online Na'vi Dictionary Search Engine
+          <a href="http://dict-navi.com">Dict-Na&#39;vi.com</a> | Online Na&#39;vi Dictionary Search Engine
         </li>
         <li>
-          <a href="http://learnnavi.org/navi-numbers">Na'vi Numbers</a> | Epic Na'vi Number translator thingy
+          <a href="http://learnnavi.org/navi-numbers">Na&#39;vi Numbers</a> | Epic Na&#39;vi Number translator thingy
         </li>
         <li>
-          <a href="http://www.memrise.com/course/26139/all-navi-vocabulary/">All Na'vi Vocabulary</a> | Learn Na'vi Memrise Course
+          <a href="http://www.memrise.com/course/26139/all-navi-vocabulary/">All Na&#39;vi Vocabulary</a> | Learn Na&#39;vi Memrise Course
         </li>
         <li>
-          <a href="http://www.memrise.com/course/51606/navi-useful-phrases/">Na'vi Useful Phrases</a> | Na'vi Phrases Memrise Course
+          <a href="http://www.memrise.com/course/51606/navi-useful-phrases/">Na&#39;vi Useful Phrases</a> | Na&#39;vi Phrases Memrise Course
         </li>
         <li>
-          <a href="http://naviteri.org">Na'viteri.org</a> | Paul Frommer's Blog
+          <a href="http://naviteri.org">Na&#39;viteri.org</a> | Paul Frommer&#39;s Blog
         </li>
         <li>
-          <a href="http://layonyayo.com">Layon Yayo</a> | Na'vi Web Comic by Eana Unil
+          <a href="http://layonyayo.com">Layon Yayo</a> | Na&#39;vi Web Comic by Eana Unil
         </li>
         <li>
           <a href="http://www.avatarnation.net">Avatar Nation</a> | Avatar Fan Site / Podcast
         </li>
       </ul>
-      <h2>Na'vi Blogs I read</h2>
+      <h2>Na&#39;vi Blogs I read</h2>
       <ul class="nobullets">
         <li>
           <a href="http://tireaaean.wordpress.com">Pìlok Tireayä Aean</a> | Tirea Aean
@@ -58,16 +58,16 @@
           <a href="http://eana-elf.blogspot.com/">Blog of Blue Elf</a> | Blue Elf
         </li>
         <li>
-          <a href="http://leeylan.blogg.se">Le'eylan</a> | Le'eylan
+          <a href="http://leeylan.blogg.se">Le&#39;eylan</a> | Le&#39;eylan
         </li>
         <li>
-          <a href="http://ngawng.blogspot.com">SìLawk LeKye'ung</a> | Ngawng
+          <a href="http://ngawng.blogspot.com">SìLawk LeKye&#39;ung</a> | Ngawng
         </li>
         <li>
           <a href="http://tsyesika.co.uk">Tsyesìkayä Pìlok</a> | Tsyesìka
         </li>
         <li>
-          <a href="http://eanaunil.blogspot.com/">Tskxekeng ne tìyo'</a> | Eana Unil
+          <a href="http://eanaunil.blogspot.com/">Tskxekeng ne tìyo&#39;</a> | Eana Unil
         </li>
       </ul>
     </div>

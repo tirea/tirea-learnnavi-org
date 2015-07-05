@@ -5,7 +5,7 @@
     <link id="styles" rel="stylesheet" href="res/style.css"/>
     <link rel="icon" type="image/png" href="img/tireaaean-icon.png"/>
     <title>&lt;iv&gt;</title>
-    <!-- ^ Edit here the page's title that will be shown on the browser's tab -->
+    <!-- ^ Edit here the page&#39;s title that will be shown on the browser&#39;s tab -->
   </head>
   <body>
     <?php include "navbar.php" ?>
@@ -31,7 +31,7 @@
           </span>
         </strong> do, if you remember those from <a href="02.php">a previous lesson</a>.
       </p>
-      <h2 id="1">iv - When It's Required</h2>
+      <h2 id="1">iv - When It&#39;s Required</h2>
       <p>
         Getting right to the point, here are some examples of when you <em>know</em> you use <strong>
           <span class="civ">iv</span>
@@ -53,13 +53,13 @@
         </li>
         <li>
           <strong>
-            Nga ke zene z<span class="civ">iv</span>a'u.
-          </strong> | <em>You don't need/have to come.</em>
+            Nga ke zene z<span class="civ">iv</span>a&#39;u.
+          </strong> | <em>You don&#39;t need/have to come.</em>
         </li>
         <li>
           <strong>
             Nga zenke t<span class="civ">iv</span>erkup!
-          </strong> | <em>You mustn't die!</em>
+          </strong> | <em>You mustn&#39;t die!</em>
         </li>
         <li>
           <strong>
@@ -78,13 +78,13 @@
         </li>
         <li>
           <strong>
-            Oe nulnew tìkangkem s<span class="civ">iv</span>i nì'awtu.
+            Oe nulnew tìkangkem s<span class="civ">iv</span>i nì&#39;awtu.
           </strong> | <em>I prefer to work alone.</em>
         </li>
         <li>
           <strong>
-            Oe mamay' m<span class="civ">iv</span>akto pa'liti; ke sunu oeru tsakem.
-          </strong> | I tried ride Pa'li; not be-pleasant to me that action. -> <em>I tried out pa'li riding; I don't like it.</em>
+            Oe mamay&#39; m<span class="civ">iv</span>akto pa&#39;liti; ke sunu oeru tsakem.
+          </strong> | I tried ride Pa&#39;li; not be-pleasant to me that action. -> <em>I tried out pa&#39;li riding; I don&#39;t like it.</em>
         </li>
         <li>
           <strong>
@@ -93,12 +93,12 @@
         </li>
         <li>
           <strong>
-            Ayoeng sngä'i tx<span class="civ">iv</span>ula ko.
-          </strong> | <em>Let's start buliding.</em>
+            Ayoeng sngä&#39;i tx<span class="civ">iv</span>ula ko.
+          </strong> | <em>Let&#39;s start buliding.</em>
         </li>
         <li>
           <strong>
-            Var t<span class="civ">iv</span>ìran vaykrr ngal tse'a kilvanit
+            Var t<span class="civ">iv</span>ìran vaykrr ngal tse&#39;a kilvanit
           </strong> | <em>Keep/continue to walk until you see a river.</em>
         </li>
         <li>
@@ -131,7 +131,7 @@
         <tr>
           <td>
             <strong>
-              sngä'i<span style="color:#0f0f0f">....</span>
+              sngä&#39;i<span style="color:#0f0f0f">....</span>
             </strong>
           </td>
           <td>
@@ -167,7 +167,7 @@
             <strong>zenke</strong>
           </td>
           <td>
-            <em>musn't; must not</em>
+            <em>musn&#39;t; must not</em>
           </td>
         </tr>
       </table>
@@ -195,7 +195,7 @@
         </tr>
         <tr>
           <td>
-            <strong>may'</strong>
+            <strong>may&#39;</strong>
           </td>
           <td>
             <em>to try; to sample; to evaluate</em>
@@ -262,7 +262,7 @@
         </li>
         <li>
           <strong>
-            Txewì tskxekeng si fte y<span class="civ">iv</span>ora' säwäsulit
+            Txewì tskxekeng si fte y<span class="civ">iv</span>ora&#39; säwäsulit
           </strong> | <em>Txewì trains/practices in order to win the competition</em>
         </li>
       </ol>
@@ -345,12 +345,12 @@
         </li>
         <li>
           <strong>
-            nawma sa'nok lrrtok s<span class="civ">iv</span>i
+            nawma sa&#39;nok lrrtok s<span class="civ">iv</span>i
           </strong> | <em>May the great mother smile</em>
         </li>
       </ol>
-      <p>Notice the mood here. It's not hard fact, but more like wishing or expressing hope. That's what iv is all about when it's not required by grammar.</p>
-      <p>Popular phrases, examples 15 and 16, have parts left out. It's like in English when you say "Good night", you are leaving off "Have a" or "I hope that you have a"</p>
+      <p>Notice the mood here. It&#39;s not hard fact, but more like wishing or expressing hope. That&#39;s what iv is all about when it&#39;s not required by grammar.</p>
+      <p>Popular phrases, examples 15 and 16, have parts left out. It&#39;s like in English when you say "Good night", you are leaving off "Have a" or "I hope that you have a"</p>
       <p>
         <em>
           Update 11-Mar-2015 to include <strong>sto</strong> (<em>to refuse</em>)

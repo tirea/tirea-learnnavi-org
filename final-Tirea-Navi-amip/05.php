@@ -5,7 +5,7 @@
     <link id="styles" rel="stylesheet" href="res/style.css"/>
     <link rel="icon" type="image/png" href="img/tireaaean-icon.png"/>
     <title>Questions</title>
-    <!-- ^ Edit here the page's title that will be shown on the browser's tab -->
+    <!-- ^ Edit here the page&#39;s title that will be shown on the browser&#39;s tab -->
   </head>
   <body>
     <?php include "navbar.php" ?>
@@ -18,11 +18,11 @@
       <a id="nextpost" href="06.php" style="float:right;padding-right:4%;">Next -&gt;</a>
       <br />
       <p>
-        <span class="navi">Kaltxì nìmun</span>! This time we talk about how to ask and answer questions. Pretty simple stuff. Let's dive right in with some quick vocab. <img src="img/smiley.gif"/>
+        <span class="navi">Kaltxì nìmun</span>! This time we talk about how to ask and answer questions. Pretty simple stuff. Let&#39;s dive right in with some quick vocab. <img src="img/smiley.gif"/>
       </p>
       <h2 id="1">Question Words</h2>
       <p>
-        The question words in Na'vi <em>come from</em> the following words:
+        The question words in Na&#39;vi <em>come from</em> the following words:
       </p>
       <ul class="nobullets">
         <li>
@@ -32,7 +32,7 @@
           <em>person</em>
         </li>
         <li>
-          <span class="navi">'u</span>
+          <span class="navi">&#39;u</span>
           <em>thing</em>
         </li>
         <li>
@@ -49,16 +49,16 @@
         </li>
         <li>
           <span class="navi">
-            <u>fya</u>'o
+            <u>fya</u>&#39;o
           </span>
           <em>way</em>
         </li>
       </ul>
       <p>
-        To form question words like <em>who</em>, <em>what</em>, <em>where</em>, etc., You add a <span class="navi">pe</span>+ (<em>what/which</em>) onto the word. It can go either onto the beginning or onto the end. <span class="navi">Fya'o</span> shortens to <span class="navi">fya</span> in this case. <span class="navi">Pefya / Fyape</span> is by far more common than <span class="navi">fya'ope</span> or <span class="navi">pefya'o</span>. <img src="img/wink.gif"/>
-        And there's the + sign again. Remember a <a href="03.php">few lessons ago</a>, this means that <span class="navi">pe</span> when used on the beginning of a word, may cause the word's first letter to change.
+        To form question words like <em>who</em>, <em>what</em>, <em>where</em>, etc., You add a <span class="navi">pe</span>+ (<em>what/which</em>) onto the word. It can go either onto the beginning or onto the end. <span class="navi">Fya&#39;o</span> shortens to <span class="navi">fya</span> in this case. <span class="navi">Pefya / Fyape</span> is by far more common than <span class="navi">fya&#39;ope</span> or <span class="navi">pefya&#39;o</span>. <img src="img/wink.gif"/>
+        And there&#39;s the + sign again. Remember a <a href="03.php">few lessons ago</a>, this means that <span class="navi">pe</span> when used on the beginning of a word, may cause the word&#39;s first letter to change.
       </p>
-      <p>The question words in Na'vi:</p>
+      <p>The question words in Na&#39;vi:</p>
       <ul class="nobullets">
         <li>
           <span class="navi">
@@ -71,7 +71,7 @@
           <span class="navi">
             pe<u>u</u>
           </span> / <span class="navi">
-            <u>'u</u>pe
+            <u>&#39;u</u>pe
           </span> <em>what</em>
         </li>
         <li>
@@ -106,7 +106,7 @@
       <p>
         Notice that when you use <span class="navi">pe</span>+ on the end of the word, the letter changing bit is avoided. This is handy for people who often forget to change the first letter.
       </p>
-      <p>Using these words is simple, and a lot like English. The only difference is that the word doesn't have a set place in the sentence because Na'vi word order is flexible. So here are some examples of using some of these words:</p>
+      <p>Using these words is simple, and a lot like English. The only difference is that the word doesn&#39;t have a set place in the sentence because Na&#39;vi word order is flexible. So here are some examples of using some of these words:</p>
       <p>
         <u>Examples</u>:
       </p>
@@ -122,13 +122,13 @@
           <em>Why did you bring this creature here?</em>
         </li>
         <li>
-          <span class="navi">Nga za'u ftu peseng?</span>
+          <span class="navi">Nga za&#39;u ftu peseng?</span>
           <br />
           <em>Where do you come from? / Where are you from?</em>
         </li>
       </ol>
       <p>
-        It's pretty standard. (more on words like <span class="navi">fìswiräti</span> and <span class="navi">ftu</span> later)
+        It&#39;s pretty standard. (more on words like <span class="navi">fìswiräti</span> and <span class="navi">ftu</span> later)
       </p>
       <p>
         It is also possible to stick <span class="navi">pe</span>+ onto <u>any</u> noun. That is, <u>any</u> word which is a person, place, or thing.
@@ -178,7 +178,7 @@
         </li>
       </ol>
       <p>
-        The answer to a <span class="navi">srake</span>/<span class="navi">srak</span> question is either <span class="navi">srane</span> (<em>yes</em>) <u>or</u> <span class="navi">kehe</span> (<em>no</em>). It's also possible, like in English, to describe things further than just a yes or no answer after you've answered yes or no.
+        The answer to a <span class="navi">srake</span>/<span class="navi">srak</span> question is either <span class="navi">srane</span> (<em>yes</em>) <u>or</u> <span class="navi">kehe</span> (<em>no</em>). It&#39;s also possible, like in English, to describe things further than just a yes or no answer after you&#39;ve answered yes or no.
       </p>
       <p>
         Hopefully this has been simple and helpful. <img src="img/cheesy.gif"/>

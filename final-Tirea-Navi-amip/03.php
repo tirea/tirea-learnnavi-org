@@ -5,7 +5,7 @@
     <link id="styles" rel="stylesheet" href="res/style.css"/>
     <link rel="icon" type="image/png" href="img/tireaaean-icon.png"/>
     <title>Have, Plurals, Changes</title>
-    <!-- ^ Edit here the page's title that will be shown on the browser's tab -->
+    <!-- ^ Edit here the page&#39;s title that will be shown on the browser&#39;s tab -->
   </head>
   <body>
     <?php include "navbar.php" ?>
@@ -18,12 +18,12 @@
       <a id="topnext" href="04.php" style="float:right;padding-right:4%;">Next -&gt;</a>
       <br />
       <p>
-        <span class="navi">Kaltxì</span>! And welcome to Lesson 3 of Learn Na'vi Grammar The Easy Way.
+        <span class="navi">Kaltxì</span>! And welcome to Lesson 3 of Learn Na&#39;vi Grammar The Easy Way.
       </p>
       <p>This time, we talk about having something, and how to talk about more than one thing.</p>
       <h2 id="1">To Have</h2>
       <p>
-        First, let's talk about having something. You have most likely noticed that a verb <i>to have</i> does not exist in Na'vi. Different languages have different ways of saying things.
+        First, let&#39;s talk about having something. You have most likely noticed that a verb <i>to have</i> does not exist in Na&#39;vi. Different languages have different ways of saying things.
       </p>
       <p>
         <u>In English</u>, we say stuff like this:
@@ -46,7 +46,7 @@
         </li>
       </ul>
       <p>
-        <u>In Na'vi</u>, we say those this way:
+        <u>In Na&#39;vi</u>, we say those this way:
       </p>
       <ul class="nobullets">
         <li>
@@ -78,7 +78,7 @@
           <span class="red">A spear</span>
           <span class="green">is</span>
           <span class="blue">to him</span>
-        </i>. Remember, Na'vi word order is flexible. I chose to write the second one differently. the words used in these examples are as follows:
+        </i>. Remember, Na&#39;vi word order is flexible. I chose to write the second one differently. the words used in these examples are as follows:
       </p>
       <div id="endpostpreview"></div>
       <table>
@@ -170,7 +170,7 @@
         </li>
       </ul>
       <p>
-        <u>In Na'vi</u>, it's a lot more predictable. In fact, it's <i>totally</i> predictable. There are three different things you put <i>onto the beginning</i> of a noun. They are:
+        <u>In Na&#39;vi</u>, it&#39;s a lot more predictable. In fact, it&#39;s <i>totally</i> predictable. There are three different things you put <i>onto the beginning</i> of a noun. They are:
       </p>
       <ul class="nobullets">
         <li>
@@ -189,7 +189,7 @@
       <table>
         <tr>
           <td>
-            <strong>'</strong>
+            <strong>&#39;</strong>
           </td>
           <td>
             ->
@@ -269,7 +269,7 @@
           <strong>k</strong>, <strong>p</strong>, and <strong>t</strong> soften up and become related sounds (made in just about the same area of the mouth) h, f, s
         </li>
         <li>
-          <strong>'</strong> just softens up by going away.
+          <strong>&#39;</strong> just softens up by going away.
         </li>
       </ul>
       <p>Here are some examples, to match the English ones above:</p>
@@ -298,7 +298,7 @@
       </ul>
       <h3>Some notes:</h3>
       <p>
-        When using <strong>ay</strong>+ on a word where the first letter changes, it's okay to just leave off <strong>ay</strong> after having changed the letter. For example:
+        When using <strong>ay</strong>+ on a word where the first letter changes, it&#39;s okay to just leave off <strong>ay</strong> after having changed the letter. For example:
       </p>
       <blockquote>
         <span class="navi">Aysaronyu hahaw.</span> (<i>Hunters sleep.</i>)<br />
@@ -308,7 +308,7 @@
         <span class="navi">Saronyu hahaw.</span>
       </blockquote>
       <p>
-        <strong>me</strong>+, <strong>pxe</strong>+, and <strong>ay</strong>+ aren't the only things that cause this first letter change thing to happen. More on that in a later lesson.
+        <strong>me</strong>+, <strong>pxe</strong>+, and <strong>ay</strong>+ aren&#39;t the only things that cause this first letter change thing to happen. More on that in a later lesson.
       </p>
       <p>
         <u>More Examples</u>:
@@ -316,7 +316,7 @@
       <table>
         <tr>
           <td>
-            <span class="navi">'eylan</span> (<i>friend</i>)
+            <span class="navi">&#39;eylan</span> (<i>friend</i>)
           </td>
           <td>----></td>
           <td>
@@ -343,11 +343,11 @@
         </tr>
         <tr>
           <td>
-            <span class="navi">txumtsä'wll</span> (<i>baja tickler poison squirting plant</i>)
+            <span class="navi">txumtsä&#39;wll</span> (<i>baja tickler poison squirting plant</i>)
           </td>
           <td>----></td>
           <td>
-            <span class="navi">aytumtsä'wll</span> (<i>baja ticklers</i>)
+            <span class="navi">aytumtsä&#39;wll</span> (<i>baja ticklers</i>)
           </td>
         </tr>
         <tr>
@@ -394,7 +394,7 @@
       </p>
       <p>
         <strong>
-          <span class="navi">Fì'u lu kxaylte:</span>
+          <span class="navi">Fì&#39;u lu kxaylte:</span>
         </strong>
         <br/>
         <a href="http://james-camerons-avatar.wikia.com/wiki/Cillaphant">
@@ -403,7 +403,7 @@
       </p>
       <p>
         <strong>
-          <span class="navi">Fì'u lu pxiwll:</span>
+          <span class="navi">Fì&#39;u lu pxiwll:</span>
         </strong>
         <br/>
         <a href="http://james-camerons-avatar.wikia.com/wiki/Hermit_Bud">
@@ -412,7 +412,7 @@
       </p>
       <p>
         <strong>
-          <span class="navi">Fì'u lu txumtsä'wll:</span>
+          <span class="navi">Fì&#39;u lu txumtsä&#39;wll:</span>
         </strong>
         <br/>
         <a href="http://james-camerons-avatar.wikia.com/wiki/Baja_Tickler">
@@ -421,7 +421,7 @@
       </p>
       <p>
         <strong>
-          <span class="navi">Fì'u lu paywll:</span>
+          <span class="navi">Fì&#39;u lu paywll:</span>
         </strong>
         <br/>
         <a href="http://james-camerons-avatar.wikia.com/wiki/Dapophet">
@@ -430,7 +430,7 @@
       </p>
       <p>
         <strong>
-          <span class="navi">Fì'u lu talioang:</span>
+          <span class="navi">Fì&#39;u lu talioang:</span>
         </strong>
         <br/>
         <a href="http://james-camerons-avatar.wikia.com/wiki/Sturmbeest">

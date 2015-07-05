@@ -5,7 +5,7 @@
     <link id="styles" rel="stylesheet" href="res/style.css"/>
     <link rel="icon" type="image/png" href="img/tireaaean-icon.png"/>
     <title>This &amp; That +misc</title>
-    <!-- ^ Edit here the page's title that will be shown on the browser's tab -->
+    <!-- ^ Edit here the page&#39;s title that will be shown on the browser&#39;s tab -->
   </head>
   <body>
     <?php include "navbar.php" ?>
@@ -19,11 +19,11 @@
       <br />
       <p>
         <span class="navi">Kaltxì nìmun</span>. <img src="img/smiley.gif"/>
-        This time, let's talk about "this" and "that" a little bit, and about using words marked as <i>adp.</i> in the dictionary, such as <i>in, under, behind, across</i>, etc.
+        This time, let&#39;s talk about "this" and "that" a little bit, and about using words marked as <i>adp.</i> in the dictionary, such as <i>in, under, behind, across</i>, etc.
       </p>
       <h2 id="1">This and That</h2>
       <p>
-        So, to get started... This and that. How many times have you wanted to say something in Na'vi like <i>This tree is huge</i> and <i>That plant is poisonous</i>, etc? Well, it's super easy to do this. We have <span class="navi">fì</span>- and <span class="navi">tsa</span>- which go onto the beginning of the word.
+        So, to get started... This and that. How many times have you wanted to say something in Na&#39;vi like <i>This tree is huge</i> and <i>That plant is poisonous</i>, etc? Well, it&#39;s super easy to do this. We have <span class="navi">fì</span>- and <span class="navi">tsa</span>- which go onto the beginning of the word.
       </p>
       <p>
         <table>
@@ -60,7 +60,7 @@
         </li>
         <li>
           <strong>
-            Lu <span class="green">tsa</span><span class="blue">'ewll</span> txumnga'.
+            Lu <span class="green">tsa</span><span class="blue">&#39;ewll</span> txumnga&#39;.
           </strong>
           <br />
           <i>
@@ -70,7 +70,7 @@
       </ol>
       <h2 id="2">These and Those</h2>
       <p>
-        <span class="navi">Mìftxele</span>, It's very similar and just as easy to say <i>these</i> and <i>those</i>. It's just <span class="navi">fì</span>- and <span class="navi">tsa</span>- combined with <span class="navi">me</span>+, <span class="navi">pxe</span>+, or <span class="navi">ay</span>+ (remember those? <img src="img/cheesy.gif"/>) So you get:
+        <span class="navi">Mìftxele</span>, It&#39;s very similar and just as easy to say <i>these</i> and <i>those</i>. It&#39;s just <span class="navi">fì</span>- and <span class="navi">tsa</span>- combined with <span class="navi">me</span>+, <span class="navi">pxe</span>+, or <span class="navi">ay</span>+ (remember those? <img src="img/cheesy.gif"/>) So you get:
       </p>
       <div id="endpostpreview"></div>
       <table>
@@ -124,33 +124,33 @@
         </tr>
       </table>
       <p>
-        There's just one exception to this. <span class="navi">'u</span>. for this word, it's always <span class="navi">me</span>+, <span class="navi">pxe</span>+, or <span class="navi">ay</span>+ <i>first</i>, <i>then</i> <span class="navi">fì</span>- or <span class="navi">tsa</span>-. So the following are correct.:
+        There&#39;s just one exception to this. <span class="navi">&#39;u</span>. for this word, it&#39;s always <span class="navi">me</span>+, <span class="navi">pxe</span>+, or <span class="navi">ay</span>+ <i>first</i>, <i>then</i> <span class="navi">fì</span>- or <span class="navi">tsa</span>-. So the following are correct.:
       </p>
       <ul class="nobullets">
         <li>
-          <span class="navi">mefì'u</span>
+          <span class="navi">mefì&#39;u</span>
         </li>
         <li>
-          <span class="navi">pxefì'u</span>
+          <span class="navi">pxefì&#39;u</span>
         </li>
         <li>
-          <span class="navi">ayfì'u</span>
+          <span class="navi">ayfì&#39;u</span>
         </li>
         <li>
-          <span class="navi">mesa'u</span>
+          <span class="navi">mesa&#39;u</span>
         </li>
         <li>
-          <span class="navi">pxesa'u</span>
+          <span class="navi">pxesa&#39;u</span>
         </li>
         <li>
-          <span class="navi">aysa'u</span>
+          <span class="navi">aysa&#39;u</span>
         </li>
       </ul>
       <h2 id="adp">
         More <em>adp.</em> words
       </h2>
       <p>
-        Now. Remember in Lesson Three I said that <span class="navi">me</span>+, <span class="navi">pxe</span>+, and <span class="navi">ay</span>+ weren't the only things that cause a word to change its first letter? Well, I'm about to list <i>every single</i> other word that does this. This would be good to remember. <img src="img/wink.gif"/>
+        Now. Remember in Lesson Three I said that <span class="navi">me</span>+, <span class="navi">pxe</span>+, and <span class="navi">ay</span>+ weren&#39;t the only things that cause a word to change its first letter? Well, I&#39;m about to list <i>every single</i> other word that does this. This would be good to remember. <img src="img/wink.gif"/>
       </p>
       <table>
         <tr>
@@ -298,7 +298,7 @@
           </strong>
           <br />
           <i>
-            Let's celebrate <span class="green">on</span> <span class="blue">this</span> important <span class="blue">day</span>.
+            Let&#39;s celebrate <span class="green">on</span> <span class="blue">this</span> important <span class="blue">day</span>.
           </i>
           <br />
           <br />
@@ -359,7 +359,7 @@
         </li>
         <li>
           <strong>
-            tätxaw <span class="green">sre</span> <span class="blue">fwa sngap zize'</span>
+            tätxaw <span class="green">sre</span> <span class="blue">fwa sngap zize&#39;</span>
           </strong>
           <br />
           <i>
@@ -383,7 +383,7 @@
       <h3 id="notes">Some notes</h3>
       <p>
         As you see, In these numbered examples, the words in green are used as <i>separate words</i> <span class="green">before</span> <span class="blue">the thing</span> they work with. <img src="img/grin.gif"/>
-        If it's working with a single <span class="blue">word</span>, it may go onto the end of the <span class="blue">word</span><span class="green">likethis</span>. So <i>separate before, attached after</i>. All adp. words work like that. The green Na'vi words in the numbered examples make the first letter change thing happen so watch out! <img src="img/wink.gif"/>
+        If it&#39;s working with a single <span class="blue">word</span>, it may go onto the end of the <span class="blue">word</span><span class="green">likethis</span>. So <i>separate before, attached after</i>. All adp. words work like that. The green Na&#39;vi words in the numbered examples make the first letter change thing happen so watch out! <img src="img/wink.gif"/>
       </p>
       <br />
       <a id="prevpost" href="05.php" style="float:left;padding-left:4%;">&lt;- Previous</a>

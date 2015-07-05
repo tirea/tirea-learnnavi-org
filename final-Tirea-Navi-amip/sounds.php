@@ -4,7 +4,7 @@
     <meta charset="UTF-8"/>
     <link rel="icon" type="image/png" href="img/tireaaean-icon.png"/>
     <link id="styles" rel="stylesheet" href="res/style.css"/>
-    <title>Na'vi Sounds</title>
+    <title>Na&#39;vi Sounds</title>
   </head>
   <body>
     <?php include "navbar.php" ?>
@@ -12,10 +12,10 @@
     <!-- The next div is for lesson conten ans more -->
     <div class="lesson cover">
       <span class="titlename">
-        Na'vi Sounds
+        Na&#39;vi Sounds
       </span>
       <p>
-        <span class="navi">Kaltxì</span> ma frapo! This page contains the letters, the corresponding International Phonetics Alphabet (IPA) characters and recordings of the sounds of the Na'vi language. So to practice your pronunciation, click the play button and listen, then try to go along and such.
+        <span class="navi">Kaltxì</span> ma frapo! This page contains the letters, the corresponding International Phonetics Alphabet (IPA) characters and recordings of the sounds of the Na&#39;vi language. So to practice your pronunciation, click the play button and listen, then try to go along and such.
       </p>
       <h2>Vowels</h2>
       <table>
@@ -209,7 +209,7 @@
       <table>
         <tr>
           <td>
-            <span class="tsawl">'</span>
+            <span class="tsawl">&#39;</span>
           </td>
           <td>
             <span class="tsawl">[ʔ]</span>

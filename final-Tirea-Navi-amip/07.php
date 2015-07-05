@@ -5,7 +5,7 @@
     <link id="styles" rel="stylesheet" href="res/style.css"/>
     <link rel="icon" type="image/png" href="img/tireaaean-icon.png"/>
     <title>-ru, -yä, and si</title>
-    <!-- ^ Edit here the page's title that will be shown on the browser's tab -->
+    <!-- ^ Edit here the page&#39;s title that will be shown on the browser&#39;s tab -->
   </head>
   <body>
     <?php include "navbar.php" ?>
@@ -22,7 +22,7 @@
       </p>
       <h2 id="1">Endings: -ru, -l, -ti</h2>
       <p>
-        We've talked about <span class="blue">-ìl</span>, <span class="blue">-l</span> and <span class="red">-ti</span>, <span class="red">-it</span>, <span class="red">-t</span>. We've also already talked <em>a little bit</em> about using <span class="turquoise">-ur</span>, <span class="turquoise">-ru</span>, <span class="turquoise">-r</span> before, but in this post I want to talk more about it. I also wanna talk about how to use <span class="purple">-yä</span>, <span class="purple">-ä</span>. Ok so let's get started with some examples. <img src="img/smiley.gif"/>
+        We&#39;ve talked about <span class="blue">-ìl</span>, <span class="blue">-l</span> and <span class="red">-ti</span>, <span class="red">-it</span>, <span class="red">-t</span>. We&#39;ve also already talked <em>a little bit</em> about using <span class="turquoise">-ur</span>, <span class="turquoise">-ru</span>, <span class="turquoise">-r</span> before, but in this post I want to talk more about it. I also wanna talk about how to use <span class="purple">-yä</span>, <span class="purple">-ä</span>. Ok so let&#39;s get started with some examples. <img src="img/smiley.gif"/>
       </p>
       <p>
         <u>Examples</u>:
@@ -54,7 +54,7 @@
         </li>
         <li>
           <strong>
-            <span class="orange">Po</span><span class="turquoise">ru</span> <span class="red">tsaylì'ut</span> <span class="blue">oel</span> li <span class="green">pameng</span>.
+            <span class="orange">Po</span><span class="turquoise">ru</span> <span class="red">tsaylì&#39;ut</span> <span class="blue">oel</span> li <span class="green">pameng</span>.
           </strong>
           <br />
           <span class="blue">I</span> already <span class="green">told</span> <span class="red">those words</span> <span class="turquoise">to</span> <span class="orange">her</span>.<br />
@@ -62,15 +62,15 @@
         </li>
         <li>
           <strong>
-            <span class="blue">Pol</span> <span class="orange">uniltìranyu</span><span class="turquoise">ru</span> <span class="green">kar</span> <span class="red">fya'oti</span> <span class="purple">Na'viyä</span>.
+            <span class="blue">Pol</span> <span class="orange">uniltìranyu</span><span class="turquoise">ru</span> <span class="green">kar</span> <span class="red">fya&#39;oti</span> <span class="purple">Na&#39;viyä</span>.
           </strong>
           <br />
-          <span class="blue">She</span> <span class="green">teaches</span> <span class="red">the Way</span> <span class="purple">of the Na'vi</span> <span class="turquoise">to</span> <span class="orange">the dreamwalker</span>.<br />
-          <em>She teaches the dreamwalker the ways of the Na'vi</em>
+          <span class="blue">She</span> <span class="green">teaches</span> <span class="red">the Way</span> <span class="purple">of the Na&#39;vi</span> <span class="turquoise">to</span> <span class="orange">the dreamwalker</span>.<br />
+          <em>She teaches the dreamwalker the ways of the Na&#39;vi</em>
         </li>
         <li>
           <strong>
-            <span class="orange">Nga</span><span class="turquoise">ru</span> <span class="blue">oel</span> <span class="red">fì'uti</span> <span class="green">pänutìng</span>.
+            <span class="orange">Nga</span><span class="turquoise">ru</span> <span class="blue">oel</span> <span class="red">fì&#39;uti</span> <span class="green">pänutìng</span>.
           </strong>
           <br />
           <span class="blue">I</span> <span class="green">promise</span> <span class="red">this</span> <span class="turquoise">to</span> <span class="orange">you</span>.<br />
@@ -79,7 +79,7 @@
       </ol>
       <h2 id="2">Those Crazy "____ si" Words</h2>
       <p>
-        Now. I'll bet most of you if not all have seen the Na'vi word <strong>si</strong>. I know that the dictionary definiton is <em>crazy</em> and scary. It's actually simple. <img src="img/smiley.gif"/> Here's how it works:
+        Now. I&#39;ll bet most of you if not all have seen the Na&#39;vi word <strong>si</strong>. I know that the dictionary definiton is <em>crazy</em> and scary. It&#39;s actually simple. <img src="img/smiley.gif"/> Here&#39;s how it works:
       </p>
       <div id="endpostpreview"></div>
       <p>
@@ -112,22 +112,22 @@
         </li>
         <li>
           <strong>
-            Tsa'u <span class="purple">oeyä</span> <span class="orange">eltu</span><span class="turquoise">r</span> <span class="green">tìtxen si</span>.
+            Tsa&#39;u <span class="purple">oeyä</span> <span class="orange">eltu</span><span class="turquoise">r</span> <span class="green">tìtxen si</span>.
           </strong>
           <br />
           That <span class="green">does awakening</span> <span class="turquoise">to</span> <span class="purple">my</span> <span class="orange">brain</span>.<br />
           That awakens my brain.<br />
-          <em>That's interesting.</em>
+          <em>That&#39;s interesting.</em>
         </li>
       </ol>
       <p>
-        This one is a common phrase. To say something is interesting in Na'vi, you say it "wakes up the brain". <img src="img/grin.gif"/>
-        <strong>eltur tìtxen si, kefyak?</strong> (<em>Interesting, isn't it?</em>)
+        This one is a common phrase. To say something is interesting in Na&#39;vi, you say it "wakes up the brain". <img src="img/grin.gif"/>
+        <strong>eltur tìtxen si, kefyak?</strong> (<em>Interesting, isn&#39;t it?</em>)
       </p>
       <ol start="10" class="lindent">
         <li>
           <strong>
-            Oe <span class="green">kìte'e si</span> <span class="orange">Omatikaya</span><span class="turquoise">ru</span>.
+            Oe <span class="green">kìte&#39;e si</span> <span class="orange">Omatikaya</span><span class="turquoise">ru</span>.
           </strong>
           <br />
           I <span class="green">do service</span> <span class="turquoise">to</span> <span class="orange">the Omatikaya</span>.<br />
@@ -140,10 +140,10 @@
           The word <strong>si</strong> <em>sort of</em> means "do"
         </li>
         <li>
-          <strong>si</strong> almost never stands alone. It's usually a word then si.
+          <strong>si</strong> almost never stands alone. It&#39;s usually a word then si.
         </li>
         <li>
-          You can't just use it with any word. Luckily, all the "___ si" words are all listed in the dictionary. <img src="img/wink.gif"/>
+          You can&#39;t just use it with any word. Luckily, all the "___ si" words are all listed in the dictionary. <img src="img/wink.gif"/>
         </li>
         <li>
           All the ones above use <span class="turquoise">-ur</span>, <span class="turquoise">-ru</span> on the end of the one receiving the action.
@@ -152,7 +152,7 @@
       </ul>
       <h2 id="3">Ending: -ä</h2>
       <p>
-        And now, a little about the <span class="purple">-yä</span>, <span class="purple">-ä</span>. You may have noticed this bit on the end of words in examples <strong>4</strong> and <strong>9</strong>. It's really simple:
+        And now, a little about the <span class="purple">-yä</span>, <span class="purple">-ä</span>. You may have noticed this bit on the end of words in examples <strong>4</strong> and <strong>9</strong>. It&#39;s really simple:
       </p>
       <ul>
         <li>
@@ -168,7 +168,7 @@
         </li>
         <li>
           These are put on the word which is owning the other. <span class="purple">-yä</span> and <span class="purple">-ä</span> are very similar to the English <span class="purple">
-            <em>'s</em>
+            <em>&#39;s</em>
           </span> or <span class="purple">
             <em>of the</em>
           </span>.
@@ -183,7 +183,7 @@
       <ol start="11" class="lindent">
         <li>
           <strong>
-            <span class="cnga">Ng</span><span class="purple">eyä</span> ikran <span class="green">lu</span> ta'lengean.
+            <span class="cnga">Ng</span><span class="purple">eyä</span> ikran <span class="green">lu</span> ta&#39;lengean.
           </strong>
           <br />
           <em>
@@ -192,20 +192,20 @@
         </li>
         <li>
           <strong>
-            Menari <span class="cnavi">Na'vi</span><span class="purple">yä</span> <span class="green">lu</span> rim
+            Menari <span class="cnavi">Na&#39;vi</span><span class="purple">yä</span> <span class="green">lu</span> rim
           </strong>
           <br />
           <em>
-            The eyes <span class="purple">of the</span> <span class="cnavi">Na'vi</span> <span class="green">are</span> yellow.
+            The eyes <span class="purple">of the</span> <span class="cnavi">Na&#39;vi</span> <span class="green">are</span> yellow.
           </em>
         </li>
         <li>
           <strong>
-            <span class="deepskyblue">Txewì</span><span class="purple">yä</span> <span class="magenta">'eylan</span><span class="purple">ä</span> sempul <span class="green">lu</span> <span class="ctaron">taron</span><span class="cyu">yu</span> <span class="cnga">atxantsan</span>.
+            <span class="deepskyblue">Txewì</span><span class="purple">yä</span> <span class="magenta">&#39;eylan</span><span class="purple">ä</span> sempul <span class="green">lu</span> <span class="ctaron">taron</span><span class="cyu">yu</span> <span class="cnga">atxantsan</span>.
           </strong>
           <br />
           <em>
-            <span class="deepskyblue">Txewì</span><span class="purple">'s</span> <span class="magenta">friend</span><span class="purple">'s</span> father <span class="green">is</span> an <span class="cnga">excellent</span> <span class="ctaron">hunt</span><span class="cyu">er</span>.
+            <span class="deepskyblue">Txewì</span><span class="purple">&#39;s</span> <span class="magenta">friend</span><span class="purple">&#39;s</span> father <span class="green">is</span> an <span class="cnga">excellent</span> <span class="ctaron">hunt</span><span class="cyu">er</span>.
           </em>
         </li>
       </ol>

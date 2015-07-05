@@ -5,7 +5,7 @@
     <link id="styles" rel="stylesheet" href="res/style.css"/>
     <link rel="icon" type="image/png" href="img/tireaaean-icon.png"/>
     <title>Describing Stuff</title>
-    <!-- ^ Edit here the page's title that will be shown on the browser's tab -->
+    <!-- ^ Edit here the page&#39;s title that will be shown on the browser&#39;s tab -->
   </head>
   <body>
     <?php include "navbar.php" ?>
@@ -18,14 +18,14 @@
       <a id="next" href="05.php" style="float:right;padding-right:4%;">Next -&gt;</a>
       <br />
       <p>
-        <span class="navi">Kaltxì</span>! And welcome to Lesson 4 of Learn Na'vi Grammar The Easy Way.
+        <span class="navi">Kaltxì</span>! And welcome to Lesson 4 of Learn Na&#39;vi Grammar The Easy Way.
       </p>
       <p>This time we talk about describing stuff.</p>
       <h2 id="1">
         Describing with <span class="navi">lu</span>
       </h2>
       <p>
-        In Na'vi, We describe what something is with <span class="navi">lu</span>. In this case, it's like an "=" sign. Some examples:
+        In Na&#39;vi, We describe what something is with <span class="navi">lu</span>. In this case, it&#39;s like an "=" sign. Some examples:
       </p>
       <ol class="lindent">
         <li>
@@ -40,7 +40,7 @@
         </li>
       </ol>
       <p>
-        That's pretty much what it looks like to describe something by saying what it <em>is</em> by using <span class="navi">lu</span>. But what if you wanted to describe it on the fly while talking about what it's doing or involved in? Check it out:
+        That&#39;s pretty much what it looks like to describe something by saying what it <em>is</em> by using <span class="navi">lu</span>. But what if you wanted to describe it on the fly while talking about what it&#39;s doing or involved in? Check it out:
       </p>
       <h2 id="2">
         Describing with <span class="navi">a</span>
@@ -94,10 +94,10 @@
         </li>
       </ol>
       <p>
-        You probably notice that when <span class="blue">describing</span> the <span class="red">stuff</span> on the fly while talking about <span class="green">what it's doing</span>, there there is an -<strong>a</strong>- attached onto all the <span class="blue">blue words</span> that describe the <span class="red">red words</span>. You may also notice that the <strong>a</strong> is always attached onto the side of the <span class="blue">blue word</span> where the <span class="red">red word</span> is, and that the <span class="blue">blue word</span> is always <em>exactly next to</em> the <span class="red">red word</span>. This is because of rule. Notice the pattern and follow it. <img src="img/smiley.gif"/>
+        You probably notice that when <span class="blue">describing</span> the <span class="red">stuff</span> on the fly while talking about <span class="green">what it&#39;s doing</span>, there there is an -<strong>a</strong>- attached onto all the <span class="blue">blue words</span> that describe the <span class="red">red words</span>. You may also notice that the <strong>a</strong> is always attached onto the side of the <span class="blue">blue word</span> where the <span class="red">red word</span> is, and that the <span class="blue">blue word</span> is always <em>exactly next to</em> the <span class="red">red word</span>. This is because of rule. Notice the pattern and follow it. <img src="img/smiley.gif"/>
       </p>
       <p>
-        Above, we talked about describing a <span class="red">person, place, or thing</span> with a single <span class="blue">describing word</span>. Now, I'm going to show you how you can do exactly the same thing as above, but instead of describing it with just a <em>single word</em>, describe it with a <em>whole phrase of words</em>. Check it out:
+        Above, we talked about describing a <span class="red">person, place, or thing</span> with a single <span class="blue">describing word</span>. Now, I&#39;m going to show you how you can do exactly the same thing as above, but instead of describing it with just a <em>single word</em>, describe it with a <em>whole phrase of words</em>. Check it out:
       </p>
       <ol start="6" class="lindent">
         <li>
@@ -122,13 +122,13 @@
         </li>
         <li>
           <strong>
-            <span class="blue">fpe' ayngal oer </span>a <span class="red">'upxareti</span> <span class="green">stawm</span> <span class="purple">oel</span>.
+            <span class="blue">fpe&#39; ayngal oer </span>a <span class="red">&#39;upxareti</span> <span class="green">stawm</span> <span class="purple">oel</span>.
           </strong>
           &#160;&#160; <u>
             <em>or</em>
           </u> &#160;&#160;
           <strong>
-            <span class="purple">oel</span> <span class="green">stawm</span> <span class="red"> 'upxaret</span> a<span class="blue"> ayngal fpe' oer</span>.
+            <span class="purple">oel</span> <span class="green">stawm</span> <span class="red"> &#39;upxaret</span> a<span class="blue"> ayngal fpe&#39; oer</span>.
           </strong>
           <br />
           <em>
@@ -137,7 +137,7 @@
         </li>
       </ol>
       <p>
-        In this case, there's a <span class="purple">purple word</span>. The <span class="purple">purple word</span> is the one doing the <span class="green">action in green</span> to the <span class="red">red word</span>. "<span class="purple">I</span> <span class="green">hear</span> <span class="red">the message</span>" is the main skeleton of that sentence.
+        In this case, there&#39;s a <span class="purple">purple word</span>. The <span class="purple">purple word</span> is the one doing the <span class="green">action in green</span> to the <span class="red">red word</span>. "<span class="purple">I</span> <span class="green">hear</span> <span class="red">the message</span>" is the main skeleton of that sentence.
       </p>
       <ol start="8" class="lindent">
         <li>
@@ -161,7 +161,7 @@
             <span class="orange">He</span>
             <span class="green">is</span>
             <span class="red">a</span>
-            <span class="blue">doesn't eat meat</span>
+            <span class="blue">doesn&#39;t eat meat</span>
             <span class="red">person</span>
           </em>
           <br />
