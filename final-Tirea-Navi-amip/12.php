@@ -14,8 +14,8 @@
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson Twelve: -ing in Na&#39;vi</h1>
-      <a id="prevpost" href="11.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="13.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="11.php">&lt;- Previous</a>
+      <a id="nextpost" href="13.php">Next -&gt;</a>
       <br />
       <p>
         <span class="navi">Kaltxì</span> nìmun! This time I wanna talk about the three different ways to say -ing in Na&#39;vi. <img src="img/smiley.gif"/>
@@ -72,10 +72,9 @@
       <p>Hayalovay!</p>
       <p>Edits provided by @NeytiriTeTskaha 11-Mar-2015</p>
       <br  />
-      <a id="prevpost" href="11.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="13.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="11.php">&lt;- Previous</a>
+      <a id="nextpost" href="13.php">Next -&gt;</a>
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>

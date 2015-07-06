@@ -14,8 +14,8 @@
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson Three: Have, Plurals, Changes</h1>
-      <a id="topprev" href="02.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="topnext" href="04.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="02.php">&lt;- Previous</a>
+      <a id="nextpost" href="04.php">Next -&gt;</a>
       <br />
       <p>
         <span class="navi">Kaltxì</span>! And welcome to Lesson 3 of Learn Na&#39;vi Grammar The Easy Way.
@@ -438,10 +438,9 @@
         </a>
       </p>
       <br/>
-      <a id="bottomprev" href="02.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="bottomnext" href="04.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="02.php">&lt;- Previous</a>
+      <a id="nextpost" href="04.php">Next -&gt;</a>
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>

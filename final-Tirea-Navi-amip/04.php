@@ -14,8 +14,8 @@
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson Four: Describing Stuff</h1>
-      <a id="prev" href="03.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="next" href="05.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="03.php">&lt;- Previous</a>
+      <a id="nextpost" href="05.php">Next -&gt;</a>
       <br />
       <p>
         <span class="navi">Kaltxì</span>! And welcome to Lesson 4 of Learn Na&#39;vi Grammar The Easy Way.
@@ -180,10 +180,9 @@
         </strong> (<em>by the way, it just occured to me</em>), I totally encourage all readers to ask questions and practice these things in the comments below. <img src="img/cheesy.gif"/>
       </p>
       <br />
-      <a id="bottomprev" href="03.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="bottomnext" href="05.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="03.php">&lt;- Previous</a>
+      <a id="nextpost" href="05.php">Next -&gt;</a>
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>

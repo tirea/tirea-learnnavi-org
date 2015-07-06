@@ -10,7 +10,7 @@
     <?php include "navbar.php" ?>
     <?php include "header.php" ?>
     <!-- The next div is for lesson content and more -->
-    <div class="lesson cover">
+    <div class="lesson">
       <!-- Add new lessons here -->
       <!-- #############################
       <h1>Lesson Seventeen: self</h1>
@@ -20,6 +20,5 @@
       ############################ -->
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>

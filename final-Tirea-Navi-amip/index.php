@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8"/>
@@ -9,7 +9,7 @@
   <body>
     <?php include "navbar.php" ?>
     <?php include "header.php" ?>
-    <div class="secondary-header cover">
+    <div class="mblock">
       <span class="titlename">
         Zola&#39;u Nìprrte&#39; | Welcome
       </span>
@@ -32,6 +32,5 @@
       </p>
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>

@@ -14,7 +14,7 @@
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson One: Order, -l, and -t</h1>
-      <a id="topnext" href="02.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="nextpost" href="02.php">Next -&gt;</a>
       <br />
         <p>
           <span class="navi">Kaltxì</span>! And welcome to Lesson 1 of Learn Na&#39;vi Grammar the Easy Way.
@@ -138,9 +138,8 @@
           </strong> on words that end with a vowel. These are put on the one that is receiving the action. Here, <span class="red">the thing that is being eaten</span>.
         </p>
         <br />
-      <a id="bottomnext" href="02.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="nextpost" href="02.php">Next -&gt;</a>
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>

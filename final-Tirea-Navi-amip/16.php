@@ -14,8 +14,8 @@
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson Sixteen: eyk</h1>
-      <a id="prevpost" href="15.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="17.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="15.php">&lt;- Previous</a>
+      <a id="nextpost" href="17.php">Next -&gt;</a>
       <br />
       <p>
         <span class="navi">Kaltxì!</span>
@@ -102,10 +102,9 @@
         Hopefully, this has been helpful. Feel free to ask questions and/or post more of these sentences in the comments below. <img src="img/cheesy.gif"/> Kiyevame.
       </p>
       <br />
-      <a id="prevpost" href="15.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="17.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="15.php">&lt;- Previous</a>
+      <a id="nextpost" href="17.php">Next -&gt;</a>
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>

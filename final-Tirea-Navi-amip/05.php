@@ -14,8 +14,8 @@
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson Five: Questions</h1>
-      <a id="prevpost" href="04.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="06.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="04.php">&lt;- Previous</a>
+      <a id="nextpost" href="06.php">Next -&gt;</a>
       <br />
       <p>
         <span class="navi">Kaltxì nìmun</span>! This time we talk about how to ask and answer questions. Pretty simple stuff. Let&#39;s dive right in with some quick vocab. <img src="img/smiley.gif"/>
@@ -184,10 +184,9 @@
         Hopefully this has been simple and helpful. <img src="img/cheesy.gif"/>
       </p>
       <br />
-      <a id="prevpost" href="04.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="06.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="04.php">&lt;- Previous</a>
+      <a id="nextpost" href="06.php">Next -&gt;</a>
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>

@@ -14,8 +14,8 @@
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson Ten: No and Not</h1>
-      <a id="prevpost" href="09.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="11.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="09.php">&lt;- Previous</a>
+      <a id="nextpost" href="11.php">Next -&gt;</a>
       <br />
       <p>
         <span class="navi">Kaltxì</span> This post is about saying no, not, and making stuff negative, and stuff having to do with that. I think I should have mentioned all this before now, but I forgot. Better now than never. <img src="img/smiley.gif"/>
@@ -92,10 +92,9 @@
         <span class="navi">oeti ’ampi rä’ä, ma skxawng!</span> (<em>don’t touch me, you moron!</em>)<br />
       </blockquote>
       <br />
-      <a id="prevpost" href="09.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="11.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="09.php">&lt;- Previous</a>
+      <a id="nextpost" href="11.php">Next -&gt;</a>
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>

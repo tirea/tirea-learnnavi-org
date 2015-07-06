@@ -14,8 +14,8 @@
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson Thirteen: F-words</h1>
-      <a id="prevpost" href="12.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="14.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="12.php">&lt;- Previous</a>
+      <a id="nextpost" href="14.php">Next -&gt;</a>
       <br />
       <p>
         <span class="navi">Kaltxì ma frapo! Oel ayngati kameie.</span> Hopefully, you&#39;re all learning well. <img src="img/smiley.gif"/>
@@ -316,10 +316,9 @@
       <p>
         Note that any of these word orders can be written backwards, and you will get sentences that look like some of those from Lesson Four. So that&#39;s pretty much it with these F words. Hopefully this has been helpful. Hayalovay! <img src="img/cheesy.gif"/>
       </p>
-        <a id="prevpost" href="12.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-        <a id="nextpost" href="14.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+        <a id="prevpost" href="12.php">&lt;- Previous</a>
+        <a id="nextpost" href="14.php">Next -&gt;</a>
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>

@@ -14,8 +14,8 @@
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson Seven: -ru, -yä, and si</h1>
-      <a id="prevpost" href="06.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="08.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="06.php">&lt;- Previous</a>
+      <a id="nextpost" href="08.php">Next -&gt;</a>
       <br />
       <p>
         <span class="navi">Kaltxì</span>. <img src="img/cheesy.gif"/> This time I wanna talk about some other things that go onto the end of words, and some stuff.
@@ -220,10 +220,9 @@
         </em> <img src="img/cheesy.gif"/>)
       </p>
       <br />
-      <a id="prevpost" href="06.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="08.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="06.php">&lt;- Previous</a>
+      <a id="nextpost" href="08.php">Next -&gt;</a>
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>

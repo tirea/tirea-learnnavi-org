@@ -14,8 +14,8 @@
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson Two: Past and Future</h1>
-      <a id="topprev" href="01.php" style="float: left; padding-left: 4%;">&lt;- Previous</a>
-      <a id="topnext" href="03.php" style="float: right; padding-right: 4%;">Next -&gt;</a>
+      <a id="prevpost" href="01.php">&lt;- Previous</a>
+      <a id="nextpost" href="03.php">Next -&gt;</a>
       <br />
       <p>
         <span class="navi">Kaltxì</span>! And welcome to Lesson 2 of Learn Na&#39;vi Grammar the Easy Way.
@@ -245,10 +245,9 @@
         </span>
       </p>
       <br />
-      <a id="bottomprev" href="01.php" style="float: left; padding-left: 4%;">&lt;- Previous</a>
-      <a id="bottomnext" href="03.php" style="float: right; padding-right: 4%;">Next -&gt;</a>
+      <a id="prevpost" href="01.php">&lt;- Previous</a>
+      <a id="nextpost" href="03.php">Next -&gt;</a>
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>

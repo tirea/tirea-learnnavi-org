@@ -14,8 +14,8 @@
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson Eight: iv</h1>
-      <a id="prevpost" href="07.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="09.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="07.php">&lt;- Previous</a>
+      <a id="nextpost" href="09.php">Next -&gt;</a>
       <br />
       <p>
         <span class="navi">Kaltxì</span>. <img src="img/smiley.gif"/>
@@ -356,10 +356,9 @@
           Update 11-Mar-2015 to include <strong>sto</strong> (<em>to refuse</em>)
         </em>
       </p>
-      <a id="prevpost" href="07.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="09.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="07.php">&lt;- Previous</a>
+      <a id="nextpost" href="09.php">Next -&gt;</a>
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>

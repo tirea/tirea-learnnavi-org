@@ -14,8 +14,8 @@
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson Nine: -ri</h1>
-      <a id="prevpost" href="08.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="10.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="08.php">&lt;- Previous</a>
+      <a id="nextpost" href="10.php">Next -&gt;</a>
       <br />
       <p>
         This blog post will hopefully better your understanding of the topical suffix -<span class="navi">ri</span>.
@@ -72,10 +72,9 @@
         <span class="navi">Eywa ngahu!</span>
       </p>
       <p>This post brought to you by @NeytiriTeTskaha</p>
-      <a id="prevpost" href="08.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="10.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="08.php">&lt;- Previous</a>
+      <a id="nextpost" href="10.php">Next -&gt;</a>
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>

@@ -14,7 +14,7 @@
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson Seventeen: self</h1>
-      <a id="prevpost" href="16.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
+      <a id="prevpost" href="16.php">&lt;- Previous</a>
       <br />
       <p>
         <span class="navi">Kaltxì!</span>
@@ -105,9 +105,8 @@
         <span class="navi">Ayfo irayo si foru.</span> (They thank them)<br />
       </blockquote>
       <br />
-      <a id="prevpost" href="16.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
+      <a id="prevpost" href="16.php">&lt;- Previous</a>
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>

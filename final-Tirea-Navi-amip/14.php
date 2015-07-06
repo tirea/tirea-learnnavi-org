@@ -14,8 +14,8 @@
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson Fourteen: Colours</h1>
-      <a id="prevpost" href="13.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-      <a id="nextpost" href="15.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+      <a id="prevpost" href="13.php">&lt;- Previous</a>
+      <a id="nextpost" href="15.php">Next -&gt;</a>
       <br />
       <p>
         <span class="navi">Kaltxì</span>
@@ -262,10 +262,9 @@
       <p>
         So if you thought that the numbering was weird in that list up there, that I somehow forgot eight and nine and skipped to ten, that&#39;s not what happened. And there&#39;s a reason for a degree sign around the numbers. <img src="img/wink.gif"/> So next post, I&#39;ll talk about Na&#39;vi numbers and how to count and stuff. </p>
       <br />
-        <a id="prevpost" href="13.php" style="float:left;padding-left:4%;">&lt;- Previous</a>
-        <a id="nextpost" href="15.php" style="float:right;padding-right:4%;">Next -&gt;</a>
+        <a id="prevpost" href="13.php">&lt;- Previous</a>
+        <a id="nextpost" href="15.php">Next -&gt;</a>
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>

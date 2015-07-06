@@ -14,8 +14,8 @@
     <div class="lesson cover">
       <!-- Add new lessons here -->
       <h1>Lesson Fifteen: Numbers</h1>
-      <a id="prevpost" style="float:left;padding-left:4%;" href="14.php">&lt;- Previous</a>
-      <a id="nextpost" style="float:right;padding-right:4%;" href="16.php">Next -&gt;</a>
+      <a id="prevpost" href="14.php">&lt;- Previous</a>
+      <a id="nextpost" href="16.php">Next -&gt;</a>
       <br />
       <p>
         <span class="navi">Kaltxì.</span>
@@ -137,10 +137,9 @@
         Hopefully, this has been helpful in understanding and using Na&#39;vi numbers. <img src="img/cheesy.gif"/> Hayalovay.
       </p>
       <br />
-      <a id="prevpost" style="float:left;padding-left:4%;" href="14.php">&lt;- Previous</a>
-      <a id="nextpost" style="float:right;padding-right:4%;" href="16.php">Next -&gt;</a>
+      <a id="prevpost" href="14.php">&lt;- Previous</a>
+      <a id="nextpost" href="16.php">Next -&gt;</a>
     </div>
     <?php include "footer.php" ?>
-    <?php include "mobilenav.php" ?>
   </body>
 </html>
