@@ -30,6 +30,9 @@
             <a href="http://tireaaean.tumblr.com" target="_blank" title="Find Tirea Aean on Tumblr">
               <img class="icons" src="img/tumblr_logo_white_blue_64.png" alt="Tumblr"/>
             </a> |
+            <a href="http://tireaaean.wordpress.com" target="_blank" title="Find Tirea Aean on WordPress">
+              <img class="icons" src="img/wordpress.png" alt="WordPress"/>
+            </a> |
             <a href="http://youtube.com/TireaAean" target="_blank" title="Find Tirea Aean on YouTube">
               <img class="icons" src="img/YouTube-logo.png" alt="YouTube"/>
             </a> |
@@ -46,24 +49,27 @@
       </ul>
       <a class="hidethis" href="#">Menu</a>
       <div class="mobilestuff">
-        <a id="boxlink" href="index.php">Home</a>
-        <a id="boxlink" href="sounds.php">Sounds</a>
-        <a id="boxlink" href="grammar.php">Grammar</a>
-        <a id="boxlink" href="links.php">Links</a>
-        <a id="boxlink" href="downloads.php">Download</a>
-        <a id="socialboxlink" href="http://facebook.com/tirea" target="_blank" title="Find Tirea Aean on Facebook">
+        <a class="boxlink" href="index.php">Home</a>
+        <a class="boxlink" href="sounds.php">Sounds</a>
+        <a class="boxlink" href="grammar.php">Grammar</a>
+        <a class="boxlink" href="links.php">Links</a>
+        <a class="boxlink" href="downloads.php">Download</a>
+        <a class="socialboxlink" href="http://facebook.com/tirea" target="_blank" title="Find Tirea Aean on Facebook">
           <img class="icons" src="img/FB-Logo.png" alt="Facebook"/>
         </a>
-        <a id="socialboxlink" href="http://twitter.com/TireaAean" target="_blank" title="Find Tirea Aean on Twitter">
+        <a class="socialboxlink" href="http://twitter.com/TireaAean" target="_blank" title="Find Tirea Aean on Twitter">
           <img class="icons" src="img/TwitterLogo_blue.png" alt="Twitter"/>
         </a>
-        <a id="socialboxlink" href="http://tireaaean.tumblr.com" target="_blank" title="Find Tirea Aean on Tumblr">
+        <a class="socialboxlink" href="http://tireaaean.tumblr.com" target="_blank" title="Find Tirea Aean on Tumblr">
           <img class="icons" src="img/tumblr_logo_white_blue_64.png" alt="Tumblr"/>
         </a>
-        <a id="socialboxlink" href="http://youtube.com/TireaAean" target="_blank" title="Find Tirea Aean on YouTube">
+        <a class="socialboxlink" href="http://tireaaean.wordpress.com" target="_blank" title="Find Tirea Aean on WordPress">
+          <img class="icons" src="img/wordpress.png" alt="WordPress"/>
+        </a>
+        <a class="socialboxlink" href="http://youtube.com/TireaAean" target="_blank" title="Find Tirea Aean on YouTube">
           <img class="icons" src="img/YouTube-logo.png" alt="YouTube"/>
         </a>
-        <a id="socialboxlink" href="https://plus.google.com/109355985030739224338/posts" target="_blank" title="Find Tirea Aean on Goolge+">
+        <a class="socialboxlink" href="https://plus.google.com/109355985030739224338/posts" target="_blank" title="Find Tirea Aean on Goolge+">
           <img class="icons" src="img/Google-plus.png" alt="Google+"/>
         </a>
         <div class="socialmedia">
