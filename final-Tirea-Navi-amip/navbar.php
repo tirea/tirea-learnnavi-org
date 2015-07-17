@@ -33,7 +33,7 @@
             <a href="http://tireaaean.wordpress.com" target="_blank" title="Find Tirea Aean on WordPress">
               <img class="icons" src="img/wordpress.png" alt="WordPress"/>
             </a> |
-            <a href="http://youtube.com/TireaAean" target="_blank" title="Find Tirea Aean on YouTube">
+            <a href="http://youtube.com/TireaAeanLN" target="_blank" title="Find Tirea Aean on YouTube">
               <img class="icons" src="img/YouTube-logo.png" alt="YouTube"/>
             </a> |
             <a href="https://plus.google.com/109355985030739224338/posts" target="_blank" title="Find Tirea Aean on Goolge+">
@@ -66,7 +66,7 @@
         <a class="socialboxlink" href="http://tireaaean.wordpress.com" target="_blank" title="Find Tirea Aean on WordPress">
           <img class="icons" src="img/wordpress.png" alt="WordPress"/>
         </a>
-        <a class="socialboxlink" href="http://youtube.com/TireaAean" target="_blank" title="Find Tirea Aean on YouTube">
+        <a class="socialboxlink" href="http://youtube.com/TireaAeanLN" target="_blank" title="Find Tirea Aean on YouTube">
           <img class="icons" src="img/YouTube-logo.png" alt="YouTube"/>
         </a>
         <a class="socialboxlink" href="https://plus.google.com/109355985030739224338/posts" target="_blank" title="Find Tirea Aean on Goolge+">
