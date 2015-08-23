@@ -30,9 +30,9 @@
     <div id="navbar">
       <ul>
         <li><a href="/">Home</a></li>
-        <li><a href="/sounds">Sounds</a></li>
-        <li><a href="/grammar">Grammar</a></li>
-        <li><a href="/links">Links</a></li>
+        <li><a href="sounds">Sounds</a></li>
+        <li><a href="grammar">Grammar</a></li>
+        <li><a href="links">Links</a></li>
       </ul>		
     </div>
 
