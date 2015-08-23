@@ -1,16 +1,16 @@
 @font-face {
   font-family: "PapyrusTR";
-  src: url("/res/PAPYRUS.TTF") format("truetype");
+  src: url("PAPYRUS.TTF") format("truetype");
 }
 
 @font-face {
   font-family: "Maiandra";
-  src: url("/res/MaiandraGD.ttf") format("truetype");
+  src: url("MaiandraGD.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Nyala";
-  src: url("/res/nyala.ttf") format("truetype");
+  src: url("nyala.ttf") format("truetype");
 }
 
 html, body { 
@@ -60,7 +60,7 @@ img {
   width: 80%;
   margin-left:10%;
   height: 400px;
-  background-image: url("/res/jakeney.jpg");
+  background-image: url("jakeney.jpg");
   background-size: 100% auto;
   background-repeat: no-repeat; 
   background-color: #203179;
