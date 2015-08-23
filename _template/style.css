@@ -57,7 +57,8 @@ img {
 }
 
 #header {
-  width: 100%;
+  width: 80%;
+  margin-left:10%;
   height: 400px;
   background-image: url("/res/jakeney.jpg");
   background-size: 100% auto;
@@ -98,14 +99,13 @@ img {
   position: absolute;
   display: block;
   background-color: #797e35;
-  width: 100%;
+  width: 80%;
+  margin-left: 10%;
 }
 
 #navbar ul {
-  padding-left: 10%;
   list-style: none;
   margin: 0;
-  padding-left: 10%;
 }
 
 #navbar ul li {
@@ -184,6 +184,16 @@ img {
 #main ul li {
   font-family: Nyala;
   font-size: 1.5em;
+}
+
+#main img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ptitle {
+  text-align: center;
 }
 
 div.img {

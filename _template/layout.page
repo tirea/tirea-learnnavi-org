@@ -38,7 +38,7 @@
 
     <div id="main">
     
-      <h1>{{post.title}}</h1>
+      <h1 class="ptitle">{{post.title}}</h1>
       
 {{post.content}}
 

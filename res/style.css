@@ -20,7 +20,7 @@ html, body {
 body {
   margin: 0;
   padding: 0;
-  background-color: #367294;
+  background-color: #51a6d6;
 }
 
 h1 {
@@ -57,7 +57,8 @@ img {
 }
 
 #header {
-  width: 100%;
+  width: 80%;
+  margin-left:10%;
   height: 400px;
   background-image: url("/res/jakeney.jpg");
   background-size: 100% auto;
@@ -86,7 +87,7 @@ img {
   font-size: 1.2em;
   text-align: left;
   padding-left: 70px;
-  color: #797e35;
+  color: #a0a64e;
   text-shadow:
     -1px -1px 6px #000000,
      1px -1px 6px #000000,
@@ -97,15 +98,14 @@ img {
 #navbar {
   position: absolute;
   display: block;
-  background-color: #797e35;
-  width: 100%;
+  background-color: #a0a64e;
+  width: 80%;
+  margin-left: 10%;
 }
 
 #navbar ul {
-  padding-left: 10%;
   list-style: none;
   margin: 0;
-  padding-left: 10%;
 }
 
 #navbar ul li {
@@ -116,6 +116,7 @@ img {
 
 .active {
   background-color: #d6dee0;
+  background-color: #dae080;
 }
 
 #navbar ul li a {
@@ -129,6 +130,7 @@ img {
 
 #navbar ul li a:hover {
   background-color: #d6dee0;
+  background-color: #dae080;
 }
 
 #main {
@@ -137,6 +139,7 @@ img {
   margin-right: 10%;
   min-height: 100%;
   background-color: #6494a8;
+  background-color: #8ac3db;
 }
 
 #main h1, #main h2, #main h3, #main p { 
@@ -186,6 +189,16 @@ img {
   font-size: 1.5em;
 }
 
+#main img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ptitle {
+  text-align: center;
+}
+
 div.img {
   display: table-cell;
   position: relative;
@@ -196,6 +209,7 @@ div.img {
   text-align: center;
   background-color: #d6dee0;
   background-color: #92b6bc;
+  background-color: #84d7fa;
 }
 
 div.img span {
@@ -213,7 +227,6 @@ div.desc {
   font-weight: normal;
   top: 66px;
   width: 100%;
-
 }
 
 #main div#tabcont {
