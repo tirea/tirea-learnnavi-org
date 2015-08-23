@@ -5,7 +5,7 @@
     <title>{{post.title}} | {{site.name}}</title>
     <meta charset="UTF-8">
     <!-- <link rel="icon" href="res/favicon.png"> -->
-    <link id="styles" rel="stylesheet" href="/res/style.css">
+    <link id="styles" rel="stylesheet" href="res/style.css">
     <script>
       var _gaq = _gaq || []; 
       _gaq.push(['_setAccount','UA-41643966-1']); 

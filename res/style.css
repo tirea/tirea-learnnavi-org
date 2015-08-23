@@ -20,7 +20,7 @@ html, body {
 body {
   margin: 0;
   padding: 0;
-  background-color: #51a6d6;
+  background-color: #367294;
 }
 
 h1 {
@@ -87,7 +87,7 @@ img {
   font-size: 1.2em;
   text-align: left;
   padding-left: 70px;
-  color: #a0a64e;
+  color: #797e35;
   text-shadow:
     -1px -1px 6px #000000,
      1px -1px 6px #000000,
@@ -98,7 +98,7 @@ img {
 #navbar {
   position: absolute;
   display: block;
-  background-color: #a0a64e;
+  background-color: #797e35;
   width: 80%;
   margin-left: 10%;
 }
@@ -116,7 +116,6 @@ img {
 
 .active {
   background-color: #d6dee0;
-  background-color: #dae080;
 }
 
 #navbar ul li a {
@@ -130,7 +129,6 @@ img {
 
 #navbar ul li a:hover {
   background-color: #d6dee0;
-  background-color: #dae080;
 }
 
 #main {
@@ -139,7 +137,6 @@ img {
   margin-right: 10%;
   min-height: 100%;
   background-color: #6494a8;
-  background-color: #8ac3db;
 }
 
 #main h1, #main h2, #main h3, #main p { 
@@ -209,7 +206,6 @@ div.img {
   text-align: center;
   background-color: #d6dee0;
   background-color: #92b6bc;
-  background-color: #84d7fa;
 }
 
 div.img span {
@@ -227,6 +223,7 @@ div.desc {
   font-weight: normal;
   top: 66px;
   width: 100%;
+
 }
 
 #main div#tabcont {
