@@ -1,5 +1,16 @@
-body {
+@font-face {
+	font-family: "Maiandra GD";
+	src: url("MaiandraGD.ttf") format("truetype");
+}
+
+
+html, body {
 	background-color: #e0f7fa;
+	font-family: Maiandra GD, sans-serif;
+	margin: 0px;
+	padding: 0px;
+	min-width: 500px;
+	min-height: 700px;
 }
 
 .nav-wrapper {
@@ -18,3 +29,17 @@ body {
 	padding-right: 16px !important;
 }
 
+.titlename {
+	font-size: 3em;
+	letter-spacing: 0px;
+	line-height: 1.1em;
+}
+
+.tsawl {
+	font-size: 25pt;
+	font-family: Arial !important;
+}
+
+#page-content-div {
+	padding-top: 40px;
+}
