@@ -1,5 +1,4 @@
 <?php include "themetop.php"; ?>
-      <p class="red-text">EXPERIMENTAL SITE UNDER CONSTRUCTION!  :D</p>
       <!-- CARD -->
       <div id="image" class="section scrollspy">
         <div class="row">
