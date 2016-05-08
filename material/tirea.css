@@ -5,12 +5,17 @@
 
 
 html, body {
-	background-color: #e0f7fa;
+	background-color: #727272;
 	font-family: Maiandra GD, sans-serif;
 	margin: 0px;
 	padding: 0px;
 	min-width: 500px;
 	min-height: 700px;
+}
+
+main {
+	width: 100%;
+	background-color: #e0f7fa;
 }
 
 .nav-wrapper {
@@ -35,6 +40,10 @@ html, body {
 	line-height: 1.1em;
 }
 
+.nobullets {
+	list-style: none;
+}
+
 .tsawl {
 	font-size: 25pt;
 	font-family: Arial !important;
@@ -42,4 +51,21 @@ html, body {
 
 #page-content-div {
 	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+#fab {
+	display: none;
+}
+
+.foot {
+	background-color: #727272;
+	min-width: 800px;
+	max-width: 2560px;
+	font-size: 10pt;
+	box-sizing: border-box;
+	color: #eeeeee;
+	text-align: center;
+	padding: 30px;
+	bottom: 0px;
 }

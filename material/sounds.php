@@ -1,6 +1,4 @@
     <?php include "themetop.php" ?>
-    <!-- The next div is for lesson conten ans more -->
-    <div class="lesson cover">
       <span class="titlename">
         Na&#39;vi Sounds
       </span>
@@ -498,5 +496,4 @@
           </td>
         </tr>
       </table>
-    </div>
     <?php include "themebottom.php" ?>

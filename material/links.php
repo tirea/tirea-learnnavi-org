@@ -1,20 +1,4 @@
 <?php include "themetop.php" ?>
-<style>
-@font-face {
-      font-family: "Maiandra GD";
-      src: url("../res/MaiandraGD.ttf") format("truetype");
-}
-.titlename {
-      font-size: 4em;
-      letter-spacing: 0px;
-      line-height: 1.25em;
-}
-.nobullets {
-      list-style: none;
-}
-</style>
-<!-- The next div is for lesson content and more -->
-<div class="lesson cover">
   <span class="titlename">
     Links
   </span>
@@ -93,5 +77,4 @@
       </a> | Eana Unil
     </li>
   </ul>
-</div>
 <?php include "themebottom.php" ?>
