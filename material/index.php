@@ -1,4 +1,5 @@
 <?php include "themetop.php"; ?>
+      <div class="tooltip"><span class="titlename">Zola&#39;u N&igrave;prrte&#39;</span><span class="tooltiptext">Welcome</span></div>
       <!-- CARD -->
       <div id="image" class="section scrollspy">
         <div class="row">

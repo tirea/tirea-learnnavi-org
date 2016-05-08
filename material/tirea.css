@@ -9,8 +9,8 @@ html, body {
 	font-family: Maiandra GD, sans-serif;
 	margin: 0px;
 	padding: 0px;
-	min-width: 500px;
-	min-height: 700px;
+	min-width: 320px;
+	min-height: 480px;
 }
 
 main {
@@ -44,6 +44,38 @@ main {
 	list-style: none;
 }
 
+audio {
+	width: 48px;
+}
+
+.tooltip {
+	position: relative;
+	display: inline-block;
+	border-bottom: 1px dotted black;
+}
+
+.tooltiptext {
+	visibility: hidden;
+	width: 120px;
+	background-color: black;
+	color: #fff;
+	text-align: center;
+	border-radius: 6px;
+	padding: 5px 0;
+
+	/* Position the tooltip */
+	position: absolute;
+	z-index: 1;
+	width: 120px;
+	top: 100%;
+	left: 50%; 
+	margin-left: -60px;
+}
+
+.tooltip:hover .tooltiptext {
+	visibility: visible;
+}
+
 .tsawl {
 	font-size: 25pt;
 	font-family: Arial !important;
@@ -60,8 +92,6 @@ main {
 
 .foot {
 	background-color: #727272;
-	min-width: 800px;
-	max-width: 2560px;
 	font-size: 10pt;
 	box-sizing: border-box;
 	color: #eeeeee;

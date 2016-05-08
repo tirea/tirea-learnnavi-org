@@ -2,10 +2,13 @@
       <span class="titlename">
         Na&#39;vi Sounds
       </span>
+      
       <p>
         <span class="navi">Kaltxì</span> ma frapo! This page contains the letters, the corresponding International Phonetics Alphabet (IPA) characters and recordings of the sounds of the Na&#39;vi language. So to practice your pronunciation, click the play button and listen, then try to go along and such.
       </p>
-      <span class="titlename">Vowels</span>
+
+      <h3>Vowels</h3>
+      
       <table>
         <tr>
           <td>
@@ -45,7 +48,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">i  [i]</span>
+            <span class="tsawl">i [i]</span>
           </td>
           <td>
             <audio controls="">
@@ -57,7 +60,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">ì  [ɪ]</span>
+            <span class="tsawl">ì [ɪ]</span>
           </td>
           <td>
             <audio controls="">
@@ -88,7 +91,9 @@
               <source src="audio/u.ogg" type="audio/ogg"/>
                 <source src="audio/u.mp3" type="audio/mpeg"/>
               Your browser does not support the audio element.
-            </audio> or <span class="tsawl"> [ʊ]</span>
+            </audio>
+            or 
+            <span class="tsawl"> [ʊ]</span>
             <audio controls="">
               <source src="audio/u1.ogg" type="audio/ogg"/>
                 <source src="audio/u1.mp3" type="audio/mpeg"/>
@@ -97,14 +102,13 @@
           </td>
         </tr>
       </table>
-      <span class="titlename">Diphthongs</span>
+
+      <h3>Diphthongs</h3>
+
       <table>
         <tr>
           <td>
-            <span class="tsawl">aw</span>
-          </td>
-          <td>
-            <span class="tsawl">[aw]</span>
+            <span class="tsawl">aw [aw]</span>
           </td>
           <td>
             <audio controls="">
@@ -116,10 +120,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">ay</span>
-          </td>
-          <td>
-            <span class="tsawl">[aj]</span>
+            <span class="tsawl">ay [aj]</span>
           </td>
           <td>
             <audio controls="">
@@ -131,10 +132,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">ew</span>
-          </td>
-          <td>
-            <span class="tsawl">[ɛw]</span>
+            <span class="tsawl">ew [&#603;w]</span>
           </td>
           <td>
             <audio controls="">
@@ -146,10 +144,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">ey</span>
-          </td>
-          <td>
-            <span class="tsawl">[ɛj]</span>
+            <span class="tsawl">ey [&#603;j]</span>
           </td>
           <td>
             <audio controls="">
@@ -160,14 +155,13 @@
           </td>
         </tr>
       </table>
-      <span class="titlename">Pseudovowels</span>
+
+      <h3>Pseudovowels</h3>
+
       <table>
         <tr>
           <td>
-            <span class="tsawl">ll</span>
-          </td>
-          <td>
-            <span class="tsawl">[ḷ]</span>
+            <span class="tsawl">ll [ḷ]</span>
           </td>
           <td>
             <audio controls="">
@@ -179,10 +173,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">rr</span>
-          </td>
-          <td>
-            <span class="tsawl">[ṛ]</span>
+            <span class="tsawl">rr [ṛ]</span>
           </td>
           <td>
             <audio controls="">
@@ -193,14 +184,13 @@
           </td>
         </tr>
       </table>
-      <span class="titlename">Consonants</span>
+
+      <h3>Consonants</h3>
+
       <table>
         <tr>
           <td>
-            <span class="tsawl">&#39;</span>
-          </td>
-          <td>
-            <span class="tsawl">[ʔ]</span>
+            <span class="tsawl">&#39; [ʔ]</span>
           </td>
           <td>
             <audio controls="">
@@ -212,10 +202,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">f</span>
-          </td>
-          <td>
-            <span class="tsawl">[f]</span>
+            <span class="tsawl">f [f]</span>
           </td>
           <td>
             <audio controls="">
@@ -227,10 +214,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">h</span>
-          </td>
-          <td>
-            <span class="tsawl">[h]</span>
+            <span class="tsawl">h [h]</span>
           </td>
           <td>
             <audio controls="">
@@ -242,10 +226,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">k</span>
-          </td>
-          <td>
-            <span class="tsawl">[k]</span>
+            <span class="tsawl">k [k]</span>
           </td>
           <td>
             <audio controls="">
@@ -257,10 +238,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">kx</span>
-          </td>
-          <td>
-            <span class="tsawl">[kʼ]</span>
+            <span class="tsawl">kx [kʼ]</span>
           </td>
           <td>
             <audio controls="">
@@ -272,10 +250,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">l</span>
-          </td>
-          <td>
-            <span class="tsawl">[l]</span>
+            <span class="tsawl">l [l]</span>
           </td>
           <td>
             <audio controls="">
@@ -287,10 +262,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">m</span>
-          </td>
-          <td>
-            <span class="tsawl">[m]</span>
+            <span class="tsawl">m [m]</span>
           </td>
           <td>
             <audio controls="">
@@ -302,10 +274,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">n</span>
-          </td>
-          <td>
-            <span class="tsawl">[n]</span>
+            <span class="tsawl">n [n]</span>
           </td>
           <td>
             <audio controls="">
@@ -317,10 +286,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">ng</span>
-          </td>
-          <td>
-            <span class="tsawl">[ŋ]</span>
+            <span class="tsawl">ng [ŋ]</span>
           </td>
           <td>
             <audio controls="">
@@ -332,10 +298,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">p</span>
-          </td>
-          <td>
-            <span class="tsawl">[p]</span>
+            <span class="tsawl">p [p]</span>
           </td>
           <td>
             <audio controls="">
@@ -347,10 +310,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">px</span>
-          </td>
-          <td>
-            <span class="tsawl">[pʼ]</span>
+            <span class="tsawl">px [pʼ]</span>
           </td>
           <td>
             <audio controls="">
@@ -362,10 +322,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">r</span>
-          </td>
-          <td>
-            <span class="tsawl">[ɾ]</span>
+            <span class="tsawl">r [ɾ]</span>
           </td>
           <td>
             <audio controls="">
@@ -377,10 +334,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">s</span>
-          </td>
-          <td>
-            <span class="tsawl">[s]</span>
+            <span class="tsawl">s [s]</span>
           </td>
           <td>
             <audio controls="">
@@ -392,10 +346,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">t</span>
-          </td>
-          <td>
-            <span class="tsawl">[t]</span>
+            <span class="tsawl">t [t]</span>
           </td>
           <td>
             <audio controls="">
@@ -407,10 +358,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">ts</span>
-          </td>
-          <td>
-            <span class="tsawl">[t͡s]</span>
+            <span class="tsawl">ts [&#678;]</span>
           </td>
           <td>
             <audio controls="">
@@ -422,10 +370,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">tx</span>
-          </td>
-          <td>
-            <span class="tsawl">[ť]</span>
+            <span class="tsawl">tx [ť]</span>
           </td>
           <td>
             <audio controls="">
@@ -437,10 +382,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">v</span>
-          </td>
-          <td>
-            <span class="tsawl">[v]</span>
+            <span class="tsawl">v [v]</span>
           </td>
           <td>
             <audio controls="">
@@ -452,10 +394,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">w</span>
-          </td>
-          <td>
-            <span class="tsawl">[w]</span>
+            <span class="tsawl">w [w]</span>
           </td>
           <td>
             <audio controls="">
@@ -467,10 +406,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">y</span>
-          </td>
-          <td>
-            <span class="tsawl">[j]</span>
+            <span class="tsawl">y [j]</span>
           </td>
           <td>
             <audio controls="">
@@ -482,10 +418,7 @@
         </tr>
         <tr>
           <td>
-            <span class="tsawl">z</span>
-          </td>
-          <td>
-            <span class="tsawl">[z]</span>
+            <span class="tsawl">z [z]</span>
           </td>
           <td>
             <audio controls="">
@@ -496,4 +429,5 @@
           </td>
         </tr>
       </table>
-    <?php include "themebottom.php" ?>
+ 
+   <?php include "themebottom.php" ?>

@@ -1,1 +1,1 @@
-<?php include "res/theme/tirea/index.theme.php"; ?>
+<?php header("Location: mip") ?>
