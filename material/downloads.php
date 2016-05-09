@@ -1,10 +1,8 @@
 ﻿<?php include "res/themetop.php" ?>
-    <!-- The next div is for lesson content and more -->
-    <div class="lesson cover">
       <span class="titlename">
         Downloads
       </span>
-      <h2>Lessons as PDF</h2>
+      <h4>Lessons as PDF</h4>
       <div class="tabcontd">
         <a href="http://tirea.learnnavi.org/download/1.pdf">
           <div class="imgd">
@@ -92,7 +90,7 @@
           </div>
         </a>
       </div>
-      <h2>Other Things Hosted On This Site</h2>
+      <h4>Other Things Hosted On This Site</h4>
       <ul class="nobullets">
         <li>
           <a href="http://tirea.learnnavi.org/download/">download folder</a> | Some useful stuff you might want to look at or have

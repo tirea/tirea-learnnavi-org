@@ -2,9 +2,9 @@
   <span class="titlename">
     Links
   </span>
-  <h2>
+  <h4>
     Things I think are cool
-  </h2>
+  </h4>
   <ul class="nobullets">
     <li>
       <a href="https://soundcloud.com/thesoundsofpandora">Official Avatar SoundCloud
@@ -41,8 +41,8 @@
       </a> | Avatar Fan Site / Podcast
     </li>
   </ul>
-  <h2>Na&#39;vi Blogs I read
-  </h2>
+  <h4>Na&#39;vi Blogs I read
+  </h4>
   <ul class="nobullets">
     <li>
       <a href="http://tireaaean.wordpress.com">Pìlok Tireayä Aean
