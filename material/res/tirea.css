@@ -44,8 +44,9 @@ main {
 	list-style: none;
 }
 
-audio {
-	width: 48px;
+a {
+	cursor: pointer;
+	cursor: hand;
 }
 
 .tooltip {

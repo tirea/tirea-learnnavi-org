@@ -11,49 +11,49 @@
         <li class="collection-header"><h4>Vowels</h4></li>
         <li class="collection-item">
           <div>a [a]
-            <a id="play_a" href="#play_a" class="secondary-content amber-text">
+            <a id="play_a" class="secondary-content amber-text">
               <i class="material-icons">play_circle_filled</i>
             </a>
           </div>
         </li>
         <li class="collection-item">
           <div>ä [æ]
-            <a id="play_ae" href="#play_ae" class="secondary-content amber-text">
+            <a id="play_ae" class="secondary-content amber-text">
               <i class="material-icons">play_circle_filled</i>
             </a>
           </div>
         </li>
         <li class="collection-item">
           <div>e [ɛ]
-            <a id="play_e" href="#play_e" class="secondary-content amber-text">
+            <a id="play_e" class="secondary-content amber-text">
               <i class="material-icons">play_circle_filled</i>
             </a>
           </div>
         </li>
         <li class="collection-item">
           <div>i [i]
-            <a id="play_i" href="#play_i" class="secondary-content amber-text">
+            <a id="play_i" class="secondary-content amber-text">
               <i class="material-icons">play_circle_filled</i>
             </a>
           </div>
         </li>
         <li class="collection-item">
           <div>ì [ɪ]
-            <a id="play_ih" href="#play_ih" class="secondary-content amber-text">
+            <a id="play_ih" class="secondary-content amber-text">
               <i class="material-icons">play_circle_filled</i>
             </a>
           </div>
         </li>
         <li class="collection-item">
           <div>o [o]
-            <a id="play_o" href="#play_o" class="secondary-content amber-text">
+            <a id="play_o" class="secondary-content amber-text">
               <i class="material-icons">play_circle_filled</i>
             </a>
           </div>
         </li>
         <li class="collection-item">
           <div>u [u] / [ʊ]
-            <a id="play_u1" href="#play_u1" class="secondary-content amber-text">
+            <a id="play_u1" class="secondary-content amber-text">
               <i class="material-icons">play_circle_filled</i>
             </a>
             <span class="secondary-content black-text">&nbsp; / &nbsp;</span> 
