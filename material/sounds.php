@@ -7,103 +7,112 @@
         <span class="navi">Kaltxì</span> ma frapo! This page contains the letters, the corresponding International Phonetics Alphabet (IPA) characters and recordings of the sounds of the Na&#39;vi language. So to practice your pronunciation, click the play button and listen, then try to go along and such.
       </p>
 
-      <h3>Vowels</h3>
-      
-      <table>
-        <tr>
-          <td>
-            <span class="tsawl">a [a]</span>
-          </td>
-          <td>
-            <audio controls="">
+      <ul class="collection with-header">
+        <li class="collection-header"><h4>Vowels</h4></li>
+        <li class="collection-item">
+          <div>a [a]
+            <a id="play_a" href="#" class="secondary-content amber-text">
+              <i class="material-icons">play_circle_filled</i>
+            </a>
+          </div>
+        </li>
+        <li class="collection-item">
+          <div>ä [æ]
+            <a id="play_ae" href="#" class="secondary-content amber-text">
+              <i class="material-icons">play_circle_filled</i>
+            </a>
+          </div>
+        </li>
+        <li class="collection-item">
+          <div>e [ɛ]
+            <a id="play_e" href="#" class="secondary-content amber-text">
+              <i class="material-icons">play_circle_filled</i>
+            </a>
+          </div>
+        </li>
+        <li class="collection-item">
+          <div>i [i]
+            <a id="play_i" href="#" class="secondary-content amber-text">
+              <i class="material-icons">play_circle_filled</i>
+            </a>
+          </div>
+        </li>
+        <li class="collection-item">
+          <div>ì [ɪ]
+            <a id="play_ih" href="#" class="secondary-content amber-text">
+              <i class="material-icons">play_circle_filled</i>
+            </a>
+          </div>
+        </li>
+        <li class="collection-item">
+          <div>o [o]
+            <a id="play_o" href="#" class="secondary-content amber-text">
+              <i class="material-icons">play_circle_filled</i>
+            </a>
+          </div>
+        </li>
+        <li class="collection-item">
+          <div>u [u] / [ʊ]
+            <a id="play_u" href="#" class="secondary-content amber-text">
+              <i class="material-icons">play_circle_filled</i>
+            </a>
+            <span class="secondary-content black-text">&nbsp; / &nbsp;</span> 
+            <a id="play_u1" href="#" class="secondary-content amber-text">
+              <i class="material-icons">play_circle_filled</i>
+            </a>
+           </div>
+        </li>
+      </ul>
+
+            <audio id="audio_a">
               <source src="audio/a.ogg" type="audio/ogg"/>
                 <source src="audio/a.mp3" type="audio/mpeg"/>
               Your browser does not support the audio element.
             </audio>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <span class="tsawl">ä [æ]</span>
-          </td>
-          <td>
-            <audio controls="">
+
+            <audio id="audio_ae">
               <source src="audio/ae.ogg" type="audio/ogg"/>
                 <source src="audio/ae.mp3" type="audio/mpeg"/>
               Your browser does not support the audio element.
             </audio>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <span class="tsawl">e [ɛ]</span>
-          </td>
-          <td>
-            <audio controls="">
+
+            <audio id="audio_e">
               <source src="audio/e.ogg" type="audio/ogg"/>
                 <source src="audio/e.mp3" type="audio/mpeg"/>
               Your browser does not support the audio element.
             </audio>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <span class="tsawl">i [i]</span>
-          </td>
-          <td>
-            <audio controls="">
+
+            <audio id="audio_i">
               <source src="audio/i.ogg" type="audio/ogg"/>
                 <source src="audio/i.mp3" type="audio/mpeg"/>
               Your browser does not support the audio element.
             </audio>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <span class="tsawl">ì [ɪ]</span>
-          </td>
-          <td>
-            <audio controls="">
+
+            <audio id="audio_ih">
               <source src="audio/ih.ogg" type="audio/ogg"/>
                 <source src="audio/ih.mp3" type="audio/mpeg"/>
               Your browser does not support the audio element.
             </audio>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <span class="tsawl">o [o]</span>
-          </td>
-          <td>
-            <audio controls="">
+
+            <audio id="audio_o">
               <source src="audio/o.ogg" type="audio/ogg"/>
                 <source src="audio/o.mp3" type="audio/mpeg"/>
               Your browser does not support the audio element.
             </audio>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <span class="tsawl">u [u]</span>
-          </td>
-          <td>
-            <audio controls="">
+
+            <audio id="audio_u">
               <source src="audio/u.ogg" type="audio/ogg"/>
                 <source src="audio/u.mp3" type="audio/mpeg"/>
               Your browser does not support the audio element.
             </audio>
-            or 
-            <span class="tsawl"> [ʊ]</span>
-            <audio controls="">
+
+            <audio id="audio_u1">
               <source src="audio/u1.ogg" type="audio/ogg"/>
                 <source src="audio/u1.mp3" type="audio/mpeg"/>
               Your browser does not support the audio element.
             </audio>
-          </td>
-        </tr>
-      </table>
 
-      <h3>Diphthongs</h3>
+<!--       <h3>Diphthongs</h3>
 
       <table>
         <tr>
@@ -428,6 +437,25 @@
             </audio>
           </td>
         </tr>
-      </table>
- 
-   <?php include "res/themebottom.php" ?>
+      </table> -->
+    <script>
+      $(document).ready(function(){
+        var audio_a = $("#audio_a")[0];
+        var audio_ae = $("#audio_ae")[0];
+        var audio_e = $("#audio_e")[0];
+        var audio_i = $("#audio_i")[0];
+        $("#play_a").click(function(){
+          audio_a.play();
+        });
+        $("#play_ae").click(function(){
+          audio_ae.play();
+        });
+        $("#play_e").click(function(){
+          audio_e.play();
+        });
+        $("#play_i").click(function(){
+          audio_i.play();
+        });
+      });
+    </script>
+    <?php include "res/themebottom.php" ?>
