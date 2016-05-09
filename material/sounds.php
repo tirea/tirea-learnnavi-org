@@ -57,7 +57,7 @@
               <i class="material-icons">play_circle_filled</i>
             </a>
             <span class="secondary-content black-text">&nbsp; / &nbsp;</span> 
-            <a id="play_u1" href="play_u1" class="secondary-content amber-text">
+            <a id="play_u1" href="#play_u1" class="secondary-content amber-text">
               <i class="material-icons">play_circle_filled</i>
             </a>
            </div>
@@ -444,6 +444,10 @@
         var audio_ae = $("#audio_ae")[0];
         var audio_e = $("#audio_e")[0];
         var audio_i = $("#audio_i")[0];
+        var audio_ih = $("#audio_ih")[0];
+        var audio_o = $("#audio_o")[0];
+        var audio_u = $("#audio_u")[0];
+        var audio_u1 = $("#audio_u1")[0];
         $("#play_a").click(function(){
           audio_a.play();
         });
@@ -455,6 +459,18 @@
         });
         $("#play_i").click(function(){
           audio_i.play();
+        });
+        $("#play_ih").click(function(){
+          audio_ih.play();
+        });
+        $("#play_o").click(function(){
+          audio_o.play();
+        });
+        $("#play_u").click(function(){
+          audio_u.play();
+        });
+        $("play_u1").click(function(){
+          audio_u1.play();
         });
       });
     </script>
