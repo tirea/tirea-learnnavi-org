@@ -469,7 +469,7 @@
         $("#play_u").click(function(){
           audio_u.play();
         });
-        $("play_u1").click(function(){
+        $("#play_u1").click(function(){
           audio_u1.play();
         });
       });
