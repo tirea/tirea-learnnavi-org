@@ -8,13 +8,6 @@
   <link rel="stylesheet" href="res/tirea.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <meta name="theme-color" content="#00bcd4"/>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
-  <script>
-    $( document ).ready(function(){
-      $(".button-collapse").sideNav();
-    })
-  </script>
 </head>
 <header>
 <nav>
