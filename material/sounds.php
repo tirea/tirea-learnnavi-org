@@ -57,7 +57,7 @@
               <i class="material-icons">play_circle_filled</i>
             </a>
             <span class="secondary-content black-text">&nbsp; / &nbsp;</span> 
-            <a id="play_u" href="#play_u" class="secondary-content amber-text">
+            <a id="play_u" class="secondary-content amber-text">
               <i class="material-icons">play_circle_filled</i>
             </a>
            </div>
