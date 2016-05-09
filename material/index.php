@@ -1,4 +1,4 @@
-<?php include "themetop.php"; ?>
+<?php include "res/themetop.php"; ?>
       <div class="tooltip"><span class="titlename">Zola&#39;u N&igrave;prrte&#39;</span><span class="tooltiptext">Welcome</span></div>
       <!-- CARD -->
       <div id="image" class="section scrollspy">
@@ -23,4 +23,4 @@
           </div>
         </div>
       </div>
-<?php include "themebottom.php"; ?>
+<?php include "res/themebottom.php"; ?>

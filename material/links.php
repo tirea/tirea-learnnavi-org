@@ -1,4 +1,4 @@
-<?php include "themetop.php" ?>
+<?php include "res/themetop.php" ?>
   <span class="titlename">
     Links
   </span>
@@ -77,4 +77,4 @@
       </a> | Eana Unil
     </li>
   </ul>
-<?php include "themebottom.php" ?>
+<?php include "res/themebottom.php" ?>

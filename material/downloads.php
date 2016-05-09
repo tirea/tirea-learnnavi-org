@@ -1,4 +1,4 @@
-﻿<?php include "themetop.php" ?>
+﻿<?php include "res/themetop.php" ?>
     <!-- The next div is for lesson content and more -->
     <div class="lesson cover">
       <span class="titlename">
@@ -111,4 +111,4 @@
         </li>
       </ul>
     </div>
-<?php include "themebottom.php" ?>
+<?php include "res/themebottom.php" ?>

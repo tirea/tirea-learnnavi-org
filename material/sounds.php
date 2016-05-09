@@ -1,4 +1,4 @@
-    <?php include "themetop.php" ?>
+    <?php include "res/themetop.php" ?>
       <span class="titlename">
         Na&#39;vi Sounds
       </span>
@@ -430,4 +430,4 @@
         </tr>
       </table>
  
-   <?php include "themebottom.php" ?>
+   <?php include "res/themebottom.php" ?>
