@@ -53,11 +53,11 @@
         </li>
         <li class="collection-item">
           <div>u [u] / [ʊ]
-            <a id="play_u" href="#play_u" class="secondary-content amber-text">
+            <a id="play_u1" href="#play_u1" class="secondary-content amber-text">
               <i class="material-icons">play_circle_filled</i>
             </a>
             <span class="secondary-content black-text">&nbsp; / &nbsp;</span> 
-            <a id="play_u1" href="#play_u1" class="secondary-content amber-text">
+            <a id="play_u" href="#play_u" class="secondary-content amber-text">
               <i class="material-icons">play_circle_filled</i>
             </a>
            </div>
