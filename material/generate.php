@@ -270,8 +270,76 @@ while ($k <= $_REQUEST["k"] -5){
 ?>
 </h4>
 <br/>
+
 <hr>
-<strong>IMPORTANT NOTICE ABOUT USAGE</strong>- <font color="red">**READ -FIRST- BEFORE USING**</font><br/>
+
+<style>select{display:block;}</style>
+
+<div class="row">
+  
+  <form class="col s12">
+		
+		<div class="row">
+			<div class="input-field col s12 l4">
+			  <?php echo '<select name="a" value=' . $_REQUEST["a"] . '>'; ?>
+			    <option value="" disabled selected>First Name # of Syllables</option>
+			    <option value="1">1</option>
+			    <option value="2">2</option>
+			    <option value="3">3</option>
+			    <option value="4">4</otpion>
+			    <option value="5">5</option>
+			    <option value="6">6</option>
+			    <option value="7">7</option>
+			    <option value="8">8</option>
+			  </select>
+			  <!-- <label>First Name syllables</label> -->
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="input-field col s12 l4">
+			  <?php echo '<select name="b" value=' . $_REQUEST["b"] . '>'; ?>
+			    <option value="" disabled selected>Family Name # of Syllables</option>
+			    <option value="1">1</option>
+			    <option value="2">2</option>
+			    <option value="3">3</option>
+			    <option value="4">4</otpion>
+			    <option value="5">5</option>
+			    <option value="6">6</option>
+			    <option value="7">7</option>
+			    <option value="8">8</option>
+			  </select>
+			  <!-- <label>Family Name syllables</label> -->
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="input-field col s12 l4">
+			  <?php echo '<select name="c" value=' . $_REQUEST["c"] . '>'; ?>
+			    <option value="" disabled selected>Parent's Name # of Syllables</option>
+			    <option value="1">1</option>
+			    <option value="2">2</option>
+			    <option value="3">3</option>
+			    <option value="4">4</otpion>
+			    <option value="5">5</option>
+			    <option value="6">6</option>
+			    <option value="7">7</option>
+			    <option value="8">8</option>
+			  </select>
+			  <!-- <label>Parent's Name syllables</label> -->
+			</div>
+		</div>
+
+		<button class="btn waves-effect waves-light amber black-text" type="submit">Submit
+    	<i class="material-icons right">send</i>
+    </button>
+
+	
+	</form>
+
+</div>
+
+<!-- <strong>IMPORTANT NOTICE ABOUT USAGE</strong>- <font color="red">**READ -FIRST- BEFORE USING**</font><br/>
 Use the following syntax:<br/>
 http://<?php echo $_SERVER["HTTP_HOST"]; ?>/generate.php?a=[a number]&b=[a number]&c=[a number]<br/>
 <br/>
@@ -282,9 +350,11 @@ a=3, b=2, and c=4 usually works best - try generating with this link:<br/>
 <br/>
 Since the entire thing is web-based, there is no platform requirement like Ikran Ahiyìk's tool. However, unlike his, my tool sometimes produces hard to pronounce (though legal) word combinations.<br/>
 <br/>
-There is no limit for a, b, and c. You can even try <a href="http:/<?php echo $_SERVER["HTTP_HOST"]; ?>/generate.php?a=10&b=10&c=15">http://<?php echo $_SERVER["HTTP_HOST"]; ?>/generate.php?a=10&b=10&c=15</a>!
+There is no limit for a, b, and c. You can even try <a href="http:/<?php echo $_SERVER["HTTP_HOST"]; ?>/generate.php?a=10&b=10&c=15">http://<?php echo $_SERVER["HTTP_HOST"]; ?>/generate.php?a=10&b=10&c=15</a>! -->
+
 <div style="margin-top: 18px; text-align: center; border-top: 1px solid #eeeeee; padding-top: 5px; ">
 	<a href="http://forum.learnnavi.org/projects/web-based-navi-name-generator!/msg566249/#msg566249">Web-based Na'vi Name Generator!</a> by Uniltìrantokx te Skxawng
 </div>
+
 </div>
 <?php include "res/themebottom.php" ?>
