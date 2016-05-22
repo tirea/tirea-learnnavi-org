@@ -1,6 +1,6 @@
 <?php include "res/themetop.php" ?>
 
-<span class="titlename">Nouns</span>
+<div class="titlename">Nouns</div>
 
 <p>Coming Soon</p>
 

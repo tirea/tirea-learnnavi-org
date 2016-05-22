@@ -1,7 +1,7 @@
     <?php include "res/themetop.php" ?>
-      <span class="titlename">
+      <div class="titlename">
         Na&#39;vi Sounds
-      </span>
+      </div>
       
       <p>
         <span class="navi">Kaltxì</span> ma frapo! This page contains the letters, the corresponding International Phonetics Alphabet (IPA) characters and recordings of the sounds of the Na&#39;vi language. So to practice your pronunciation, click the play button and listen, then try to go along and such.

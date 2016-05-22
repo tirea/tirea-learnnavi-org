@@ -1,6 +1,6 @@
 <?php include "res/themetop.php" ?>
 <div>
-<span class="titlename">Random Na'vi Name: </span><br>
+<div class="titlename">Random Na'vi Name: </div><br>
 	<br>
 <h4>
 <?php

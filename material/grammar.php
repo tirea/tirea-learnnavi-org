@@ -1,6 +1,6 @@
 <?php include "res/themetop.php" ?>
 
-<span class="titlename">Na'vi Grammar Made Simple</span>
+<div class="titlename">Na'vi Grammar Made Simple</div>
 <br><br>
 
       <!-- L1 CARD -->

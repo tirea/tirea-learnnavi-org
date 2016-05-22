@@ -1,7 +1,5 @@
 ﻿<?php include "res/themetop.php" ?>
-<span class="titlename">
-Downloads
-</span>
+<div class="titlename">Downloads</div>
 <h4>Lessons as PDF</h4>
 <div class="row">
   <div class="col s12 m3">

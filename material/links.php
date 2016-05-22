@@ -1,7 +1,5 @@
 <?php include "res/themetop.php" ?>
-  <span class="titlename">
-    Links
-  </span>
+  <div class="titlename">Links</div>
   <h4>
     Things I think are cool
   </h4>

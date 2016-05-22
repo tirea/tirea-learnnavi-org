@@ -1,6 +1,6 @@
 <?php include "res/themetop.php" ?>
 
-<span class="titlename">Advanced</span>
+<div class="titlename">Advanced</div>
 
 <p>Coming soon</p>
 
