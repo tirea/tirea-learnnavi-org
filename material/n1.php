@@ -6,7 +6,7 @@
         they, etc. Na'vi Pronouns are specific but 
         simple and logical.</p>
 
-      <table class="striped responsive-table">
+      <table class="striped bordered">
         <thead>
         	<tr>
         		<th data-field="blank"></th>
