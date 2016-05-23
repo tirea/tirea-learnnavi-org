@@ -3,7 +3,7 @@
       <div class="titlename">Nouns (n.)</div>
 
       <p>Nouns are persons, places, things. 
-        Na?vi nouns have no grammatical gender 
+        Na&apos;vi nouns have no grammatical gender 
         and no <em>the</em> or <em>a</em>. This way, you can learn 
         the word and use it. Sometimes it changes. 
         (more about that later.) To learn more about

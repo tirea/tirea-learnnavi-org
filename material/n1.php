@@ -4,7 +4,7 @@
 
       <p>Pronouns are words like I, you, he, she, it, 
         they, etc. Na'vi Pronouns are specific but 
-        simple and logical.</p>
+        simple and logical. Take a look at the table below:</p>
 
       <table class="striped bordered">
         <thead>
