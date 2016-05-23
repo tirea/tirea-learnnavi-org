@@ -287,10 +287,6 @@ while ($k <= $_REQUEST["k"] -5){
 			    <option value="2">2</option>
 			    <option value="3">3</option>
 			    <option value="4">4</otpion>
-			    <option value="5">5</option>
-			    <option value="6">6</option>
-			    <option value="7">7</option>
-			    <option value="8">8</option>
 			  </select>
 			  <!-- <label>First Name syllables</label> -->
 			</div>
@@ -304,10 +300,6 @@ while ($k <= $_REQUEST["k"] -5){
 			    <option value="2">2</option>
 			    <option value="3">3</option>
 			    <option value="4">4</otpion>
-			    <option value="5">5</option>
-			    <option value="6">6</option>
-			    <option value="7">7</option>
-			    <option value="8">8</option>
 			  </select>
 			  <!-- <label>Family Name syllables</label> -->
 			</div>
@@ -321,10 +313,6 @@ while ($k <= $_REQUEST["k"] -5){
 			    <option value="2">2</option>
 			    <option value="3">3</option>
 			    <option value="4">4</otpion>
-			    <option value="5">5</option>
-			    <option value="6">6</option>
-			    <option value="7">7</option>
-			    <option value="8">8</option>
 			  </select>
 			  <!-- <label>Parent's Name syllables</label> -->
 			</div>
