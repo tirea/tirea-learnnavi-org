@@ -244,7 +244,7 @@ if ($a > 4 || $b > 4 || $c > 4) {
 
 	$k;
 	while ($k <= $_REQUEST["k"] -5){
-		$i;
+		$i=0;
 		echo ucfirst(getInitial().getNucleus());
 		while ($i <= $a - 2){
 			echo getInitial().getNucleus();
