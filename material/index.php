@@ -1,5 +1,8 @@
 <?php include "res/themetop.php"; ?>
-      <div class="tooltip" id="index-tt"><div class="titlename"><span>Zola&#39;u N&igrave;prrte&#39;</span></div><span class="tooltiptext">Welcome</span></div>
+      <div class="tooltip" id="index-tt">
+        <div class="titlename"><span>Zola&#39;u N&igrave;prrte&#39;</span></div>
+        <span class="tooltiptext">Welcome</span>
+      </div>
       <!-- CARD -->
       <div id="image" class="section scrollspy">
         <div class="row">

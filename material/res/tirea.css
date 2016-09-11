@@ -3,14 +3,23 @@
 	src: url("MaiandraGD.ttf") format("truetype");
 }
 
-
 html, body {
 	background-color: #727272;
 	font-family: Maiandra GD, sans-serif;
+	font: 16px "Helvetica Neue",Helvetica,Arial,sans-serif;
 	margin: 0px;
 	padding: 0px;
 	min-width: 320px;
 	min-height: 480px;
+}
+
+ul {
+	padding-left: 40px;
+}
+
+a {
+	cursor: pointer;
+	cursor: hand;
 }
 
 main {
@@ -23,6 +32,7 @@ main {
 }
 
 .brand-logo {
+	font-family: Maiandra GD, sans-serif;
 	padding-left: 16px !important;
 }
 
@@ -34,7 +44,12 @@ main {
 	padding-right: 16px !important;
 }
 
+#warning {
+	font-size: 14px;
+}
+
 .titlename {
+	font-family: Maiandra GD, sans-serif;
 	text-align: center;
 	font-size: 2.1rem;
 	letter-spacing: 0px;
@@ -52,15 +67,6 @@ main {
 #index-tt .titlename span {
 	border-bottom: 1px dotted black;
 } /*TEH HAX!! */
-
-.nobullets {
-	list-style: none;
-}
-
-a {
-	cursor: pointer;
-	cursor: hand;
-}
 
 .tooltip {
 	position: relative;
@@ -81,7 +87,7 @@ a {
 	z-index: 1;
 	width: 120px;
 	top: 100%;
-	left: 50%; 
+	left: 50%;
 	margin-left: -60px;
 }
 

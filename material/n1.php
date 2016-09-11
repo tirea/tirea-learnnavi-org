@@ -2,8 +2,8 @@
 
       <div class="titlename">Pronouns (pn.)</div>
 
-      <p>Pronouns are words like I, you, he, she, it, 
-        they, etc. Na'vi Pronouns are specific but 
+      <p>Pronouns are words like I, you, he, she, it,
+        they, etc. Na'vi Pronouns are specific but
         simple and logical. Take a look at the table below:</p>
 
       <table class="striped bordered">
@@ -55,8 +55,10 @@
         </tbody>
       </table>
 
+      <br>
+
       <p>There are also poe (she) and poan (he) for 3rd animate singular, but po
-        (gender-neutral) is more commonly used. There's also sno, which means 
+        (gender-neutral) is more commonly used. There's also sno, which means
         self.</P>
 
 <?php include "res/themebottom.php" ?>
