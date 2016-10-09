@@ -2,7 +2,7 @@
       <div class="titlename">
         Na&#39;vi Sounds
       </div>
-      
+
       <p>
         <span class="navi">Kaltxì</span> ma frapo! This page contains the letters, the corresponding International Phonetics Alphabet (IPA) characters and recordings of the sounds of the Na&#39;vi language. So to practice your pronunciation, click the play button and listen, then try to go along and such.
       </p>
@@ -56,14 +56,14 @@
             <a id="play_u1" class="secondary-content amber-text">
               <i class="material-icons">play_circle_filled</i>
             </a>
-            <span class="secondary-content black-text">&nbsp; / &nbsp;</span> 
+            <span class="secondary-content black-text">&nbsp; / &nbsp;</span>
             <a id="play_u" class="secondary-content amber-text">
               <i class="material-icons">play_circle_filled</i>
             </a>
            </div>
         </li>
       </ul>
-      
+
       <ul class="collection with-header">
         <li class="collection-header"><h4>Diphthongs</h4></li>
         <li class="collection-item">
@@ -95,7 +95,7 @@
           </div>
         </li>
       </ul>
-      
+
       <ul class="collection with-header">
         <li class="collection-header"><h4>Pseudovowels</h4></li>
         <li class="collection-item">
@@ -113,7 +113,7 @@
           </div>
         </li>
       </ul>
-      
+
       <ul class="collection with-header">
         <li class="collection-header"><h4>Consonants</h4></li>
         <li class="collection-item">
@@ -250,7 +250,7 @@
           </div>
         </li>
       </ul>
-      
-    <?php include "clips.php" ?>
+
+    <?php include "res/clips.php" ?>
     <?php include "res/themebottom.php" ?>
-    <script src="play.js"></script>
+    <script src="res/play.js"></script>

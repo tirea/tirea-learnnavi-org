@@ -9,7 +9,7 @@
           <div class="col s12 m12 l12">
             <div class="card">
               <div class="card-image">
-                <img src="img/school.jpg">
+                <img src="res/school.jpg">
                 <span class="card-title">Easy Grammar Lessons</span>
               </div>
               <div class="card-content">

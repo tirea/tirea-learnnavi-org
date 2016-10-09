@@ -22,6 +22,11 @@ a {
 	cursor: hand;
 }
 
+.collection-link {
+	display: block;
+	width: 100%;
+}
+
 main {
 	width: 100%;
 	background-color: #fff;

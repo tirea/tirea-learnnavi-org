@@ -17,14 +17,14 @@
         <ul class="right hide-on-med-and-down" id="regnav">
           <li><a href="index.php">Home</a></li>
           <li><a href="sounds.php">Sounds</a></li>
-          <li><a href="grammar.php">Grammar</a></li>
+          <li><a href="lessons/index.php">Lessons</a></li>
           <li><a href="links.php">Links</a></li>
-          <li><a href="downloads.php">Downloads</a></li>
+          <li><a href="download/index.php">Downloads</a></li>
         </ul>
         <ul class="side-nav" id="mobile-demo">
           <li><a href="index.php">Home</a></li>
           <li><a href="sounds.php">Sounds</a></li>
-          <li><a href="grammar.php">Grammar</a></li>
+          <li><a href="lessons.php">Lessons</a></li>
           <li><a href="links.php">Links</a></li>
           <li><a href="downloads.php">Downloads</a></li>
         </ul>

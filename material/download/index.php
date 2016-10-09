@@ -158,21 +158,11 @@
 </div>
 <h4>Other Things Hosted On This Site</h4>
 <ul class="nobullets">
-  <li>
-    <a href="http://tirea.learnnavi.org/download/">download folder</a> | Some useful stuff you might want to look at or have
-  </li>
-  <li>
-    <a href="http://tirea.learnnavi.org/download/hkb-kxwerty-mod.apk">hkb-kxwerty-mod.apk</a> | Hacker&#39;s Keyboard Mod (KXWERTY for Android)
-  </li>
-  <li>
-    <a href="http://tirea.learnnavi.org/download/navkb6.zip">navkb6.zip</a> | KXWERTY for Windows / Mac
-  </li>
-  <li>
-    <a href="http://tirea.learnnavi.org/generate.php">generate.php</a> | Na&#39;vi Name Generator (An actually good one)
-  </li>
-  <li>
-    <a href="http://tirea.learnnavi.org/images">images folder</a> | Bunch of old memes and comics and whatnot, some Na&#39;vi-related
-  </li>
+  <li><a href="http://tirea.learnnavi.org/download/">download folder</a> | Some useful stuff you might want to look at or have</li>
+  <li><a href="http://tirea.learnnavi.org/download/hkb-kxwerty-mod.apk">hkb-kxwerty-mod.apk</a> | Hacker&#39;s Keyboard Mod (KXWERTY for Android)</li>
+  <li><a href="http://tirea.learnnavi.org/download/navkb6.zip">navkb6.zip</a> | KXWERTY for Windows / Mac</li>
+  <li><a href="http://tirea.learnnavi.org/generate.php">generate.php</a> | Na&#39;vi Name Generator (An actually good one)</li>
+  <!-- <li><a href="http://tirea.learnnavi.org/images">images folder</a> | Bunch of old memes and comics and whatnot, some Na&#39;vi-related</li> -->
 </ul>
 </div>
 <?php include "res/themebottom.php" ?>
