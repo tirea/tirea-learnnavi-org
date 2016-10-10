@@ -13,14 +13,15 @@
                 <span class="card-title">Easy Grammar Lessons</span>
               </div>
               <div class="card-content">
-                <p>The point of this website is to help and teach anyone and everyone who is
-                   willing to learn the Na&#39;vi language. If you are discouraged and intimidated by
-                   advanced linguist terms, this is the place for you. I try to be as simple as
-                   possible here in all my explanations of the grammar.
+                <p>Welcome to Tirea Na'vi! This site exists to teach the Na'vi
+                  Language to everyone in an easy to understand way. For all you
+                  non-linguist Avatar fans out there, I hope to help you on your
+                  way to becoming the next speaker of this amazing language.
+                  -- Tirea Aean
                 </p>
               </div>
               <div class="card-action">
-                <a class="amber-text accent-2" href="grammar.php">Get started</a>
+                <a class="amber-text accent-2" href="lessons/index.php">Get started</a>
               </div>
             </div>
           </div>

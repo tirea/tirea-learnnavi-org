@@ -61,6 +61,11 @@ main {
 	line-height: 1.1em;
 }
 
+.collection-header {
+	font-family: Maiandra GD, sans-serif;
+	font-size: 2.0rem;
+}
+
 #index-tt {
 	width:100%;
 }
@@ -100,18 +105,9 @@ main {
 	visibility: visible;
 }
 
-.tsawl {
-	font-size: 25pt;
-	font-family: Arial !important;
-}
-
 #page-content-div {
 	padding-top: 40px;
 	padding-bottom: 40px;
-}
-
-#fab {
-	display: none;
 }
 
 .foot {
