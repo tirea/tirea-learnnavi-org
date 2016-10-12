@@ -3,7 +3,7 @@
         <div class="titlename">Greetings &amp; Introductions</div>
         <br><br>
 
-	<p>Hello, and welcome to the first of a new series of Na&#39;vi Language lessons! Here are some of the classic building blocks of getting started with conversation in Na&#39;vi.</p>
+	<p>Hello, and welcome to the first of a new series of Na&#39;vi Language lessons! If you haven't already, I highly recommend that you check out the audio clips on the <a href="/material/sounds.php">Sounds</a> page to get a solid feel for how the language is pronounced. Here are some of the classic building blocks of getting started with conversation in Na&#39;vi.</p>
 
 	<ul class="collection with-header">
     <li class="collection-header"><h4>Learning Objectives</h4></li>
