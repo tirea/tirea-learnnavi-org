@@ -193,7 +193,7 @@
       <tr><td><span class="navword">fko</span></td> <td><em>one, unspecified person</em></td></tr>
       <tr><td><span class="navword">syaw</span></td> <td><em>call</em></td></tr>
       <tr><td><span class="navword">fyape/pefya</span></td> <td><em>how</em></td></tr>
-      <tr><td><span class="navword">kiyevame</span></td> <td><em>See you again soon</em></td></tr>
+      <tr><td><span class="navword">kiyevame/kìyevame</span></td> <td><em>See you again soon</em></td></tr>
       <tr><td><span class="navword">Eywa ngahu</span></td> <td><em>Eywa be with you</em></td></tr>
       <tr><td><span class="navword">hayalovay</span></td> <td><em>Until next time</em></td></tr>
       <tr><td><span class="navword">nìteng</span></td> <td><em>too, as well</em></td></tr>
