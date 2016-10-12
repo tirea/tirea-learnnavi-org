@@ -32,7 +32,7 @@
         </ul>
       </div>
     </nav>
-    <div class="amber black-text" id="warning">EXPERIMENTAL SITE UNDER CONSTRUCTION! :D</div>
+    <!-- <div class="amber black-text" id="warning">EXPERIMENTAL SITE UNDER CONSTRUCTION! :D</div> -->
   </header>
   <main>
   <div class="container">
