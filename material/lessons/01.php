@@ -3,7 +3,7 @@
         <div class="titlename">Greetings &amp; Introductions</div>
         <br><br>
 
-	<p>Hello, and welcome to the first of a new series of Na&#39;vi Language lessons! Here are some of the classic building blocks of getting started with conversation in Na'vi.</p>
+	<p>Hello, and welcome to the first of a new series of Na&#39;vi Language lessons! Here are some of the classic building blocks of getting started with conversation in Na&#39;vi.</p>
 
 	<ul class="collection with-header">
     <li class="collection-header"><h4>Learning Objectives</h4></li>
@@ -34,7 +34,7 @@
 
   <p>You may be asking, &quot;Doesn&#39;t that say, <em>&#39;I you See&#39;</em>?&quot;
     And you&#39;d be correct; it does say that.
-    In the Na'vi language, the word order is much more flexible than that of English.
+    In the Na&#39;vi language, the word order is much more flexible than that of English.
     More about that later.  For now, we will keep it simple.
   </p>
 
@@ -48,7 +48,7 @@
 	<h1 id="2">How are you?</h1>
 
   <p>The Na&#39;vi do not really ask, &quot;<em>How are you?</em>&quot;, but rather
-    something more like &quot;<em>Do you have peace/well-being?</em>&quot; Here's how it works:
+    something more like &quot;<em>Do you have peace/well-being?</em>&quot; Here&#39;s how it works:
   </p>
 
   <p><span class="navword">Ngaru lu fpom srak?</span><br>
@@ -63,9 +63,9 @@
     It goes at the end of the sentence, or at the very beginning as <span class="navword">srake</span>.
   </p>
 
-  <h1 id="3">I'm well / not well / so-so</h1>
+  <h1 id="3">I&#39;m well / not well / so-so</h1>
 
-  <p>Since <em>How are you</em> in Na`vi is actually a yes/no question, its answers are the following:</p>
+  <p>Since <em>How are you</em> in Na&#39;vi is actually a yes/no question, its answers are the following:</p>
 
   <p><span class="navword">srane</span>, which means <em>yes</em><br>
     <span class="navword">kehe</span>, which means <em>no</em><br>
@@ -84,20 +84,20 @@
 
   <h1 id="4">My name is / I am</h1>
 
-  <p>Although in Na`vi you <em>could</em> say literally,</p>
+  <p>Although in Na&#39;vi you <em>could</em> say literally,</p>
 
   <p><span class="navword">Oeyä tstxo lu ____</span><br>
     <em>My name is ____</em>
   </p>
 
-  <p>It`s much more Na`vi-like to say it like this:</p>
+  <p>It&#39;s much more Na&#39;vi-like to say it like this:</p>
 
   <p><span class="navword">Oeru fko syaw ____</span><br>
     <em>One calls me ____</em><br>
     Literally: &quot;To me one calls ____&quot;
   </p>
 
-  <p>Since the Na`vi language has flexible word order, if the above sentence gives
+  <p>Since the Na&#39;vi language has flexible word order, if the above sentence gives
     you any trouble, you can change the word order. Perhaps to something like this:
   </p>
 
@@ -106,10 +106,10 @@
     <span class="navword">Fko oeru syaw ____</span>
   </p>
 
-  <h1 id="5">What's your name?</h1>
+  <h1 id="5">What&#39;s your name?</h1>
 
   <p>This question is very similar to its reply, which is found in the previous section.
-    <em>What's your name?</em> in Na`vi is more like <em>How are you called?</em> and
+    <em>What&#39;s your name?</em> in Na&#39;vi is more like <em>How are you called?</em> and
     is typically worded like this:
   </p>
 
@@ -125,7 +125,7 @@
 
   <p>Note that Fyape/Peyfa are two forms of the same word, and ngar/ngaru are also two forms of the same word.</p>
 
-  <p><em>Nice to meet you</em> in Na`vi translates to <span class="navword">Smon nìprrte`</span>. Literally: &quot;[you are] familiar [to me] pleasurably&quot;
+  <p><em>Nice to meet you</em> in Na&#39;vi translates to <span class="navword">Smon nìprrte&#39;</span>. Literally: &quot;[you are] familiar [to me] pleasurably&quot;
 
   <h1 id="6">Goodbye</h1>
 
@@ -157,9 +157,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>How are you called?</em><br>
     A: <span class="navword">Oeru syaw ____. Fyape fko syaw ngaru?</span><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>I am called ____. How are you called?</em><br>
-    B: <span class="navword">Smon nìprrte`. Oeru syaw ____.</span><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Nice to meet you. I`m called ____.</em><br>
-    A: <span class="navword">Smon nìprrte` nìteng.</span><br>
+    B: <span class="navword">Smon nìprrte&#39;. Oeru syaw ____.</span><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Nice to meet you. I&#39;m called ____.</em><br>
+    A: <span class="navword">Smon nìprrte&#39; nìteng.</span><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Nice to meet you too.</em><br>
     B: <span class="navword">Kiyevame ulte Eywa ngahu!</span><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Goodbye and Eywa be with you!</em><br>
@@ -171,7 +171,7 @@
 
   <table class="striped bordered centered">
     <thead>
-      <tr><th><span class="navword">Na'vi</span></th><th><em>English</em></th></tr>
+      <tr><th><span class="navword">Na&#39;vi</span></th><th><em>English</em></th></tr>
     </thead>
     <tbody>
       <tr><td><span class="navword">Kaltxì</span></td> <td><em>Hello</em></td></tr>
