@@ -3,7 +3,7 @@
         <div class="titlename">Having and Giving</div>
         <br><br>
 
-        <p>This is lesson text.</p>
+        <p>Coming soon...</p>
 
       </div>
 

@@ -3,7 +3,7 @@
         <div class="titlename">Asking Questions</div>
         <br><br>
 
-        <p>This is lesson text.</p>
+        <p>Coming soon...</p>
 
       </div>
 
