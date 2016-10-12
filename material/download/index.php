@@ -158,14 +158,14 @@
 </div>
 <ul class="collection with-header">
   <li class="collection-header"><h4>Other Things Hosted On This Site</h4></li>
-  <li class="collection-item"><a class="collection-link" href="/material/download/101-Handout-4-WA-2012.pdf">Na'vi 101 Handout [PDF]</a>From AvatarMeet 2012 Seattle, WA</li>
-  <li class="collection-item"><a class="collection-link" href="/material/download/102-Handout-4-DC-2013.pdf">Na'vi 102 Handout [PDF]</a>From AvatarMeet 2013 Washington, DC</li>
-  <li class="collection-item"><a class="collection-link" href="/material/download/103-Handout-4-LA-2014.pdf">Na'vi 103 Handout [PDF]</a>From AvatarMeet 2014 Los Angeles, CA</li>
-  <li class="collection-item"><a class="collection-link" href="/material/download/hkb-kxwerty-mod.apk">Hacker&#39;s Keyboard Mod [APK Android App]</a>KXWERTY keyboard layout for Android</li>
-  <li class="collection-item"><a class="collection-link" href="/material/download/ts3_Client_LN_Sound_Pack-0.2.zip">TS3 Voice Pack [ZIP]</a>Na&#39;vi Language support for TeamSpeak 3</li>
-  <li class="collection-item"><a class="collection-link" href="/material/download/navkb6.zip">The KXWERTY Keyboard [ZIP]</a>KXWERTY keyboard layout for Windows / Mac</li>
-  <li class="collection-item"><a class="collection-link" href="/generate.php">Na&#39;vi Name Generator</a>Generates valid names</li>
-  <!-- <li class="collection-item"><a class="collection-link" href="/material/img">images folder</a>Bunch of old memes and comics and whatnot, some Na&#39;vi-related</li> -->
+  <li class="collection-item"><a class="collection-link" href="/material/download/101-Handout-4-WA-2012.pdf">Na'vi 101 Handout [PDF]</a><br>From AvatarMeet 2012 Seattle, WA</li>
+  <li class="collection-item"><a class="collection-link" href="/material/download/102-Handout-4-DC-2013.pdf">Na'vi 102 Handout [PDF]</a><br>From AvatarMeet 2013 Washington, DC</li>
+  <li class="collection-item"><a class="collection-link" href="/material/download/103-Handout-4-LA-2014.pdf">Na'vi 103 Handout [PDF]</a><br>From AvatarMeet 2014 Los Angeles, CA</li>
+  <li class="collection-item"><a class="collection-link" href="/material/download/hkb-kxwerty-mod.apk">Hacker&#39;s Keyboard Mod [APK Android App]</a><br>KXWERTY keyboard layout for Android</li>
+  <li class="collection-item"><a class="collection-link" href="/material/download/ts3_Client_LN_Sound_Pack-0.2.zip">TS3 Voice Pack [ZIP]</a><br>Na&#39;vi Language support for TeamSpeak 3</li>
+  <li class="collection-item"><a class="collection-link" href="/material/download/navkb6.zip">The KXWERTY Keyboard [ZIP]</a><br>KXWERTY keyboard layout for Windows / Mac</li>
+  <li class="collection-item"><a class="collection-link" href="/generate.php">Na&#39;vi Name Generator</a><br>Generates valid names</li>
+  <!-- <li class="collection-item"><a class="collection-link" href="/material/img">images folder</a><br>Bunch of old memes and comics and whatnot, some Na&#39;vi-related</li> -->
 </ul>
 </div>
 <?php include "../res/themebottom.php" ?>
