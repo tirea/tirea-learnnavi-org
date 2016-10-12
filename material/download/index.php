@@ -1,6 +1,6 @@
 ﻿<?php include "../res/themetop.php" ?>
 <div class="titlename">Downloads</div>
-<h4>Lessons as PDF</h4>
+<!-- <h4>Lessons as PDF</h4>
 <div class="row">
   <div class="col s12 m3">
     <a href="/material/download/1.pdf">
@@ -155,7 +155,7 @@
       </div>
     </a>
   </div>
-</div>
+</div> -->
 <ul class="collection with-header">
   <li class="collection-header"><h4>Other Things Hosted On This Site</h4></li>
   <li class="collection-item"><a class="collection-link" href="/material/download/101-Handout-4-WA-2012.pdf">Na'vi 101 Handout [PDF]</a><br>From AvatarMeet 2012 Seattle, WA</li>
