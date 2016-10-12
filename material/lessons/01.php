@@ -65,11 +65,11 @@
 
   <h1 id="3">I&#39;m well / not well / so-so</h1>
 
-  <p>Since <em>How are you</em> in Na&#39;vi is actually a yes/no question, its answers are the following:</p>
+  <p>Since <em>How are you</em> in Na&#39;vi is actually a yes/no question, its answers include the following:</p>
 
-  <p><span class="navword">srane</span>, which means <em>yes</em><br>
-    <span class="navword">kehe</span>, which means <em>no</em><br>
-    <span class="navword">tam ke tam</span>, which is a phrase that basically means <em>meh</em>, or <em>so-so</em>
+  <p><span class="navword">Srane.</span> <em>Yes.</em><br>
+    <span class="navword">Kehe.</span> <em>No.</em><br>
+    <span class="navword">Tam ke tam.</span> A phrase that basically means <em>meh</em> or <em>so-so</em>.
   </p>
 
   <p>To ask the question back to whoever asked you first, you have two options:</p>
