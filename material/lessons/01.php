@@ -123,7 +123,7 @@
     Literally: &quot;How calls one to you?&quot;
   </p>
 
-  <p>Note that Fyape/Peyfa are two forms of the same word, and ngar/ngaru are also two forms of the same word.</p>
+  <p>Note that Fyape/Pefya are two forms of the same word, and ngar/ngaru are also two forms of the same word.</p>
 
   <p><em>Nice to meet you</em> in Na&#39;vi translates to <span class="navword">Smon nìprrte&#39;</span>. Literally: &quot;[you are] familiar [to me] pleasurably&quot;
 
