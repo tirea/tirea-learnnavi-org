@@ -86,24 +86,24 @@
 
   <p>Although in Na&#39;vi you <em>could</em> say literally,</p>
 
-  <p><span class="navword">Oeyä tstxo lu ____</span><br>
-    <em>My name is ____</em>
+  <p><span class="navword">Oeyä tstxo lu ____.</span><br>
+    <em>My name is ____.</em>
   </p>
 
   <p>It&#39;s much more Na&#39;vi-like to say it like this:</p>
 
-  <p><span class="navword">Oeru fko syaw ____</span><br>
-    <em>One calls me ____</em><br>
-    Literally: &quot;To me one calls ____&quot;
+  <p><span class="navword">Oeru fko syaw ____.</span><br>
+    <em>One calls me ____.</em><br>
+    Literally: &quot;To me one calls ____.&quot;
   </p>
 
   <p>Since the Na&#39;vi language has flexible word order, if the above sentence gives
     you any trouble, you can change the word order. Perhaps to something like this:
   </p>
 
-  <p><span class="navword">Oeru syaw fko ____</span><br>
+  <p><span class="navword">Oeru syaw fko ____.</span><br>
     or<br>
-    <span class="navword">Fko oeru syaw ____</span>
+    <span class="navword">Fko oeru syaw ____.</span>
   </p>
 
   <h1 id="5">What&#39;s your name?</h1>
@@ -113,7 +113,7 @@
     is typically worded like this:
   </p>
 
-  <p><span class="navword">Fyape fko syaw ngar</span><br>
+  <p><span class="navword">Fyape fko syaw ngar?</span><br>
     <em>How are you called?</em><br>
     Literally: &quot;How one calls to you?&quot;
   </p>
@@ -192,6 +192,7 @@
       <tr><td><span class="navword">tstxo</span></td> <td><em>name</em></td></tr>
       <tr><td><span class="navword">fko</span></td> <td><em>one, unspecified person</em></td></tr>
       <tr><td><span class="navword">syaw</span></td> <td><em>call</em></td></tr>
+      <tr><td><span class="navword">fyape/pefya</span></td> <td><em>how</em></td></tr>
       <tr><td><span class="navword">kiyevame</span></td> <td><em>See you again soon</em></td></tr>
       <tr><td><span class="navword">Eywa ngahu</span></td> <td><em>Eywa be with you</em></td></tr>
       <tr><td><span class="navword">hayalovay</span></td> <td><em>Until next time</em></td></tr>
