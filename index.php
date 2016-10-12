@@ -1,1 +1,1 @@
-<?php header("Location: mip") ?>
+<?php header("Location: material") ?>
