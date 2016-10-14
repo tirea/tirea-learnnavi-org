@@ -9,7 +9,7 @@
     <li class="collection-item"><a class="collection-link" href="http://learnnavi.org/navi-numbers">Na&#39;vi Numbers</a><br>Epic Na&#39;vi Number translator thingy</li>
     <li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/26139/all-navi-vocabulary/">All Na&#39;vi Vocabulary</a><br>Learn Na&#39;vi Memrise Course</li>
     <li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/51606/navi-useful-phrases/">Na&#39;vi Useful Phrases</a><br>Na&#39;vi Phrases Memrise Course</li>
-    <li class="collection-item"><a class="collection-link" href="http://naviteri.org">Na&#39;viteri.org</a><br>Paul Frommer&#39;s Blo</li>
+    <li class="collection-item"><a class="collection-link" href="http://naviteri.org">Na&#39;viteri.org</a><br>Paul Frommer&#39;s Blog</li>
     <li class="collection-item"><a class="collection-link" href="http://layonyayo.com">Layon Yayo</a><br>Na&#39;vi Web Comic by Eana Unil</li>
     <li class="collection-item"><a class="collection-link" href="http://www.avatarnation.net">Avatar Nation</a><br>Avatar Fan Site / Podcast</li>
   </ul>
