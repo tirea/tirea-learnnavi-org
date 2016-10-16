@@ -81,17 +81,17 @@
     <li><span class="navword"><u>ta</u>lioang</span> (<em>sturmbeest</em>)</li>
     <li><span class="navword"><u>pa</u>suk</span> (<em>berry</em>)</li>
     <li><span class="navword">rel</span> (<em>picture</em>)</li>
-    <li><span class="navword"><u>lì'</u>yfa</span> (<em>language</em>)</li>
+    <li><span class="navword"><u>lì'</u>fya</span> (<em>language</em>)</li>
     <li><span class="navword"><u>rey</u>fya</span> (<em>culture</em>)</li>
     <li><span class="navword"><u>pam</u>tseo</span> (<em>music</em>)</li>
   </ul>
 
   <p>Let's put some of these together into some basic sentences. We'll need some
-    form of <em>I</em> such as <span class="navword">oe</span> or <span class="navword">oel</span>.
+    form of <em>I</em> such as <span class="navword"><u>o</u>e</span> or <span class="navword">o<u>e</u>l</span>.
     Feel free to play around with these, following the way it's done in the examples:
   </p>
 
-  <p><span class="navword">Oe hahaw.</span><br>
+  <p><span class="navword"><u>O</u>e <u>ha</u>haw.</span><br>
     <em>I sleep.</em>
   </p>
 
@@ -101,15 +101,15 @@
     dictionary without any changes. Here's another one:
   </p>
 
-  <p><span class="navword">Uvan si oe.</span><br>
+  <p><span class="navword">U<u>van</u> si <u>o</u>e.</span><br>
     <em>I play a game.</em>
   </p>
 
-  <p>The word order is flexible, so {uvan si} and {oe} cane come in both orders
+  <p>The word order is flexible, so {<span class="navword">u<u>van</u> si</span>} and {<span class="navword"><u>o</u>e</span>} can come in both orders
     and correctly mean the same thing.
   </p>
 
-  <p><span class="navword">Oel teyluti yom.</span><br>
+  <p><span class="navword">O<u>e</u>l <u>tey</u>luti yom.</span><br>
     <em>I eat teylu.</em><br>
     Literally: I teylu eat.
   </p>
@@ -121,12 +121,12 @@
     ending does the action and whatever has the <span class="navword">-ti / -it / -t</span>
     ending gets the action applied to it or done to it. Here are some more examples:</p>
 
-  <p><span class="navword">Yune oel pamtseot.</span><br>
+  <p><span class="navword"><u>Yu</u>ne o<u>e</u>l <u>pam</u>tseot.</span><br>
     <em>I listen to music.</em><br>
     Literally: Listen-to I music.
   </p>
 
-  <p><span class="navword">Oel ftia lì'fyati.</span><br>
+  <p><span class="navword">O<U>el</u> fti<u>a</u> <u>lì'</u>fyati.</span><br>
     <em>I study [a/the] language.</em>
   </p>
 
@@ -153,16 +153,16 @@
   </p>
 -->
   <p>And if you happen to be doing nothing, then you can simply say,
-    "<span class="navword">[oe] kekem ke si</span>." That's a pretty popular
-    answer to <span class="navword">Kempe si nga?</span>
+    "<span class="navword">[oe] <u>ke</u>kem <u>ke</u> si</span>." That's a pretty popular
+    answer to <span class="navword"><u>kem</u>pe si nga?</span>
   </p>
 
   <h1 id="7">Dialogue</h1>
 
   <p>
-    A: <span class="navword">Ma Neytiri, kempe si nga?</span><br>
+    A: <span class="navword">Ma Ney<u>ti</u>ri, <u>kem</u>pe si nga?</span><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Neytiri, what are you doing?</em><br>
-    B: <span class="navword">Oel mautit starsìm.</span><br>
+    B: <span class="navword">O<u>e</u>l <u>ma</u>utit <u>star</u>sìm.</span><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>I collect fruit.</em><br>
     ...
   </p>
