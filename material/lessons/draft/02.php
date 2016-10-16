@@ -119,7 +119,8 @@
     to keep track of what's eating what, since word order doesn't do that for us
     like in English. In Na'vi, whatever has the <span class="navword">-l / -ìl</span>
     ending does the action and whatever has the <span class="navword">-ti / -it / -t</span>
-    ending gets the action applied to it or done to it. Here are some more examples:</p>
+    ending gets the action applied to it or done to it. Here are some more examples:
+  </p>
 
   <p><span class="navword"><u>Yu</u>ne o<u>e</u>l <u>pam</u>tseot.</span><br>
     <em>I listen to music.</em><br>
@@ -130,28 +131,18 @@
     <em>I study [a/the] language.</em>
   </p>
 
-  <p>...</p>
-<!--
-  <p><span class="navword"></span><br>
-    <em></em>
+  <p><span class="navword">O<u>e</u>l näk <u>pay</u>ti</span><br>
+    <em>I drink water.</em>
   </p>
 
-  <p><span class="navword"></span><br>
-    <em></em>
+  <p><span class="navword"><u>O</u>e pll<u>txe</u>.</span><br>
+    <em>I speak.</em>
   </p>
 
-  <p><span class="navword"></span><br>
-    <em></em>
+  <p><span class="navword">O<u>e</u>l <u>rel</u>it weyn.</span><br>
+    <em>I draw picture.</em>
   </p>
 
-  <p><span class="navword"></span><br>
-    <em></em>
-  </p>
-
-  <p><span class="navword"></span><br>
-    <em></em>
-  </p>
--->
   <p>And if you happen to be doing nothing, then you can simply say,
     "<span class="navword">[oe] <u>ke</u>kem <u>ke</u> si</span>." That's a pretty popular
     answer to <span class="navword"><u>kem</u>pe si nga?</span>

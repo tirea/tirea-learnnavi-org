@@ -6,6 +6,7 @@
     <link rel="shortcut icon" href="/material/res/favicon.png">
     <link rel="apple-touch-icon" href="/material/res/favicon.png">
     <link rel="icon" type="image/png" href="/material/res/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Tirea Na'vi" href="/material/feed.xml">
     <link rel="stylesheet" href="/material/res/icons.css">
     <link rel="stylesheet" href="/material/res/materialize.min.css">
     <link rel="stylesheet" href="/material/res/tirea.css">
@@ -23,7 +24,7 @@
           <li><a href="/material/lessons/index.php">Lessons</a></li>
           <li><a href="/material/links.php">Links</a></li>
           <li><a href="/material/download/index.php">Downloads</a></li>
-          <li id="rss-nav-item"><a id="rss-link" href="/material/feed.rss"><img id="rss-icon" src="/material/res/rss-icon.png"></a></li>
+          <li id="rss-nav-item"><a id="rss-link" href="/material/feed.xml"><img id="rss-icon" src="/material/res/rss-icon.png"></a></li>
         </ul>
         <ul class="side-nav" id="mobilenav">
           <li><a href="/material/index.php">Home</a></li>
@@ -31,7 +32,7 @@
           <li><a href="/material/lessons/index.php">Lessons</a></li>
           <li><a href="/material/links.php">Links</a></li>
           <li><a href="/material/download/index.php">Downloads</a></li>
-          <li><a href="/material/feed.rss">RSS Feed</a></li>
+          <li><a href="/material/feed.xml">RSS Feed</a></li>
         </ul>
       </div>
     </nav>
