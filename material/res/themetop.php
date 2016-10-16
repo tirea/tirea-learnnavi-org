@@ -17,7 +17,8 @@
     <nav>
       <div class="nav-wrapper">
         <a href="/material/index.php" class="brand-logo">Tirea Na&apos;vi</a>
-        <a href="#" data-activates="mobilenav" class="button-collapse"><i class="material-icons">menu</i></a>
+        <!-- <a href="#" data-activates="mobilenav" class="button-collapse"><i class="material-icons">menu</i></a> -->
+        <a class="button-collapse" href="#" data-activates="mobilenav"><span id="mobile-menu-icon">&#9776;</span></a>
         <ul class="right hide-on-med-and-down" id="regnav">
           <li><a href="/material/index.php">Home</a></li>
           <li><a href="/material/sounds.php">Sounds</a></li>
