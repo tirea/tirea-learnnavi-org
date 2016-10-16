@@ -3,16 +3,19 @@
   <head>
     <title>Tirea Na&apos;vi</title>
     <meta charset="UTF-8">
-    <link href="/material/res/icons.css" rel="stylesheet">
+    <link rel="shortcut icon" href="/material/res/favicon.png">
+    <link rel="apple-touch-icon" href="/material/res/favicon.png">
+    <link rel="icon" type="image/png" href="/material/res/favicon.png">
+    <link rel="stylesheet" href="/material/res/icons.css">
     <link rel="stylesheet" href="/material/res/materialize.min.css">
     <link rel="stylesheet" href="/material/res/tirea.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <meta name="theme-color" content="#00bcd4"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#00bcd4">
   </head>
   <header>
     <nav>
       <div class="nav-wrapper">
-        <a href="index.php" class="brand-logo">Tirea Na&apos;vi</a>
+        <a href="/material/index.php" class="brand-logo">Tirea Na&apos;vi</a>
         <a href="#" data-activates="mobilenav" class="button-collapse"><i class="material-icons">menu</i></a>
         <ul class="right hide-on-med-and-down" id="regnav">
           <li><a href="/material/index.php">Home</a></li>
