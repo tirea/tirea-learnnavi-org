@@ -74,7 +74,7 @@
   <ul>
     <li><span class="navword">pay</span> (<em>water</em>)</li>
     <li><span class="navword">vey</span> (<em>food derived from animals</em>)</li>
-    <li><span class="navword">fkxen</span> (<em>food derived from plants</em>)</li>
+    <li><span class="navword">fkxen</span> (<em>food derived from plants, vegetable</em>)</li>
     <li><span class="navword"><u>ma</u>uti</span> (<em>fruit</em>)</li>
     <li><span class="navword"><u>tey</u>lu</span> (<em>beetle larva</em>)</li>
     <li><span class="navword"><u>ye</u>rik</span> (<em>hexapede</em>)</li>
