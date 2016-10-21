@@ -285,7 +285,7 @@ if (($a > 4 || $b > 4 || $c > 4) && !isset($hrh)) {
 }
 ?>
 </h4>
-<?php if ($a > 4 || $b > 4 || $c > 4) {
+<?php if (($a > 4 || $b > 4 || $c > 4) && (!isset($hrh) || $hrh != 1) ) {
 	echo "<span class='cyan-text darken-3'>Nice try. ;D</span>";
 }
 ?>
