@@ -13,7 +13,6 @@ $hrh = $_REQUEST["hrh"];
 if (($a > 4 || $b > 4 || $c > 4) && !isset($hrh)) {
 	echo "HRH te HRH HRH'itan";
 } else {
-	if (isset($hrh)) {
 		if ($hrh !=1 ) {
 			echo "HRH te HRH HRH'ite";
 		} else {
@@ -281,7 +280,6 @@ if (($a > 4 || $b > 4 || $c > 4) && !isset($hrh)) {
 				//echo "<br/>";
 			}
 		}
-	}
 }
 ?>
 </h4>
