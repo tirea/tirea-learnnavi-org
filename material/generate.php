@@ -13,7 +13,7 @@ $hrh = $_REQUEST["hrh"];
 if (($a > 4 || $b > 4 || $c > 4) && !isset($hrh)) {
 	echo "HRH te HRH HRH'itan";
 } else {
-		if ($hrh !=1 ) {
+		if (isset($hrh) && $hrh !=1 ) {
 			echo "HRH te HRH HRH'ite";
 		} else {
 
