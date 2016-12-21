@@ -167,5 +167,4 @@
   <li class="collection-item"><a class="collection-link" href="/material/generate.php">Na&#39;vi Name Generator</a><br>Generates valid names</li>
   <!-- <li class="collection-item"><a class="collection-link" href="/material/img">images folder</a><br>Bunch of old memes and comics and whatnot, some Na&#39;vi-related</li> -->
 </ul>
-</div>
 <?php include "../res/themebottom.php" ?>
