@@ -13,7 +13,7 @@
 
         <h1>Simplified Grammar Lessons</h1>
 
-				<p>While I'm working on new content and the back end of this website, here are the classic lesson. Tried and true over the years, and now back by popular demand.</p>
+				<p>While I'm working on new content and the back end of this website, here are the classic lessons. Tried and true over the years, and now back by popular demand.</p>
 
         <ul class="collection with-header">
         	<!-- <li class="collection-header"><h4>Intro to Na'vi Grammar</h4></li> -->
