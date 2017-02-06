@@ -247,7 +247,7 @@ if (($a > 4 || $b > 4 || $c > 4) && !isset($hrh)) {
 			}
 
 			$k;
-			while ($k <= $_REQUEST["k"] -5){
+			while ($k <= $_REQUEST["k"] -1){
 				$i=0;
 				echo ucfirst(getInitial().getNucleus());
 				while ($i <= $a - 2){
@@ -277,7 +277,7 @@ if (($a > 4 || $b > 4 || $c > 4) && !isset($hrh)) {
 					echo "e";
 				}
 				$k++;
-				//echo "<br/>";
+				echo "<br/>";
 			}
 		}
 }
@@ -328,6 +328,19 @@ if (($a > 4 || $b > 4 || $c > 4) && !isset($hrh)) {
 			    <option value="2">2</option>
 			    <option value="3">3</option>
 			    <option value="4">4</option>
+			  </select>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="input-field col s12 l4">
+			  <select name="k">
+			    <option value="" disabled selected>Number of Names to Generate</option>
+			    <option value="1">1</option>
+			    <option value="5">5</option>
+			    <option value="10">10</option>
+			    <option value="50">50</option>
+					<option value="100">100</option>
 			  </select>
 			</div>
 		</div>
