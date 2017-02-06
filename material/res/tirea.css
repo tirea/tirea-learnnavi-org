@@ -15,7 +15,8 @@ html, body {
 
 main {
 	width: 100%;
-	background-color: #fff;
+	background-color: #fafafa;
+	color: #555;
 }
 
 h1 {
@@ -148,6 +149,10 @@ h1, h2, h3, h4, .titlename, .collection-header {
 	color: #06619F;
 }
 
+blockquote {
+	border-left: 0px;
+}
+
 #fab {
 	display:none;
 }
@@ -160,4 +165,47 @@ h1, h2, h3, h4, .titlename, .collection-header {
 	text-align: center;
 	padding: 30px;
 	bottom: 0px;
+}
+
+/* COLORS */
+.deepskyblue {
+	color: deepskyblue;
+}
+
+/* Lesson 13 parts of speech colors */
+
+/* verb transitive */
+.vtr {
+	color: #8303FF;
+  font-weight: bold;
+}
+
+/* verb intransitive */
+.vin {
+	color: lime;
+  font-weight: bold;
+}
+
+/* agentive */
+.ag {
+  color: cyan;
+	font-weight: bold;
+}
+
+/* topical */
+.tp {
+  color: burlywood;
+  font-weight: bold;
+}
+
+/* attributive clause */
+.ac {
+  color: orchid;
+  font-weight: bold;
+}
+
+/* adjective */
+.adj {
+	color: #228855;
+  font-weight: bold;
 }
