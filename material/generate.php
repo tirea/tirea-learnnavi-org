@@ -15,7 +15,7 @@ if (($a > 4 || $b > 4 || $c > 4) && !isset($hrh)) {
 } else {
 		if (isset($hrh) && $hrh !=1 ) {
 			echo "HRH te HRH HRH'ite";
-		} else {
+		} else if ($_REQUEST["k"] <= 100) {
 
 			function getInitial () {
 				$type;
@@ -279,6 +279,8 @@ if (($a > 4 || $b > 4 || $c > 4) && !isset($hrh)) {
 				$k++;
 				echo "<br/>";
 			}
+		} else {
+			echo 'Maximum output of generator exceeded.';
 		}
 }
 ?>
