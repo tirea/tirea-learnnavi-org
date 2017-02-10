@@ -96,6 +96,10 @@ a {
 	font-size: 2.0rem;
 }
 
+.collection {
+	padding-left: 0px !important;
+}
+
 h1, h2, h3, h4, .titlename, .collection-header {
 	color: #217CBA;
 }
@@ -110,7 +114,7 @@ h1, h2, h3, h4, .titlename, .collection-header {
 
 #index-tt .titlename span {
 	border-bottom: 1px dotted black;
-} /*TEH HAX!! */
+}
 
 .tooltip {
 	position: relative;
