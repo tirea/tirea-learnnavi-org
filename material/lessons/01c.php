@@ -6,7 +6,7 @@
 
 	<!-- lesson content -->
 		<p>
-			<span class="navi">Kaltxì</span>! Ulte zola'u nìprrte' ne 'awvea sänumvi fte Lì'fyari leNa&#39;vi nume nìfya'o aftue.
+			<span class="navi">Kaltxì</span>! Ulte zola'u nìprrte' ne 'awvea sänumvi fte Lì'fyari leNa&#39;vi nivume nìfya'o aftue.
 		</p>
 		<p>Nìsngä'i, livawk fya'ot a aylì'u awstengyem fte lì'fyavit sleykivu.</p>
 		<h2>Ve'o aylì'uä</h2>
