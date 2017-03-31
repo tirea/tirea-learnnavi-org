@@ -4,16 +4,13 @@
   <div class="titlename">LESSON TITLE</div>
   <br><br>
 
-  <p><span class="navword">Kaltxì</span>! And welcome to Lesson X. INTRO TEXT
-  </p>
+  <p><span class="navword">Kaltxì</span>! And welcome to Lesson X. INTRO TEXT</p>
 
   <ul class="collection with-header">
     <li class="collection-header"><h4>Learning Objectives</h4></li>
     <li class="collection-item"><a class="collection-link" href="#1">DO A THING</a></li>
     <li class="collection-item"><a class="collection-link" href="#X-1">Practice Conversation</a></li>
-    <li class="collection-item"><a class="collection-link" href="#X">Review Vocabulary Learned<a></li>
-
-    <!-- ... -->
+    <li class="collection-item"><a class="collection-link" href="#X">Review Vocabulary Learned</a></li>
   </ul>
 
   <h1 id="1">HEADING FOR OBJ 1</h1>
