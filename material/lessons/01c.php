@@ -26,7 +26,7 @@
 		</blockquote>
 		<p>Ral lu keteng nìwotx.</p>
 		<p>
-			<u>Lì'fyari leNa&#39;vi</u>, ve'o aylì'uä ke tsranten. Tafral, fkol kin futa krro krro leykatem aylì'ut nì'it fte omum teyngta pesul yom peut. Ha:
+			<u>Lì'fyari leNa&#39;vi</u>, ve'o aylì'uä ke tsranten. Tafral, fkol kin futa krro krro leykatem aylì'ut nì'it fte ivomum teyngta pesul yom peut. Ha:
 		</p>
 		<blockquote>
 			<strong>
