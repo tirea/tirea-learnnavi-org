@@ -1,57 +1,59 @@
 <?php include "../res/themetop.php" ?>
 <!-- DOn't forget to delete one of the "../" -->
 
-  <div class="titlename">Lesson One: Order, -l, and -t</div>
+  <div class="titlename">Sänumvi a'awve: Ve'o, -l, sì -t</div>
   <br><br>
 
 	<!-- lesson content -->
 		<p>
-			<span class="navi">Kaltxì</span>! And welcome to Lesson 1 of Learn Na&#39;vi Grammar the Easy Way.
+			<span class="navi">Kaltxì</span>! Ulte zola'u nìprrte' ne 'awvea sänumvi fte Lì'fyari leNa&#39;vi nume nìfya'o aftue.
 		</p>
-		<p>Ok so to start, let&#39;s talk about how words fit together to make sentences.</p>
-		<h2>Word Order</h2>
+		<p>Nìsngä'i, livawk fya'ot a aylì'u awstengyem fte lì'fyavit sleykivu.</p>
+		<h2>Ve'o aylì'uä</h2>
 		<p>
-			<u>In English</u>, there is an order which words have to go in order for the sentence makes sense:
+			<u>Lì'fyari le'Ìnglìsì</u> ve'o tsengä aylì'uä fkeytok fte lì'fyavit tslivam:
 		</p>
 		<blockquote>
 			<span class="blue-text">people</span> eat <span class="red-text">vegetables</span>.
+			sutel yom ayfkxenit
 		</blockquote>
 		<p>
-			It&#39;s clear here who is eating what because of the order. We always put <span class="blue-text">who is doing the eating</span> first, then <i>eat</i> and then <span class="red-text">what is being eaten</span>. Because of this word order telling us this information of who&#39;s eating who, we don&#39;t need to change the words themselves. we just put them in their place. If you mix up the words, the meaning completely changes:
+			Awngal omum teyngta pesul peut yom tsave'otalun. Frakrr awngal peng <span class="blue-text">tutet a kemo seri</span> nì'awve, mawkrr <i>kemlì'ut</i> sì nì'i'a <span class="red-text">'ut a kemit tel</span>. Ve'ol aylì'uä peng teyngta pesul peut yom alunta fkol ke kin futa aylì'ut leykivatem. Txo ngal leykivatem tsenget lì'uä, ral latem nìteng:
 		</p>
 		<blockquote>
 			<span class="red-text">vegetables</span> eat <span class="blue-text">people</span>.
+			fkxenìl yom sutet
 		</blockquote>
-		<p>This has the opposite meaning as above.</p>
+		<p>Ral lu keteng nìwotx.</p>
 		<p>
-			<u>In Na&#39;vi</u>, there is more freedom. This means that the word order doesn&#39;t matter as much. Because of that, we need to change the words themselves ever so slightly sometimes in order to keep track of who is eating and what&#39;s being eaten. Therefore:
+			<u>Lì'fyari leNa&#39;vi</u>, ve'o aylì'uä ke tsranten. Tafral, fkol kin futa krro krro leykatem aylì'ut nì'it fte omum teyngta pesul yom peut. Ha:
 		</p>
 		<blockquote>
 			<strong>
 				<span class="blue-text">aysutel</span> yom <span class="red-text">ayfkxenit</span>
 			</strong>.
 		</blockquote>
-		<p>and</p>
+		<p>sì</p>
 		<blockquote>
 			<strong>
 				<span class="red-text">ayfkxenit</span> yom <span class="blue-text">aysutel</span>
 			</strong>.
 		</blockquote>
-		<p>are equal in meaning. This also means that</p>
+		<p>a fìme'uri ral lu teng. Tafral melì'fyaviru alu</p>
 		<blockquote>
 			<strong>
 				<span class="blue-text">ayfkxenìl</span> yom <span class="red-text">aysuteti</span>
 			</strong>.
 		</blockquote>
-		<p>and</p>
+		<p>sì</p>
 		<blockquote>
 			<strong>
 				<span class="red-text">aysuteti</span> yom <span class="blue-text">ayfkxenìl</span>
 			</strong>.
 		</blockquote>
-		<p>are equal in meaning but these two senteces mean the opposite of all the four sentences above them.</p>
+		<p>lu tenga ral slä fìmelì'fyavi sì tsìnga lì'fyavi aham lu keteng.</p>
 		<h2>Some Stuff</h2>
-		<p>So you may have noticed that the Na&#39;vi words above are these:</p>
+		<p>Ayngal tsoleri tsata leNa&#39;via aylì'u lu:</p>
 		<ul class="nobullets">
 			<li>
 				<span class="navi">aysutel</span>
@@ -72,59 +74,59 @@
 		<p>
 			<strong>
 				<span class="blue-text">aysutel</span>
-			</strong> and <strong>
+			</strong> sì <strong>
 				<span class="red-text">aysutet</span>
-			</strong> come from <span class="navi">aysute</span> (<i>people</i>) which is several <span class="navi">tute</span> (<i>person</i>).
+			</strong> lu mesrey lì'uä alu <span class="navi">aysute</span> a lu 'a'awa <span class="navi">tute</span> (Nì'Ìnglìsì slu <i>person</i>).
 		</p>
 		<p>
-			<span class="navi">yom</span> is <i>eat</i>
+			<span class="navi">yom</span> slu nì'Ìnglìsì <i>eat</i>
 		</p>
 		<p>
 			<strong>
 				<span class="blue-text">ayfkxenìl</span>
-			</strong> and <strong>
+			</strong> sì <strong>
 				<span class="red-text">ayfkxenit</span>
-			</strong> come from <span class="navi">ayfkxen</span> (<i>vegetables</i>) which is several <span class="navi">fkxen</span> (<i>vegetable</i>)
+			</strong> lu mesrey lì'uä alu <span class="navi">ayfkxen</span> a lu 'a'awa <span class="navi">fkxen</span> (Nì'Ìnglìsì slu <i>vegetable</i>).
 		</p>
 		<p>
-			As you may have noticed, these words have either <strong>
+			Aynga tsoleri futa tsaylì'uru lu tì'i'a alu<strong>
 				<span class="blue-text">l</span>
 			</strong>, <strong>
 				<span class="blue-text">ìl</span>
 			</strong>, <strong>
 				<span class="red-text">it</span>
-			</strong>, or <strong>
+			</strong>, fu <strong>
 				<span class="red-text">ti</span>
-			</strong> on the end. This is, as described above, how we keep track of who&#39;s eating what. We put stuff on the end.
+			</strong> Tsafya fko tsun ivomum teyngta pesul peut yom. Fkol sung 'uot mì sì'i'a.
 		</p>
-		<p>notice:</p>
+		<p>RUTXE TSERI:</p>
 		<ul class="nobullets">
-			<li>All the words that have these endings are always either a Person, Place, or thing.</li>
+			<li>Fko tsun sivung tsatì'i'atsyìpit txo lì'u livu tute, tseng fu 'u alu tstxolì'u.</li>
 			<li>
-				<span class="navi">yom</span> is a word listed as type <i>vtr.</i> in the LearnNavi.org dictionary. ONLY words listed as <i>vtr.</i> (or sometimes <i>vtrm.</i>) can be used with these endings.
+				<span class="navi">yom</span> lu lì'u fnetxeleyä alu <i>vtr.</i> mì lì'upuk weptsengä LearnNavi.org. ONLY words listed as <i>vtr.</i> (or sometimes <i>vtrm.</i>) can be used with these endings.
 			</li>
 		</ul>
 		<p>
 			<strong>
 				<span class="blue-text">l</span>
-			</strong> and <strong>
+			</strong> sì <strong>
 				<span class="blue-text">ìl</span>
-			</strong> are the same. There are two of them so there is a choice to use which one flows the best. Only use <strong>
+			</strong> lu teng. There are two of them so there is a choice to use which one flows the best. Sivar tì'i'atsyìpit alu<strong>
 				<span class="blue-text">ìl</span>
-			</strong> on words that end with consonants (like n, t, p, k, kx, ng for example.), and <strong>
+			</strong> krra lì'u 'i'a hu pamrelvi a lu n, t, p, k, kx, ng fu aylahe, sì lahea pum alu <strong>
 				<span class="blue-text">l</span>
-			</strong> on words that end with a vowel (like, a, ä, e, i, ì, o, u). These are put on the thing which is doing the action. Here, <span class="blue-text">the thing that is doing the eating</span>.
+			</strong> krra lì'u 'i'a hu pamrelvi a lu a, ä, e, i, ì, o fu u. Tsat tel lì'ut a kem si. Natkenong, <span class="blue-text">'u a yom</span>.
 		</p>
 		<p>
 			<strong>
 				<span class="red-text">ti</span>
-			</strong> and <strong>
+			</strong> sì <strong>
 				<span class="red-text">it</span>
-			</strong> are the same. Use <strong>
+			</strong> lu tenga tì'i'atsyìp. Sivar <strong>
 				<span class="red-text">it</span>
-			</strong> on words that end with consonants, and <strong>
+			</strong> krra lì'u 'i'a hu pamrelvi a lu n, t, p, k, kx, ng fu aylahe, sì lahea pum alu <strong>
 				<span class="red-text">ti</span>
-			</strong> on words that end with a vowel. These are put on the one that is receiving the action. Here, <span class="red-text">the thing that is being eaten</span>.
+			</strong> krra lì'u 'i'a hu pamrelvi aylahe. Tsat tel lì'ut a tel kemit. Natkenong, <span class="red-text">'u a fkol yom</span>.
 		</p>
 		<br />
 
