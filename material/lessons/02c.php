@@ -1,68 +1,78 @@
 <?php include "../res/themetop.php" ?>
 <!-- DOn't forget to delete one of the "../" -->
 
-  <div class="titlename">Lesson Two: Past and Future</div>
+  <div class="titlename">Sänumvi amuve: Ftawnemkrr sì Zusawkrr</div>
   <br><br>
 
 	<!-- lesson content -->
 	<p>
-		<span class="navword">Kaltxì</span>! And welcome to Lesson 2 of Learn Na&#39;vi Grammar the Easy Way.
+		<span class="navword">Kaltxì</span>! Ulte zola'u nìprrte' ne muvea sänumvi fte Lì'fyari leNa&#39;vi nivume nìfya'o aftue.
 	</p>
-	<p>Ok so now we discuss how to talk about the past and the future.</p>
-	<h2>The Past</h2>
+	<p>Set oel ayngaru peng teyngta pefya lawk ftawnemkrrit sì zusawkrrit.</p>
+	<h2>Ftawnemkrr</h2>
 	<p>
-		<u>In English</u>, verbs are usually changed somehow to show that whatever it is happened in the past. For example:
+		<u>Lì'fyari le'Ìnglìsì</u>, fkol leykatem hemlì'ut fte piveng krrit a kem lamen mì ftawnemkrr. Natkenong:
 	</p>
 	<table>
 		<tr>
 			<td>
 				<i>eat</i>
+				yom
 			</td>
 			<td>-</td>
 			<td>
 				<i>ate</i>
+				yamom
 			</td>
 		</tr>
 		<tr>
 			<td>
 				<i>find</i>
+				run
 			</td>
 			<td>-</td>
 			<td>
 				<i>found</i>
+				ramun
 			</td>
 		</tr>
 		<tr>
 			<td>
 				<i>run</i>
+				tul
 			</td>
 			<td>-</td>
 			<td>
 				<i>ran</i>
+				tamul
 			</td>
 		</tr>
 		<tr>
 			<td>
 				<i>hunt</i>
+				taron
 			</td>
 			<td>-</td>
 			<td>
 				<i>hunted</i>
+				tamaron
 			</td>
 		</tr>
 		<tr>
 			<td>
 				<i>walk</i>
+				tìran
 			</td>
 			<td>-</td>
 			<td>
 				<i>walked</i>
+				tamìran
 			</td>
 		</tr>
 	</table>
-	<p>The pain about this in English is, these are very unpredictable and have to just be memorised.</p>
+	<p>Nìketxo flltxeyu lì'fyayä le'Ìnglìsì zene ziverok fra'ut.</p>
 	<p>
-		<u>In Na&#39;vi</u>, verbs are also changed, but it is very predictable. You just put something inside in order to change it to a specific meaning. For talking about the past, the following are inserted into the Na&#39;vi verb:
+		<u>Lì'fyari leNa&#39;vi</u>, fkol leykatem hemlì'ut nìteng, slä re. You just put something inside in order to change it to a specific meaning. For talking about the past, the following are inserted into the Na&#39;vi verb:
 	</p>
 	<table>
 		<tr>
@@ -71,7 +81,7 @@
 			</td>
 			<td>-</td>
 			<td>
-				<i>something happened in the past</i>
+				<i>kem lamen mì zusawkrr</i>
 			</td>
 		</tr>
 		<tr>
@@ -80,19 +90,16 @@
 			</td>
 			<td>-</td>
 			<td>
-				<i>something just happened in the recent past</i>
+				<i>kem len pxiswawam</i>
 			</td>
 		</tr>
 	</table>
 	<p>
-		<u>For example</u>:
+		<u>Natkenong</u>:
 	</p>
 	<div id="endpostpreview"></div>
 	<blockquote>
 		<span class="navword">oel taron yerikit.</span>
-		<br />
-		<i>I hunt hexapede.</i>
-		<br />
 		<br />
 		<strong>
 			oel yerikit <span class="green-text">t</span><span class="blue-text">am</span><span class="green-text">aron</span>
@@ -112,21 +119,18 @@
 		</i>
 	</blockquote>
 	<p>
-		As you see, I took advantage of the flexible word order of Na&#39;vi in these examples. :) Also, when speaking or reading, don&#39;t put emphasis on the little part that was put in. <u>Rule of thumb</u>: <i>The original verb nearly always keeps its stress</i>.
-	</p>
-	<p>
-		By the way, this is a <span class="navword">yerik</span>:
+		Nìvingkap, tsaioang lu <span class="navword">yerik</span>:
 		<br />
 		<a href="http://james-camerons-avatar.wikia.com/wiki/Hexapede">
 			<img src="http://graphics8.nytimes.com/images/2010/01/19/science/19essay-span/articleLarge.jpg"/>
 		</a>
 	</p>
-	<h2 id="future">The Future</h2>
+	<h2 id="future">Zusawkrr</h2>
 	<p>
-		<u>In English</u>, to talk about the future, we use a helper verb <i>will</i>. For example, <i>I will eat teylu.</i> and <i>He will help me.</i>
+		<u>Lì'fyari le&#39;Ìnglìsì</u>, fte livawk zusawkrrit, fkol sar kemlì'uvit alu <i>will</i>. Natkenong: <i>I will eat teylu.</i> sì <i>He will help me.</i>
 	</p>
 	<p>
-		<u>In Na&#39;vi</u>, we don&#39;t use a helper verb like <i>will</i>. Instead, like talking about the past, something is put inside the verb that means it will happen in the future. For talking about the future, the following are inserted into verbs:
+		<u>Lì'fyari leNa&#39;vi</u>, fkol ke sar tsafnekemlì'ut. Tup tsaw, fkol tung lì'utsyìpit mì hemlì'u fte piveng futa kem len mì zusawkrr. Fte livawk zusawkrrit, fkol sar fìmehemlì'uvit:
 	</p>
 	<table>
 		<tr>
@@ -135,7 +139,7 @@
 			</td>
 			<td>-</td>
 			<td>
-				<i>something will happen in the future</i>
+				<i>kem len mì zusawkrr</i>
 			</td>
 		</tr>
 		<tr>
@@ -144,12 +148,12 @@
 			</td>
 			<td>-</td>
 			<td>
-				<i>something is about to happen in the near future</i>
+				<i>kem len pxiswaway</i>
 			</td>
 		</tr>
 	</table>
 	<p>
-		<u>For example</u>:
+		<u>Natkenong</u>:
 	</p>
 	<blockquote>
 		<strong>
@@ -167,29 +171,28 @@
 		<br />
 		<i>
 			He <span class="blue-text">will soon</span> <span class="green-text">help</span> me.
-		</i> OR
+		</i> fu
 		<i>
 			He <span class="blue-text">is about to</span> <span class="green-text">help</span> me.
 		</i>
 	</blockquote>
 	<p>
-		<span class="navword">mìftxele,</span> (<i>by the way, related to this,</i>)<br />
-		<span class="navword">Fì&#39;u lu teylu:</span> (<i>This is teylu</i>)<br />
+		<span class="navword">Mìftxele, fì&#39;u lu teylu:</span>
 		<a href="http://forum.learnnavi.org/mgallery/?sa=item;id=160">
 			<img style="width: 600px;" src="http://forum.learnnavi.org/MGalleryItem.php?id=160"/>
 		</a>
 	</p>
 	<p>
-		Even though <span class="navword">srung si</span> (<i>help</i>) is two words, it&#39;s best thought of as a single package. It really means to <i>do assistance</i>. So what I really said there is <i>He is about to do assistance to me.</i>
+		Hufwa <span class="navword">srung si</span> (<i>help</i>) lu melì'u, lu na pongu. Ral angay lu fwa <i>tìng srungit</i>. Ha oel poleng fayluta <i>Pol tìying srungit oeru.</i>
 	</p>
 	<p>
-		Also, notice how the <strong>
+		Kop tsiveri tsengit a <strong>
 			<span class="blue-text">ìy</span>
-		</strong> is put inside the <span class="navword">si</span> part of <span class="navword">srung si</span>. This is how it&#39;s done for <i>all other</i> verbs of this kind. Such as <span class="navword">tìkangkem si</span> (<i>to work</i>), <span class="navword">pamrel si</span> (<i>to write</i>), etc. Which brings me to the next point...
+		</strong> tok mì hapxì kemlì'uviä alu <span class="navword">srung si</span>. Tsafya fkol sung lì'uvit mì fìfnekemlì'u. Natkenong: <span class="navword">tìkangkem si</span>, <span class="navword">pamrel si</span>, saylahe. Tsal leykivawk oer txelet ahay...
 	</p>
-	<h2 id="location">Where do these little bits go, then?</h2>
+	<h2 id="location">Pesengit a lì'umì zene tivok faylì'utsyìpit?</h2>
 	<p>
-		So how do I know where in the verb to put these things? Well...it&#39;s easiest to use the <a href="http://eanaeltu.learnnavi.org/dicts/NaviDictionary.pdf">LearnNavi dictionary</a>. Here&#39;s how it works. To start, here is the entry for <span class="navword">taron</span>:
+		Ha pefya oel omum tsengit a zene tivok tsayul? Tse... aynga tsun fwivew tsat mì <a href="http://eanaeltu.learnnavi.org/dicts/NaviDictionary.pdf">aoeyä lì'upul</a>. Ayngaru fya'o. Oel sayar tìkenongit lì'uä alu <span class="navword">taron</span>:
 	</p>
 	<blockquote>
 		<font face="Times New Roman" size="6pt">
@@ -203,17 +206,17 @@
 		</font>
 	</blockquote>
 	<p>
-		Look at the part in <span class="blue-text">blue</span>. That is the pronunciation guide. In some entries, this part looks all scary and has loads of weird looking symbols. But for this blog post and lesson though, we are only concerned about the two <i>
-			<span class="red-text">raised dots</span>
-		</i> which I&#39;ve coloured <span class="red-text">red</span> here.
+		Hapxìri <span class="blue-text">aean</span> eltu sivi. Tsaw lu koren lì'upamä. Mì ayfostì a'a'aw, fìhapxìl fkot txopu seyki ulte nga' ayreltsyìpit a hek. Slä mì fìpìlok sì fìsänumi for this blog post and lesson though, ayoel kan'ìn <i>
+			<span class="red-text">meyo'kotyìpit</span>
+		</i> a oel sleykolu <span class="red-text">tun</span> fìtseng.
 	</p>
 	<p>
-		These <i>
-			<span class="red-text">raised dots</span>
-		</i> show you where to put things in.
+		Fay<i>
+			<span class="red-text">yo'kotsyìp</span>ìl
+		</i> wìntxu tsengit a aynga zene yivem ayhemlì'uvit.
 	</p>
 	<p>
-		This blog post only contains stuff that would go in the <u>first</u> dot&#39;s space. Some verbs only have one dot. If so, that&#39;s where it goes.
+		Fìpostì pìlokä nì'aw nga' ayut a zene tivok <u>'awvea</u> tsengit yo'kotsyìpä. 'A'awa kemlì'uru lu 'awa yo'kotsyìp. Tsakrr, zo fì'fya:
 	</p>
 	<blockquote>
 		<font face="Times New Roman" size="6pt">
@@ -229,7 +232,7 @@
 	<br />
 	<p>
 		<span style="font-size: 0.7em">
-			Idea of colouring the verbs as done in this lesson adopted in the style of Neytiri te Tskaha Mo&#39;at&#39;ite (<a href="https://twitter.com/NeytiriTeTskaha">@NeytiriTeTskaha</a>)
+			Ve'o ayopinä mì fìsänumvi lu säfpìl a ta lupra Neytiriä te Tskaha Mo&#39;at&#39;ite (<a href="https://twitter.com/NeytiriTeTskaha">@NeytiriTeTskaha</a>)
 		</span>
 	</p>
 	<br />
