@@ -3,19 +3,19 @@
   <div class="titlename">Links</div>
 
   <ul class="collection with-header">
-    <li class="collection-header"><h4>Things I think are cool</h4></li>
+    <li class="collection-header"><h4>Wepseng a lu sìltsan</h4></li>
     <li class="collection-item"><a class="collection-link" href="https://soundcloud.com/thesoundsofpandora">The Sounds of Pandora</a><br>Official Avatar SoundCloud</li>
-    <li class="collection-item"><a class="collection-link" href="http://dict-navi.com">Dict-Na&#39;vi.com</a><br>Online Na&#39;vi Dictionary Search Engine</li>
-    <li class="collection-item"><a class="collection-link" href="http://learnnavi.org/navi-numbers">Na&#39;vi Numbers</a><br>Epic Na&#39;vi Number translator thingy</li>
-    <li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/26139/all-navi-vocabulary/">All Na&#39;vi Vocabulary</a><br>Learn Na&#39;vi Memrise Course</li>
-    <li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/51606/navi-useful-phrases/">Na&#39;vi Useful Phrases</a><br>Na&#39;vi Phrases Memrise Course</li>
-    <li class="collection-item"><a class="collection-link" href="http://naviteri.org">Na&#39;viteri.org</a><br>Paul Frommer&#39;s Blog</li>
-    <li class="collection-item"><a class="collection-link" href="http://layonyayo.com">Layon Yayo</a><br>Na&#39;vi Web Comic by Eana Unil</li>
+    <li class="collection-item"><a class="collection-link" href="http://dict-navi.com">Dict-Na&#39;vi.com</a><br>Lì'upuk leNa&#39;vi mì wep</li>
+    <li class="collection-item"><a class="collection-link" href="http://learnnavi.org/navi-numbers">Na&#39;vi Numbers</a><br>Ralpenyu ayholpxayä leNa&#39;vi</li>
+    <li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/26139/all-navi-vocabulary/">All Na&#39;vi Vocabulary</a><br>Sänumvi ta Learn Na&#39;vi mì Memrise</li>
+    <li class="collection-item"><a class="collection-link" href="http://www.memrise.com/course/51606/navi-useful-phrases/">LeNa&#39;via Aylì'fyavi Lesar</a><br>Sänumvi Aylì'fyaviä leNa&#39;vi mì Memrise</li>
+    <li class="collection-item"><a class="collection-link" href="http://naviteri.org">Na&#39;viteri.org</a><br>Pìlok Karyuä Pawl</li>
+    <li class="collection-item"><a class="collection-link" href="http://layonyayo.com">Layon Yayo</a><br>Na&#39;vi Ayvur fa rel ta Eana Unil</li>
     <li class="collection-item"><a class="collection-link" href="http://www.avatarnation.net">Avatar Nation</a><br>Avatar Fan Site / Podcast</li>
   </ul>
 
   <ul class="collection with-header">
-    <li class="collection-header"><h4>Na&#39;vi Blogs I read</h4></li>
+    <li class="collection-header"><h4>Fìlok leNa&#39;vi a oel inan</h4></li>
     <li class="collection-item"><a class="collection-link" href="http://tireaaean.wordpress.com">Pìlok Tireayä Aean</a><br>Tirea Aean</li>
     <li class="collection-item"><a class="collection-link" href="http://masempul.org">Ma Sempul</a><br>Prrton</li>
     <li class="collection-item"><a class="collection-link" href="http://stegemue.blogspot.com">Aylì’uä Ramunong</a><br>Plumps</li>
