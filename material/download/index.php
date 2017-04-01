@@ -163,8 +163,8 @@
   <li class="collection-item"><a class="collection-link" href="/material/download/103-Handout-4-LA-2014.pdf">Na'vi 103 Puktsyìp [PDF]</a><br>Ta Uniltìrantokxolo'ä Ultxa °3736 mì LosÄntsyelesì , CA</li>
   <li class="collection-item"><a class="collection-link" href="/material/download/hkb-kxwerty-mod.apk">Hacker&#39;s Keyboard Mod [APK Android App]</a><br>KXWERTY keyboard layout for Android</li>
     <li class="collection-item"><a class="collection-link" href="/material/download/ts3_Client_LN_Sound_Pack-0.2.zip">Mokri mì TS3 [ZIP]</a><br>Vefya mokriyä lì'fyayä leNa&#39;vi mì TeamSpeak 3</li>
-  <li class="collection-item"><a class="collection-link" href="/material/download/navkb6.zip">KXWERTYä srey sä'oä pamrelä fpi eltu lefngap [ZIP]</a><br> Saryuru eltuä lefngap srey alu Windows / Mac</li>
-  <li class="collection-item"><a class="collection-link" href="/material/generate.php">Ngopyu Tstxoä leNa'vi</a><br>Eyawra aystxot ngop</li>
+  <li class="collection-item"><a class="collection-link" href="/material/download/navkb6.zip">KXWERTYä srey sä'oä pamrelä fpi eltu lefngap [ZIP]</a><br> Saryuru eltuä lefngap sreyä alu Windows / Mac</li>
+  <li class="collection-item"><a class="collection-link" href="/material/generate.php">Ngopyu Aystxoä leNa'vi</a><br>Eyawra aystxot ngop</li>
   <!-- <li class="collection-item"><a class="collection-link" href="/material/img">images folder</a><br>Bunch of old memes and comics and whatnot, some Na&#39;vi-related</li> -->
 </ul>
 <?php include "../res/themebottom.php" ?>
