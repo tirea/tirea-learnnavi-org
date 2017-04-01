@@ -1,17 +1,24 @@
 <?php include "../res/themetop.php" ?>
 <!-- DOn't forget to delete one of the "../" -->
 
-  <div class="titlename">Lesson Seventeen: self</div>
+  <div class="titlename">Sänumvi amevolawve: äp sì sno</div>
   <br><br>
 
 	<!-- lesson content -->
 	<p>
 		<span class="navword">Kaltxì!</span>
-		<!-- <img src="img/smiley.gif"/> --> Long time no post. This time I&#39;d like to talk about how to say someone does something to her/his self.
+		Txankrr kea postì. Fìalo oel livawk fya'ot a sar kemlì'uvit alu <span class="navword">&lt;äp&gt;</span> sì lì'ut alu <span class="navword">sno</span>.
 	</p>
-	<h2>vtr. and äp</h2>
+	<h2>vtr. sì äp</h2>
 	<p>
-		In English, we have special pronoun words like <span class="red-text">myself</span>, <span class="red-text">yourself</span>, <span class="red-text">himself</span>, <span class="red-text">herself</span>, <span class="red-text">ourselves</span> to get this idea across. For example:
+		In English, we have special pronoun words like
+        Nì'ìnglìsì fkeytok zeya aylì'u alu:
+        <span class="red-text">myself</span>,
+        <span class="red-text">yourself</span>,
+        <span class="red-text">himself</span>,
+        <span class="red-text">herself</span>, sì
+        <span class="red-text">ourselves</span>
+        fte livawk fìsäfpìlit. Natkenong:
 	</p>
 	<blockquote>
 		<em>
@@ -19,7 +26,7 @@
 		</em>
 	</blockquote>
 	<p>
-		In Na&#39;vi, we add &lt;<span class="red-text">äp</span>&gt; inside the <span class="cyan-text">verb</span>. The above example sentence would work like this:
+		nìNa&#39;vi, fkol sung fì'ut alu &lt;<span class="red-text">äp</span>&gt; nemfa <span class="cyan-text">kemlì'u</span>. Tìkenong a io faylì'u zo fìfya:
 	</p>
 	<div class="endpostpreview"></div>
 	<blockquote>
@@ -31,7 +38,7 @@
 			</span>
 		</strong>
 	</blockquote>
-	<p>We do this instead of repeating the same person again:</p>
+    <u>Tup fwa leyn tenga tutet nìmun, fko fìkem si:</p>
 	<blockquote>
 		<span class="orange-text">*</span>
 		<strong>
@@ -44,7 +51,10 @@
 		</strong>
 	</blockquote>
 	<p>
-		Did you notice that there is no marking on <strong>oe</strong> in that first example? Here&#39;s why. We can only even use &lt;<span class="red-text">äp</span>&gt; in verbs marked <em>vtr.</em> in the dictionary. And when we use &lt;<span class="red-text">äp</span>&gt;, it changes the <em>vtr.</em> into a <em>vin.</em> It then has the same structure as any old <em>vin.</em> like <strong>hahaw</strong> (<em>sleep</em>) or <strong>kä</strong> (<em>go</em>):
+        Srake tsoleri futa oel ke solung ke'ut ro sì'i'a lì'uä alu <strong>oe</strong> tsatìkenongmì a'awve?
+        Lun lu fì'u: Tsun fko sivar kemlì'uvit alu &lt;<span class="red-text">äp</span>&gt; mì hemlì'uvi a tseyä fnel lu <em>"vtr." ìlä lì'upuk.</em>.
+        Krra sar fko fì'ut alu &lt;<span class="red-text">äp</span>&gt;, tsal leykatem kemlì'uvit fte fnel alu <em>vtr.</em> slu <em>vin.</em>.
+        Tsakrr tsaru lu tenga renu na ketsrana fnel kemlì'uä alu <em>vin.</em> natkenong <strong>hahaw</strong> (<em>sleep</em>) or <strong>kä</strong> (<em>go</em>):
 	</p>
 	<blockquote>
 		<strong>
