@@ -1,65 +1,65 @@
 <?php include "../res/themetop.php" ?>
 <!-- DOn't forget to delete one of the "../" -->
 
-  <div class="titlename">Lesson Nine: -ri</div>
+  <div class="titlename">Sänumvi avolawve : -ri</div>
   <br><br>
 
 	<!-- lesson content -->
 	<p>
-		This blog post will hopefully better your understanding of the topical suffix -<span class="navword">ri</span>.
+		 Tslam tì'i'atsyìpit tstxolì'uä alu -<span class="navword">ri</span> a fì'uri nìsìlpey fìpostì srung sayi ayngaru.
 	</p>
 	<p>
-		-<span class="navword">ri</span> introduces the topic of what you are about to say. It gives your sentence a theme, and this is often done in English by using "<em>As for...</em>" or simply "<em>for</em>".
+		Tì'ì'atsyìpìl alu -<span class="navword">ri</span> muwìntxu txelet aylì'uä a ngal pìyeng. Tsal tel txelet lì'fyaviru, ulte tsun tsakem sivi nì'Ìnglìsì fa fwa peng fayluta "<em>As for...</em>" fu "<em>for</em>".
 	</p>
 	<p>
-		The -<span class="navword">ri</span> in "<span class="navword">ngeyä srungìri ngaru irayo si oe</span>" lets us know that the theme is the "<span class="navword">srung</span>" - the help. It tells us that the reason that <span class="navword">oe</span> is thanking to <span class="navword">nga</span> is the <span class="navword">srung</span>... in other words, <span class="navword">oe</span> thanks <span class="navword">nga</span> for their srung. "<em>I thank you for your help.</em>"<br />
-			The topic (word with -<span class="navword">ri</span>) almost always comes first in the sentence.
+		-<span class="navword">ri</span> mì lì'fyavi alu "<span class="navword">ngeyä srungìri ngaru irayo si oe</span>" a fì'ul eykomum futa txele lu "<span class="navword">srung</span>". Fkol omum futa lun fte <span class="navword">oe</span> irayo sivi <span class="navword">nga</span>ru lu <span class="navword">srung</span>...  alu <span class="navword">oe</span> irayo si <span class="navword">nga</span>ru taluna nga srung soli oer.<br />
+			Lì'u a 'i'a hu -<span class="navword">ri</span> stum frakrr lu pum a'awve mì lì'fyavi.
 	</p>
 	<p>
-		-<span class="navword">ri</span> is found most commonly in sentences with:
+		-<span class="navword">ri</span> a fì'ut fkol run mì aylì'fyavi a nga' kemlì'ut alu:
 	</p>
 	<ul>
 		<li>
-			<span class="navword">irayo si</span> (for the "<em>thank for</em>" meaning)
+			<span class="navword">irayo si</span> ("<em>'uri irayo si</em>")
 		</li>
 		<li>
-			<span class="navword">tsap&#39;alute si</span> (for the "<em>apologise for</em>" meaning)
+			<span class="navword">tsap&#39;alute si</span> ("<em>fekemìri tsap'alute si</em>")
 		</li>
 		<li>
-			<span class="navword">pey</span> (for the "<em>wait for</em>" meaning)
+			<span class="navword">pey</span> ("<em>tìlenìri pey</em>")
 		</li>
 		<li>
-			<span class="navword">kllfro&#39;</span> (for the "<em>be responsible for</em>" meaning)
+			<span class="navword">kllfro&#39;</span> ("<em>tuteri/'uori kllfro</em>")
 		</li>
 		<li>
-			<span class="navword">tìkangkem si</span> (for the "<em>work on</em>" meaning)
+			<span class="navword">tìkangkem si</span> ("<em>tìkangkemviri tìkangkem si</em>")
 		</li>
 	</ul>
-	<p>Example sentences:</p>
+	<p>Sìkenong:</p>
 	<ul class="nobullets">
 		<li>
-			<span class="navword">Syurari yerikä irayo si awnga por.</span> "<em>We thank the hexapede for his energy.</em>"
+			<span class="navword">Syurari yerikä irayo si awnga por.</span> "<em>Awnga irayo si poru talun syura yerikä.</em>"
 		</li>
 		<li>
-			<span class="navword">Fìskxawngìri tsap&#39;alute sängi oe.</span> "<em>I apologise for this moron.</em>"
+			<span class="navword">Fìskxawngìri tsap&#39;alute sängi oe.</span> "<em>Oe tsap'alute sängi taluna lu fìskxawng.</em>"
 		</li>
 		<li>
-			<span class="navword">Trrayìri ke tsun oe pivey!</span> "<em>I can&#39;t wait for tomorrow!</em>"
+			<span class="navword">Trrayìri ke tsun oe pivey!</span> "<em>Oe ke tsun pivey taluna trray len kem akosman!</em>"
 		</li>
 		<li>
-			<span class="navword">Pori kllfro&#39; nga.</span> "<em>You are responsible for him.</em>"
+			<span class="navword">Pori kllfro&#39; nga.</span> 
 		</li>
 		<li>
-			<span class="navword">Tskori po tìkangkem si.</span> "<em>She works on the bow.</em>"
+			<span class="navword">Tskori po tìkangkem si.</span>
 		</li>
 	</ul>
 	<p>
-		Lastly, don&#39;t confuse -<span class="navword">ri</span> with <span class="navword">fpi</span>+. <span class="navword">Fpi</span> means "<em>for</em>" as in "<em>for the sake/benefit of</em>". With <span class="navword">fpi</span>, you are acting to benefit something. E.g. <span class="navword">Oe &#39;ìyem ngafpi</span>. "<em>I will cook for (the sake of) you.</em>"
+		Nì'i'a, tsiveri futa -<span class="navword">ri</span> sì <span class="navword">fpi</span>+ lu keteng. Lì'u alu <span class="navword">fpi</span> slu nì'Ìnglìsì "<em>for the sake/benefit of</em>". Hu <span class="navword">fpi</span>, ngeyä kemìl sleyku tsankumit tuteru. Natkenong: <span class="navword">Oe &#39;ìyem ngafpi</span>. "<em>I will cook for (the sake of) you.</em>"
 	</p>
 	<p>
 		<span class="navword">Eywa ngahu!</span>
 	</p>
-	<p>This post brought to you by @NeytiriTeTskaha</p>
+	<p>Fìpostì ta @NeytiriTeTskaha</p>
 
 <?php include "../res/themebottom.php" ?>
 <!-- DOn't forget to delete one of the "../" -->
