@@ -65,37 +65,37 @@
 		</strong> (You hurt yourself / cause yourself to hurt)<br />
 		<strong>
 			<span class="navword">Oe hahaw.</span>
-		</strong> (I sleep.)<br />
+		</strong><br />
 		<strong>
 			<span class="navword">Nga kä.</span>
-		</strong> (You go.)<br />
+		</strong><br />
 	</blockquote>
 	<p>
-		Hey, check it out! That second example here has both &lt;<span class="red-text">äp</span>&gt; AND &lt;<span class="gold-text">eyk</span>&gt; in it. (Remember &lt;<span class="gold-text">eyk</span>&gt; from the previous lesson?) Both of these go first in the first raised dot of the dictionary entry of the verb.
+		Eltu sivi! Mì sìkenong amuve fkol sar melì'uvit alu &lt;<span class="red-text">äp</span>&gt; SÌ &lt;<span class="gold-text">eyk</span>&gt; mì hemlì'ut. (Zerok &lt;<span class="gold-text">eyk</span>&gt; ta sänumvi aham srak?) Fkol yem mefì'ut mì seng 'awvea yo'kotsyìpä a ngal tse'a mì lì'upukä postì kemlì'uä.
 	</p>
-	<h2>vin. and sno</h2>
+	<h2>vin. sì sno</h2>
 	<p>
-		But what about actions which are <em>not</em> marked <em>vtr.</em>? A popular example is this: I know how to say "she loves her", which is <u>talking about two different people</u>:
+		Slä pehem si krra kemlì'u <em>ke</em> lu hapxì fnetxeleä alu <em>vtr.</em>? Natkenong: Oel omum fya'ot a plltxe san "she loves her" sìk. Fko <u>plltxe teri mesute aketeng</u>:
 	</p>
 	<blockquote>
 		<strong>
 			Po <span class="cyan-text">yawne lu</span> <span class="green-text">poru</span>
-		</strong> (she beloved is to her)
+		</strong>
 	</blockquote>
-	<p>But how do I say "He loves himself"? Basically, like this:</p>
+	<p>Slä nìNa'vi slu pefya "He loves himself"? Slu tsafya:</p>
 	<blockquote>
 		<strong>
 			Po <span class="cyan-text">yawne lu</span> <span class="red-text">snoru</span>
-		</strong> (he beloved is to self)
+		</strong>
 	</blockquote>
 	<p>
 		<strong>
 			<span class="red-text">sno</span>
-		</strong> is just a special pronoun word that means <span class="red-text">(his/her-)self</span>. Use it when you need to say he or she is doing something to self, but the action is <em>not vtr.</em>
+		</strong> lu tstxolì'u azey. Slu nì'Ìnglìsì <span class="red-text">(his/her-)self</span>. Sivar tsalì'ut krra poan fu poe kem si snoru slä kemlì'u <em>ke lu vtr.</em>
 	</p>
-	<h2>Me, myself, and vin. And you and them too.</h2>
+	<h2>Oe, oeru sì vin. Sì (ay)ngar sì for nìteng.</h2>
 	<p>
-		What about if I want to do a <em>vin.</em> to myself or we to ourselves? Or even, if you wanted to do something to yourself, or they wanted to do something to themselves? Then, I believe that the same word would just get repeated again:
+		Slä txo oe iv<em>vin.</em> oer fu awnga awngaru ? Txo nga nivew kem sivi ngaru, fu fo nivew kem sivi for? Tsakrr, ayngal leyn futa pamrel si lì'ur:
 	</p>
 	<blockquote>
 		<span class="navword">Oe pamrel si oeru.</span> (I write to me)<br />
