@@ -1,20 +1,20 @@
 <?php include "../res/themetop.php" ?>
 <!-- DOn't forget to delete one of the "../" -->
 
-  <div class="titlename">Lesson Three: Have, Plurals, Changes</div>
+  <div class="titlename">Sänumvi apxeyve: Fkoru lu, Pxaya &#39;, Sìlatem</div>
   <br><br>
 
-	<!-- lesson content -->	
+	<!-- lesson content -->
 	<p>
-		<span class="navword">Kaltxì</span>! And welcome to Lesson 3 of Learn Na&#39;vi Grammar The Easy Way.
+		<span class="navword">Kaltxì</span>! Ulte zola'u nìprrte' ne pxeyvea sänumvi fte lì'fyari leNa'vi nivume nìfya'o aftue.
 	</p>
-	<p>This time, we talk about having something, and how to talk about more than one thing.</p>
-	<h2 id="1">To Have</h2>
+    <p>Fìalo, ayoeng pivlltxe teri fwa fkoru lu 'uo sì fya'o a livawk 'uot apxay.</p.
+	<h2 id="1">Lu fkoru</h2>
 	<p>
-		First, let&#39;s talk about having something. You have most likely noticed that a verb <i>to have</i> does not exist in Na&#39;vi. Different languages have different ways of saying things.
+        Nì'awve, plltxe teri fwa lu fkoru 'uot ko. Ayngal skxakep tsoleri futa ke fkeytok kemlì'u a slu <i>have, possess</i> nì'ìnglìsì. Lahea lì'fya, lahea fya'o a plltxe.
 	</p>
 	<p>
-		<u>In English</u>, we say stuff like this:
+		<u>Nì'ìnglìsì</u>, Fko plltxe fìfya:
 	</p>
 	<ul class="nobullets">
 		<li>
@@ -34,7 +34,7 @@
 		</li>
 	</ul>
 	<p>
-		<u>In Na&#39;vi</u>, we say those this way:
+		<u>Na&#39;vi</u>, plltxe fko fìfya:
 	</p>
 	<ul class="nobullets">
 		<li>
@@ -54,7 +54,8 @@
 		</li>
 	</ul>
 	<p>
-		Do you see the pattern? You actually say <i>
+        Tse'a renuti srak? Nìfkeytongay plltxe fko san
+        <i>
 			<span class="red-text">A crossbow</span>
 			<span class="green-text">is</span>
 			<span class="blue-text">to me</span>
@@ -62,11 +63,11 @@
 			<span class="red-text">A bow</span>
 			<span class="green-text">is</span>
 			<span class="blue-text">to you</span>
-		</i>, and <i>
+		</i>, sì <i>
 			<span class="red-text">A spear</span>
 			<span class="green-text">is</span>
 			<span class="blue-text">to him</span>
-		</i>. Remember, Na&#39;vi word order is flexible. I chose to write the second one differently. the words used in these examples are as follows:
+		</i> sìk. Ziverok, fya'o a vezo aylì'u lì'fyavimì tsun livatem nìtxan ulte ke tsranten. Ftxoley oel futa pamrel sivi muvea pumur nìfya'o a keteng. aylì'u a solar oel lu faylì'u:
 	</p>
 	<div id="endpostpreview"></div>
 	<table>
@@ -142,9 +143,9 @@
 			</td>
 		</tr>
 	</table>
-	<h2 id="2">More Than One</h2>
+	<h2 id="2">Pxaya 'u</h2>
 	<p>
-		<u>In English</u>, to say there is more than one of something, we usually add an s to the end. But sometimes there is an <i>outlandish</i> or just unpredictable way it has to be done. Either way, it must be memorized. You know how it is:
+		<u>Nì'ìnglìsì</u>, fte pivlltxe san lu pxaya 'u tup 'awa 'u, nìtrrtrr sung fkol pamrelvit alu Sä tì'i'aru. Slä krro krro lu <i>lekye'unga</i> fya'o aketsuksrese'a a zene fko kem sivi. Tsalsungay zene fko ziverok tsafya'ot. Omum tsat kefyak?
 	</p>
 	<ul class="nobullets">
 		<li>
@@ -158,21 +159,21 @@
 		</li>
 	</ul>
 	<p>
-		<u>In Na&#39;vi</u>, it&#39;s a lot more predictable. In fact, it&#39;s <i>totally</i> predictable. There are three different things you put <i>onto the beginning</i> of a noun. They are:
+		<u>nìNa&#39;vi</u>, tsun fko sresive'a fìfne'uti nìftue nìtxan. Nìfkeytongay, tsun sresive'a <i>nìwotx</i>. Fkeytok pxeya lì'utsyìp a fkol yem sìn sngä'itseng tstxolì'uä. Pxesa'u lu:
 	</p>
 	<ul class="nobullets">
 		<li>
-			<strong>me</strong>+ (<i>two of whatever it is</i>)
+			<strong>me</strong>+ (<i>munea 'u</i>)
 		</li>
 		<li>
-			<strong>pxe</strong>+ (<i>three of whatever it is</i>)
+			<strong>pxe</strong>+ (<i>pxeya 'u</i>)
 		</li>
 		<li>
-			<strong>ay</strong>+ (<i>in general, just many of whatever it is</i>)
+			<strong>ay</strong>+ (<i>pxaya 'u</i>)
 		</li>
 	</ul>
 	<p id="lenition">
-		Now, when you use these, the original word <i>might</i> change its <i>first letter/sound</i>, depending on what it starts with. (this is why there is a + sign on them. to tell you that they cause this to happen). The letter/sound changes that occur are as follows:
+        Fkol sar pxefì'ut a krr, <i>tsunslu</i> fwa letsima lì'uä 'awvea <i>pamrelvi/pam</i> livatem. Tsaw latem ìlä seynga pefya sngä'i lì'u. (Fì'u lu lun a lu "+" fayfnelì'umì. Fte piveng ngaru fayluta fol leykatem pamit haya lì'uä). Pamrelviä/pamä sìlatem a len lu:
 	</p>
 	<table>
 		<tr>
@@ -182,7 +183,7 @@
 			<td>
 				->
 			</td>
-			<td>disappears altogether</td>
+			<td>(kä neto)</td>
 		</tr>
 		<tr>
 			<td>
@@ -248,19 +249,19 @@
 			<td>s</td>
 		</tr>
 	</table>
-	<p>To easier remember these, think of it this way:</p>
+    <p>Ftuea fya'o a fì'uti zerok lu fìfya:</p>
 	<ul class="nobullets">
 		<li>
-			<strong>kx</strong>, <strong>px</strong>, and <strong>tx</strong> soften up and lose their x.
+			<strong>kx</strong>, <strong>px</strong>, sì <strong>tx</strong> slu meyp ulte pamrelvi alu "x" kä neto.
 		</li>
 		<li>
-			<strong>k</strong>, <strong>p</strong>, and <strong>t</strong> soften up and become related sounds (made in just about the same area of the mouth) h, f, s
+			<strong>k</strong>, <strong>p</strong>, sì <strong>t</strong> slu meyp ulte slu pxefam a tare (plltxe ro seng ateng/asteng kxamì) h, f, s
 		</li>
 		<li>
-			<strong>&#39;</strong> just softens up by going away.
+			<strong>&#39;</strong> slu meyp fa fwa kä neto.
 		</li>
 	</ul>
-	<p>Here are some examples, to match the English ones above:</p>
+	<p>Ngaru hola tìkenong, pum a ne le'ìnglìsìa pum a io za'u nì'eng:</p>
 	<ul class="nobullets">
 		<li>
 			<strong>
@@ -284,9 +285,9 @@
 			</strong>
 		</li>
 	</ul>
-	<h3>Some notes:</h3>
+	<h3>Rutxe tsiveri:</h3>
 	<p>
-		When using <strong>ay</strong>+ on a word where the first letter changes, it&#39;s okay to just leave off <strong>ay</strong> after having changed the letter. For example:
+        Krra serar lì'utsyìpit alu <strong>ay</strong>+ mì lì'u a latem tseyä pamrelvi a'awve, ke zene sivar tsat mawkrra pamrelvi lolatem. Natkenong:
 	</p>
 	<blockquote>
 		<span class="navword">Aysaronyu hahaw.</span> (<i>Hunters sleep.</i>)<br />
@@ -296,10 +297,10 @@
 		<span class="navword">Saronyu hahaw.</span>
 	</blockquote>
 	<p>
-		<strong>me</strong>+, <strong>pxe</strong>+, and <strong>ay</strong>+ aren&#39;t the only things that cause this first letter change thing to happen. More on that in a later lesson.
+		<strong>me</strong>+, <strong>pxe</strong>+, sì <strong>ay</strong>+ ke lu nì'awtu; aylì'ul alahe leykatem pamrelvit a'awve lì'uoä. ye'rìn livawk oel fì'ut nì'ul.
 	</p>
 	<p>
-		<u>More Examples</u>:
+		<u>Sìkenong</u>:
 	</p>
 	<table>
 		<tr>
