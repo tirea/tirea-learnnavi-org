@@ -38,7 +38,7 @@
 			</span>
 		</strong>
 	</blockquote>
-    <u>Tup fwa leyn tenga tutet nìmun, fko fìkem si:</p>
+    <p>Tup fwa leyn tenga tutet nìmun, fko fìkem si:</p>
 	<blockquote>
 		<span class="orange-text">*</span>
 		<strong>
