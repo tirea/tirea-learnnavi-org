@@ -16,7 +16,7 @@
 
   <div class="foot">
     Fìtsengä Eyktan/'Ongopyu: <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>
-    | Fìtsengit ngolop ayhapxìtu lì'fyaolo'ä alu <a href="http://learnnavi.org/">LearnNa'vi.org</a><br />
+    | Fìtsengit ngolop ayhapxìtul lì'fyaolo'ä alu <a href="http://learnnavi.org/">LearnNa'vi.org</a><br />
     This site is not affiliated with the official Avatar website, James Cameron, Lightstorm Entertainment or the
     Twentieth Century Fox Film Corporation. All Trademarks and Servicemarks are the properties of their
     respective owners.<br />
