@@ -15,8 +15,8 @@
   </div>
 
   <div class="foot">
-    Website Admin/Designer: <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>
-    | This site was created by members of the <a href="http://learnnavi.org/">LearnNa'vi.org</a> forum. <br />
+    Fìtsengä Eyktan/'Ongopyu: <a href="http://forum.learnnavi.org/profile/?u=1975">Tirea Aean</a>
+    | Fìtsengit ngolop ayhapxìtu lì'fyaolo'ä alu <a href="http://learnnavi.org/">LearnNa'vi.org</a><br />
     This site is not affiliated with the official Avatar website, James Cameron, Lightstorm Entertainment or the
     Twentieth Century Fox Film Corporation. All Trademarks and Servicemarks are the properties of their
     respective owners.<br />
