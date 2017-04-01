@@ -72,7 +72,7 @@
 	</table>
 	<p>Nìketxo flltxeyu lì'fyayä le'Ìnglìsì zene ziverok fra'ut.</p>
 	<p>
-		<u>Lì'fyari leNa&#39;vi</u>, fkol leykatem hemlì'ut nìteng, slä re. You just put something inside in order to change it to a specific meaning. For talking about the past, the following are inserted into the Na&#39;vi verb:
+		<u>Lì'fyari leNa&#39;vi</u>, fkol leykatem hemlì'ut nìteng, slä lu renu atsuksrese'a. Ayngal nì'aw yivem 'uot mì lì'ut fte leykivatem ralit. Fte livawk ftawnemkrrit, fkol sar mehemlì'uvit ahay:
 	</p>
 	<table>
 		<tr>
