@@ -1,7 +1,7 @@
 <?php include "res/themetop.php"; ?>
       <div class="tooltip" id="index-tt">
         <div class="titlename"><span>Zola&#39;u N&igrave;prrte&#39;</span></div>
-        <span class="tooltiptext">Welcome</span>
+        <span class="tooltiptext">Zola&#39;u nìprrte&#39;</span>
       </div>
       <!-- CARD -->
       <div id="image" class="section scrollspy">
@@ -10,18 +10,18 @@
             <div class="card">
               <div class="card-image">
                 <img src="res/school.jpg">
-                <span class="card-title">Easy Grammar Lessons</span>
+                <span class="card-title">Aysänumvi Aftue</span>
               </div>
               <div class="card-content">
-                <p>Welcome to Tirea Na'vi! This site exists to teach the Na'vi
-                  Language to everyone in an easy to understand way. For all you
-                  non-linguist Avatar fans out there, I hope to help you on your
-                  way to becoming the next speaker of this amazing language.
-                  -- Tirea Aean
+                <p>Zola'u nìprrte' ne Tirea Na'vi! Fìtseng fkeytok fte kivar
+                    lì'fyati leNa'vi fraporu nìfya'o afyin sì ftue. Fpi sute a
+                    ke lu txintìn a ftia aylì'fyati, oeru lu tìkan srung sivi ayngaru
+                    fte slivu haya plltxeyu fìlì'uä akosman.
+                    -- Tirea Aean
                 </p>
               </div>
               <div class="card-action">
-                <a class="amber-text accent-2" href="lessons/index.php">Get started</a>
+                <a class="amber-text accent-2" href="lessons/index.php">Sngä'i ko</a>
               </div>
             </div>
           </div>
