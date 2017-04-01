@@ -1,5 +1,5 @@
 ﻿<?php include "../res/themetop.php" ?>
-<div class="titlename">Downloads</div>
+<div class="titlename">Fuk sì famrel</div>
 <!-- <h4>Lessons as PDF</h4>
 <div class="row">
   <div class="col s12 m3">
@@ -157,14 +157,14 @@
   </div>
 </div> -->
 <ul class="collection with-header">
-  <li class="collection-header"><h4>Other Things Hosted On This Site</h4></li>
-  <li class="collection-item"><a class="collection-link" href="/material/download/101-Handout-4-WA-2012.pdf">Na'vi 101 Handout [PDF]</a><br>From AvatarMeet 2012 Seattle, WA</li>
-  <li class="collection-item"><a class="collection-link" href="/material/download/102-Handout-4-DC-2013.pdf">Na'vi 102 Handout [PDF]</a><br>From AvatarMeet 2013 Washington, DC</li>
-  <li class="collection-item"><a class="collection-link" href="/material/download/103-Handout-4-LA-2014.pdf">Na'vi 103 Handout [PDF]</a><br>From AvatarMeet 2014 Los Angeles, CA</li>
+  <li class="collection-header"><h4>Lahea ayu a nga tsun rivun</h4></li>
+  <li class="collection-item"><a class="collection-link" href="/material/download/101-Handout-4-WA-2012.pdf">Na'vi 101 Puktsyìp [PDF]</a><br>Ta Uniltìrantokxolo'ä Ultxa °3734 mì Sìätll, WA</li>
+  <li class="collection-item"><a class="collection-link" href="/material/download/102-Handout-4-DC-2013.pdf">Na'vi 102 Puktsyìp [PDF]</a><br>Ta Uniltìrantokxolo'ä Ultxa °3735 mì Wasyìnton, DC</li>
+  <li class="collection-item"><a class="collection-link" href="/material/download/103-Handout-4-LA-2014.pdf">Na'vi 103 Puktsyìp [PDF]</a><br>Ta Uniltìrantokxolo'ä Ultxa °3736 mì LosÄntsyelesì , CA</li>
   <li class="collection-item"><a class="collection-link" href="/material/download/hkb-kxwerty-mod.apk">Hacker&#39;s Keyboard Mod [APK Android App]</a><br>KXWERTY keyboard layout for Android</li>
-  <li class="collection-item"><a class="collection-link" href="/material/download/ts3_Client_LN_Sound_Pack-0.2.zip">TS3 Voice Pack [ZIP]</a><br>Na&#39;vi Language support for TeamSpeak 3</li>
-  <li class="collection-item"><a class="collection-link" href="/material/download/navkb6.zip">The KXWERTY Keyboard [ZIP]</a><br>KXWERTY keyboard layout for Windows / Mac</li>
-  <li class="collection-item"><a class="collection-link" href="/material/generate.php">Na&#39;vi Name Generator</a><br>Generates valid names</li>
+    <li class="collection-item"><a class="collection-link" href="/material/download/ts3_Client_LN_Sound_Pack-0.2.zip">Mokri mì TS3 [ZIP]</a><br>Vefya mokriyä lì'fyayä leNa&#39;vi mì TeamSpeak 3</li>
+  <li class="collection-item"><a class="collection-link" href="/material/download/navkb6.zip">KXWERTYä srey sä'oä pamrelä fpi eltu lefngap [ZIP]</a><br> Saryuru eltuä lefngap srey alu Windows / Mac</li>
+  <li class="collection-item"><a class="collection-link" href="/material/generate.php">Ngopyu Tstxoä leNa'vi</a><br>Eyawra aystxot ngop</li>
   <!-- <li class="collection-item"><a class="collection-link" href="/material/img">images folder</a><br>Bunch of old memes and comics and whatnot, some Na&#39;vi-related</li> -->
 </ul>
 <?php include "../res/themebottom.php" ?>
