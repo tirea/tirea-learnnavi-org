@@ -1,6 +1,6 @@
 <?php include "res/themetop.php" ?>
   <div class="titlename">
-    Na&#39;vi Sounds
+    Ayfam leNa&#39;vi
   </div>
 
   <p><span class="navi">Kaltxì</span> ma frapo! Fìtsengìl nga' famrelvit,
@@ -67,7 +67,7 @@
   </ul>
 
   <ul class="collection with-header">
-    <li class="collection-header"><h4>Ep'anga pam lepay</h4></li>
+    <li class="collection-header"><h4>Ep'anga fam lepay</h4></li>
     <li class="collection-item">
       <div>aw [aw]
         <a id="play_aw" class="secondary-content amber-text">
@@ -99,7 +99,7 @@
   </ul>
 
   <ul class="collection with-header">
-    <li class="collection-header"><h4>Pam a fmi livu lepay</h4></li>
+    <li class="collection-header"><h4>Mefam a fmi livu lepay</h4></li>
     <li class="collection-item">
       <div>ll [ḷ]
         <a id="play_ll" class="secondary-content amber-text">
