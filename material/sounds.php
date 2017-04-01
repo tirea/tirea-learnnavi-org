@@ -3,14 +3,14 @@
     Na&#39;vi Sounds
   </div>
 
-  <p><span class="navi">Kaltxì</span> ma frapo! This page contains the letters,
-    the corresponding International Phonetics Alphabet (IPA) characters and recordings
-    of the sounds of the Na&#39;vi language. So to practice your pronunciation,
-    click the play button and listen, then try to go along and such.
+  <p><span class="navi">Kaltxì</span> ma frapo! Fìtsengìl nga' famrelvit,
+    feyä lì'upamit fa pamrelvi Snapamrelviä Lì'upamä Aylì'fyayä sì lì'upamit
+    lì'fyayä leNa&#39;vi fa mokri. Ha fte tsan'ivul ngeyä lì'upam,
+    kä'ivärìp yo'kot ulte tivìng mikyun, tsakrr fmivi pivlltxe tsapamit.
   </p>
 
   <ul class="collection with-header">
-    <li class="collection-header"><h4>Vowels</h4></li>
+    <li class="collection-header"><h4>Fam lepay</h4></li>
     <li class="collection-item">
       <div>a [a]
         <a id="play_a" class="secondary-content amber-text">
@@ -67,7 +67,7 @@
   </ul>
 
   <ul class="collection with-header">
-    <li class="collection-header"><h4>Diphthongs</h4></li>
+    <li class="collection-header"><h4>Ep'anga pam lepay</h4></li>
     <li class="collection-item">
       <div>aw [aw]
         <a id="play_aw" class="secondary-content amber-text">
@@ -99,7 +99,7 @@
   </ul>
 
   <ul class="collection with-header">
-    <li class="collection-header"><h4>Pseudovowels</h4></li>
+    <li class="collection-header"><h4>Pam a fmi livu lepay</h4></li>
     <li class="collection-item">
       <div>ll [ḷ]
         <a id="play_ll" class="secondary-content amber-text">
@@ -117,7 +117,7 @@
   </ul>
 
   <ul class="collection with-header">
-    <li class="collection-header"><h4>Consonants</h4></li>
+    <li class="collection-header"><h4>Fam a na tskxe</h4></li>
     <li class="collection-item">
       <div>' [&#660;]
         <a id="play_tihftang" class="secondary-content amber-text">
