@@ -39,7 +39,7 @@
 				<span class="red-text">ayfkxenit</span> yom <span class="blue-text">aysutel</span>
 			</strong>.
 		</blockquote>
-		<p>a fìme'uri ral lu teng. Tafral melì'fyaviru alu</p>
+		<p>a mefì'uri ral lu teng. Tafral melì'fyaviru alu</p>
 		<blockquote>
 			<strong>
 				<span class="blue-text">ayfkxenìl</span> yom <span class="red-text">aysuteti</span>
