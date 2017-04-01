@@ -1,6 +1,6 @@
 <?php include "res/themetop.php" ?>
 
-  <div class="titlename">Links</div>
+  <div class="titlename">Aysätare</div>
 
   <ul class="collection with-header">
     <li class="collection-header"><h4>Wepseng a lu sìltsan</h4></li>
