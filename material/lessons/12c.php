@@ -1,16 +1,16 @@
 <?php include "../res/themetop.php" ?>
 <!-- DOn't forget to delete one of the "../" -->
 
-  <div class="titlename">Lesson Twelve: -ing in Na&#39;vi</div>
+  <div class="titlename">Sänumvi avosìve: -ing slu nìNa&#39;vi</div>
   <br><br>
 
 	<!-- lesson content -->
 	<p>
-		<span class="navword">Kaltxì</span> nìmun! This time I wanna talk about the three different ways to say -ing in Na&#39;vi. <img src="img/smiley.gif"/>
+		<span class="navword">Kaltxì</span> nìmun! Fìkrr oe new livawk pxefya'ot a slu -ing nìNa&#39;vi. <img src="img/smiley.gif"/>
 	</p>
-	<p>In English, we use the same -ing ending in at least three different ways. In Na&#39;vi, all three of those translate to three different ways instead of using the same one.</p>
+	<p>Flltxeyul le'Ìnglìsì sar tenga tsatì'i'at alu -ing fa pxefa'o aketeng. Lì'fyari leNa'vi, ral slu nìfya'o apxey tup nìfya'o a'aw.</p>
 	<p>
-		<u>In English</u>, the three main uses for -ing are as in the following examples:
+		<u>Nì'Ìnglìsì</u>, fìpxesìkenongìl wìntxu fìpxefya'ot:
 	</p>
 	<ol class="lindent">
 		<li>
@@ -30,7 +30,7 @@
 		</li>
 	</ol>
 	<p>
-		<u>In Na&#39;vi</u>, these same three are:
+		<u>NìNa&#39;vi</u> slu:
 	</p>
 	<ol class="lindent">
 		<li>
@@ -50,15 +50,15 @@
 		</li>
 	</ol>
 	<p>
-		In 1, we use the position 1 infix <span class="red-text">er</span> to show that "hunt" is an ongoing action, "hunting". Note that <span class="red-text">er</span> already has the meaning of "<span class="red-text">am/is/are</span> do<span class="red-text">ing</span>" built right in. So it&#39;s redundant and incorrect to say stuff like *Po lu teraron.<br  />
+		Mì melì'fyavi a'awve, fkol sar kemlì'uvit alu <span class="red-text">er</span> fte wivìntxu futa taron afì'u lu kem a mi len, "teraron". Tsiveri futa kemlì'uviri alu <span class="red-text">er</span> ral li slu nì'Ìnglìsì "<span class="red-text">am/is/are</span> do<span class="red-text">ing</span>". Ha ke lu eyawr fwa piveng fayluta *Po lu teraron fu *Po lu taron.<br  />
 		<br  />
-		In 2, the infix <span class="lime-text">us</span> is used. <span class="lime-text">us</span> is another position 1 infix, but instead of making a verb ongoing, it turns it into an adjective! T<span class="lime-text">us</span>aron<span class="yellow-text">a</span> palulukan, "a hunt<span class="lime-text">ing</span> thanator" -- "hunt<span class="lime-text">ing</span>" is an <em>adjective</em> describing the thanator, rather than saying "the thanator <span class="red-text">is</span> hunt<span class="red-text">ing</span>", which would use <span class="red-text">er</span>. Note that because the verb has been turned into an adjective, you must use -<span class="ygold">a</span>- with it. Also, <span class="lime-text">us</span> adjectives cannot be used with lu, as in *Po lu tusaron. You must say that as Po t<span class="red-text">er</span>aron, "he <span class="red-text">is</span> hunt<span class="red-text">ing</span>."<br  />
+		Mì melì'fyavi amuve, fkol sar kemlì'uvit alu <span class="lime-text">us</span>. <span class="lime-text">us</span> lu na pum aham, slä fa tsaw kemlì'u tsun slivu lì'u a sla'tsu! T<span class="lime-text">us</span>aron<span class="yellow-text">a</span> palulukanìri lì'ul alu t<span class="lime-text">us</span>aron sla'tsu palulukanit, tup fwa plltxe san "palulukan t<span class="red-text">er</span>aron" sìk. Tsiveri futa kemlì'u slamu ne lì'u a sla'tsu, ha aynga zene sivung lì'uvit alu -<span class="ygold">a</span>-. Kop, aynga ke tsun sivar fìfnelì'ut a sla'tsu hu kemlì'u alu lu, natkenong *Po lu tusaron. Tsakrr nga zene pivlltxe san Po t<span class="red-text">er</span>aron sìk."<br  />
 		<br  />
-		In 3, we have taken the <span class="lime-text">us</span> form, and added the <span class="blue-text">tì</span>- prefix to make it into a noun. You can add <span class="blue-text">tì</span>- and <span class="lime-text">us</span> to any verb to make it mean "(<span class="blue-text">the activity</span> of) verb-ing". <span class="blue-text">Tì</span>t<span class="lime-text">us</span>aron lu &#39;o&#39;. (<span class="blue-text">the activity</span> of) hunting is fun.
+		Mì melì'fyavi apxeyve, fkol sar kemlì'uvit alu <span class="lime-text">us</span> ulte sung lì'tsyìpit alu <span class="blue-text">tì</span>- mì sngä'itseng fte sleykivu tstxolì'ut. Pxefì'ut nga tsun sivung ne kemlì'u aketsran ulte ral layu "(<span class="blue-text">kem</span>) a [kemlì'u]". Natkenong: <span class="blue-text">Tì</span>t<span class="lime-text">us</span>aron lu &#39;o&#39;.
 	</p>
-	<p>Hope this clears things up.</p>
+	<p>Oe sìlpey tsnì ngaru slolu law.</p>
 	<p>Hayalovay!</p>
-	<p>Edits provided by @NeytiriTeTskaha 11-Mar-2015</p>
+	<p>Sìlatem ta @NeytiriTeTskaha 11-Mar-2015</p>
 	<br  />
 
 <?php include "../res/themebottom.php" ?>
