@@ -1,6 +1,6 @@
 <?php include "../res/themetop.php" ?>
 
-        <div class="titlename">Na'vi Language Lessons</div>
+        <div class="titlename">Sänume Lì'fyayä</div>
         <br><br>
 
         <!-- <h1>Conversational Lessons</h1>
@@ -11,15 +11,13 @@
           <li class="collection-item"><a class="collection-link" href="02.php">What are you doing?</a></li>
         </ul> -->
 
-        <h1>Simplified Grammar Lessons</h1>
-
-				<p>While I'm working on new content and the back end of this website, here are the classic lessons. Tried and true over the years, and now back by popular demand.</p>
+        <h1>Fyina Aysänumvi Ve'oä leLì'fya</h1>
 
         <ul class="collection with-header">
         	<!-- <li class="collection-header"><h4>Intro to Na'vi Grammar</h4></li> -->
           <!-- <li class="collection-item"><a class="collection-link" href="01g.php">Word Order &amp; Simple Sentences</a></li> -->
 					<!-- old lessons -->
-					<li class="collection-header"><h4>Classic Tirea Na'vi Lessons</h4></li>
+					<li class="collection-header"><h4>Lala Aysänumvi a ta Tirea Na'vi</h4></li>
 					<li class="collection-item"><a class="collection-link" href="01c.php">01: Order, -l &amp; -t</a></li>
 					<li class="collection-item"><a class="collection-link" href="02c.php">02: Past and Future</a></li>
 					<li class="collection-item"><a class="collection-link" href="03c.php">03: Have, Plurals, Changes</a></li>
