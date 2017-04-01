@@ -1,6 +1,6 @@
 <?php include "res/themetop.php" ?>
   <div class="titlename">
-    Na&#39;vi Sounds
+    Ayfam leNa&#39;vi
   </div>
 
   <p><span class="navi">Kaltxì</span> ma frapo! Fìtsengìl nga' famrelvit,
