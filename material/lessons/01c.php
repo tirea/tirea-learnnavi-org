@@ -52,7 +52,7 @@
 			</strong>.
 		</blockquote>
 		<p>lu tenga ral slä fìmelì'fyavi sì tsìnga lì'fyavi aham lu keteng.</p>
-		<h2>Some Stuff</h2>
+		<h2>Ayu</h2>
 		<p>Ayngal tsoleri tsata leNa&#39;via aylì'u lu:</p>
 		<ul class="nobullets">
 			<li>
