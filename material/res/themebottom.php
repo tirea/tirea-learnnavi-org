@@ -22,8 +22,8 @@
     respective owners.<br />
     <b>'Ivong Na'vi!</b>
   </div>
-  <script src="/material/res/jquery.min.js"></script>
-  <script src="/material/res/materialize.min.js"></script>
+  <script src="/old/material/res/jquery.min.js"></script>
+  <script src="/old/material/res/materialize.min.js"></script>
   <script>
     $( document ).ready(function(){
       $(".button-collapse").sideNav();
