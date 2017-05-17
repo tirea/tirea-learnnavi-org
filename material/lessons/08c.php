@@ -338,7 +338,7 @@
 		</li>
 	</ol>
 	<p>Notice the mood here. It&#39;s not hard fact, but more like wishing or expressing hope. That&#39;s what iv is all about when it&#39;s not required by grammar.</p>
-	<p>Popular phrases, examples 15 and 16, have parts left out. It&#39;s like in English when you say "Good night", you are leaving off "Have a" or "I hope that you have a"</p>
+	<p>Popular phrases, examples 16 and 17, have parts left out. It&#39;s like in English when you say "Good night", you are leaving off "Have a" or "I hope that you have a"</p>
 	<p>
 		<em>
 			Update 11-Mar-2015 to include <strong>sto</strong> (<em>to refuse</em>)
